@@ -1,0 +1,116 @@
+[
+    {
+        "date": "2026-03-18",
+        "title": "La vitesse de la lumière ralentit… en quelque sorte",
+        "summary": "En 1999, une physicienne a ralenti la lumière à seulement 17 mètres par seconde — puis l'a complètement arrêtée deux ans plus tard. Même la limite de vitesse de l'univers plie dans les bonnes conditions.",
+        "body": "La lumière se déplace à 299 792 458 mètres par seconde dans le vide — mais dans la vie quotidienne, elle ne traverse jamais un vide parfait. En passant à travers le verre, l'eau ou même l'air, les photons sont absorbés et réémis par les atomes, ralentissant effectivement leur parcours. En 1999, la physicienne Lene Hau a ralenti la lumière à seulement 17 mètres par seconde en utilisant un gaz de sodium ultra-froid appelé condensat de Bose-Einstein. Deux ans plus tard, elle l'a complètement arrêtée. Ces expériences ont ouvert de nouvelles portes dans l'informatique quantique et le stockage de données, prouvant que même la limite de vitesse de l'univers peut être contournée.",
+        "image": "https://picsum.photos/seed/lightspeed/480/480",
+        "category": "science",
+        "references": [
+            {
+                "label": "Nature",
+                "url": "https://www.nature.com/articles/nphys"
+            }
+        ]
+    },
+    {
+        "date": "2026-03-19",
+        "title": "La chute de Constantinople",
+        "summary": "Un seul jour en 1453 a mis fin à un empire vieux de 1 100 ans, envoyé des textes anciens en Europe et déclenché la Renaissance. Le Moyen Âge est mort aux murs de Constantinople.",
+        "body": "Le 29 mai 1453, le sultan Mehmed II a percé les murs de Constantinople, mettant fin à l'Empire byzantin vieux de 1 100 ans et remodelant le monde. Les Ottomans ont déployé un canon massif conçu par un ingénieur hongrois nommé Orban — si grand qu'il fallait 60 bœufs et 200 hommes pour le transporter. La chute a envoyé des érudits grecs fuir vers l'ouest, emportant des textes anciens qui ont contribué à déclencher la Renaissance. La ville a été renommée Istanbul et est devenue le joyau de l'Empire ottoman. Les historiens citent souvent cette seule journée comme la véritable fin du Moyen Âge.",
+        "image": "https://picsum.photos/seed/constantinople/480/480",
+        "category": "history",
+        "references": [
+            {
+                "label": "Britannica",
+                "url": "https://www.britannica.com/event/Fall-of-Constantinople-1453"
+            }
+        ]
+    },
+    {
+        "date": "2026-03-20",
+        "title": "Les corbeaux n'oublient jamais un visage",
+        "summary": "Les corbeaux reconnaissent les visages humains pendant des années — et ils gardent rancune. Si vous offensez un corbeau, toute sa communauté s'en souviendra.",
+        "body": "Des chercheurs de l'Université de Washington ont découvert que les corbeaux d'Amérique peuvent reconnaître et mémoriser des visages humains individuels pendant des années. Dans des expériences, des scientifiques portant des masques spécifiques ont capturé et bagué des corbeaux. Des mois plus tard, les corbeaux harcelaient et plongeaient sur quiconque portait ce masque — même des personnes que les oiseaux n'avaient jamais rencontrées. La rancune s'est propagée socialement : les corbeaux qui n'avaient pas été capturés mais avaient été témoins de l'événement ont aussi appris à attaquer le visage menaçant. Des scanners cérébraux ont révélé que les corbeaux traitent les visages dans une région analogue à l'aire fusiforme des visages chez l'humain.",
+        "image": "https://picsum.photos/seed/crows/480/480",
+        "category": "nature",
+        "references": [
+            {
+                "label": "Université de Washington",
+                "url": "https://www.washington.edu/news/2012/09/10/crows-react-to-threats-in-human-like-way/"
+            }
+        ]
+    },
+    {
+        "date": "2026-03-21",
+        "title": "L'effet de la porte",
+        "summary": "Traverser une porte réinitialise littéralement votre mémoire. Votre cerveau archive les pensées de l'ancienne pièce et ouvre un espace de travail vierge — même dans des environnements virtuels.",
+        "body": "Vous êtes déjà entré dans une pièce et avez immédiatement oublié pourquoi vous y étiez allé ? Les psychologues appellent cela « l'effet de la porte ». Les recherches de Gabriel Radvansky à l'Université de Notre Dame ont montré que passer une porte crée une « frontière événementielle » dans l'esprit. Votre cerveau archive les pensées associées à la pièce précédente et ouvre un nouvel espace mental pour la nouvelle. L'effet persiste même dans les environnements virtuels — les sujets testés oubliaient plus d'éléments après avoir traversé une porte virtuelle qu'après avoir parcouru la même distance dans une seule pièce.",
+        "category": "psychology",
+        "references": [
+            {
+                "label": "Quarterly Journal of Experimental Psychology",
+                "url": "https://journals.sagepub.com/doi/10.1080/17470218.2011.571267"
+            }
+        ]
+    },
+    {
+        "date": "2026-03-22",
+        "title": "La langue sans mot pour la guerre",
+        "summary": "Une tribu d'Amazonie parle une langue sans nombres, sans passé et sans futur. Ils vivent entièrement dans le moment présent.",
+        "body": "Le peuple Pirahã de l'Amazonie brésilienne parle une langue qui a déconcerté les linguistes pendant des décennies. Elle n'a pas de nombres, pas de termes de couleur, pas de concept de gauche et droite, et pas de mythes de création. Le linguiste Daniel Everett, qui a vécu avec la tribu pendant des années, affirme qu'elle manque aussi de récursivité — la capacité d'imbriquer des phrases dans des phrases — ce que Noam Chomsky avait soutenu être une caractéristique universelle de toutes les langues humaines. Les Pirahã vivent entièrement dans le présent : ils n'ont ni passé ni futur. Leur langue reflète une vision du monde centrée exclusivement sur l'expérience immédiate et directe.",
+        "image": "https://picsum.photos/seed/piraha/480/480",
+        "category": "culture",
+        "references": [
+            {
+                "label": "The New Yorker",
+                "url": "https://www.newyorker.com/magazine/2007/04/16/the-interpreter-2"
+            }
+        ]
+    },
+    {
+        "date": "2026-03-23",
+        "title": "Le nombre qui brise les probabilités",
+        "summary": "Dans une pièce de seulement 23 personnes, il y a plus de 50% de chances que deux partagent un anniversaire. Avec 70 personnes, c'est 99,9%. Votre intuition vous ment.",
+        "body": "Dans un groupe de seulement 23 personnes, il y a plus de 50% de chances que deux d'entre elles partagent la même date d'anniversaire. Avec 70 personnes, la probabilité dépasse 99,9%. C'est le paradoxe des anniversaires — et il semble impossible parce que nous comparons instinctivement une personne à toutes les autres, plutôt que de considérer chaque paire possible. Avec 23 personnes, il y a 253 paires uniques, chacune une chance indépendante de correspondance. Le paradoxe a des applications réelles : il explique pourquoi les collisions de hachage cryptographique sont plus fréquentes que prévu.",
+        "category": "numbers",
+        "references": [
+            {
+                "label": "Scientific American",
+                "url": "https://www.scientificamerican.com/article/bring-science-home-probability-birthday-paradox/"
+            }
+        ]
+    },
+    {
+        "date": "2026-03-24",
+        "title": "Le miel ne se gâte jamais",
+        "summary": "Des archéologues ont trouvé du miel vieux de 3 000 ans dans des tombes égyptiennes — encore parfaitement comestible. Les abeilles ont créé l'un des conservateurs les plus parfaits de la nature.",
+        "body": "Des archéologues ont trouvé des pots de miel vieux de 3 000 ans dans des tombes égyptiennes, encore parfaitement comestibles. La durée de conservation quasi éternelle du miel provient d'une combinaison remarquable de facteurs : sa faible teneur en eau (environ 17%) prive les bactéries d'humidité, sa forte concentration en sucre crée une pression osmotique qui fait éclater les cellules microbiennes, et l'enzyme glucose oxydase — ajoutée par les abeilles pendant la production — génère de petites quantités de peroxyde d'hydrogène. De plus, le miel est naturellement acide, avec un pH entre 3 et 4,5. Ensemble, ces propriétés créent un environnement où presque rien ne peut pousser.",
+        "image": "https://picsum.photos/seed/honey/480/480",
+        "category": "diverse",
+        "references": [
+            {
+                "label": "Smithsonian",
+                "url": "https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/"
+            }
+        ]
+    },
+    {
+        "date": "default",
+        "title": "Le poids d'un nuage",
+        "summary": "Un seul nuage pèse autant que 100 éléphants. Il flotte quand même — car le poids seul ne détermine pas si quelque chose monte ou descend.",
+        "body": "Un nuage cumulus moyen pèse environ 500 000 kilogrammes — à peu près le poids de 100 éléphants. Malgré cette masse stupéfiante, les nuages flottent car leurs gouttelettes d'eau sont réparties sur un volume immense, rendant la densité bien inférieure à celle de l'air sec environnant. Les courants ascendants d'air chaud en dessous fournissent une portance continue. C'est un beau rappel que le poids seul ne détermine pas si quelque chose monte ou descend — la distribution et l'environnement comptent tout autant.",
+        "image": "https://picsum.photos/seed/clouds/480/480",
+        "category": "diverse",
+        "references": [
+            {
+                "label": "NOAA",
+                "url": "https://www.noaa.gov/education"
+            },
+            {
+                "label": "National Geographic",
+                "url": "https://www.nationalgeographic.com/science/article/clouds"
+            }
+        ]
+    }
+]

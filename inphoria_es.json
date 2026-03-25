@@ -1,0 +1,116 @@
+[
+    {
+        "date": "2026-03-18",
+        "title": "The Speed of Light Is Slowing Down… Sort Of",
+        "summary": "In 1999, a physicist slowed light to just 17 metres per second — and two years later, stopped it entirely. Even the universe's speed limit bends under the right conditions.",
+        "body": "Light travels at 299,792,458 metres per second in a vacuum — but it never actually travels through a perfect vacuum in everyday life. When passing through glass, water, or even air, photons are absorbed and re-emitted by atoms, effectively slowing their journey. In 1999, physicist Lene Hau famously slowed light to just 17 metres per second using an ultracold sodium gas called a Bose-Einstein condensate. Two years later, she stopped it entirely. These experiments opened new doors in quantum computing and data storage, proving that even the universe's speed limit can be bent with the right conditions.",
+        "image": "https://picsum.photos/seed/lightspeed/480/480",
+        "category": "science",
+        "references": [
+            {
+                "label": "Nature",
+                "url": "https://www.nature.com/articles/nphys trackball"
+            }
+        ]
+    },
+    {
+        "date": "2026-03-19",
+        "title": "The Fall of Constantinople",
+        "summary": "A single day in 1453 ended an 1,100-year empire, sent ancient texts flooding into Europe, and ignited the Renaissance. The Middle Ages died at the walls of Constantinople.",
+        "body": "On May 29, 1453, Sultan Mehmed II breached the walls of Constantinople, ending the 1,100-year-old Byzantine Empire and reshaping the world. The Ottomans deployed a massive cannon designed by a Hungarian engineer named Orban — it was so large it required 60 oxen and 200 men to transport. The fall sent Greek scholars fleeing westward, carrying ancient texts that helped ignite the Renaissance. The city was renamed Istanbul and became the jewel of the Ottoman Empire. Historians often cite this single day as the true end of the Middle Ages.",
+        "image": "https://picsum.photos/seed/constantinople/480/480",
+        "category": "history",
+        "references": [
+            {
+                "label": "Britannica",
+                "url": "https://www.britannica.com/event/Fall-of-Constantinople-1453"
+            }
+        ]
+    },
+    {
+        "date": "2026-03-20",
+        "title": "Crows Never Forget a Face",
+        "summary": "Crows recognise individual human faces for years — and they hold grudges. If you wrong one crow, its entire community will remember you.",
+        "body": "Researchers at the University of Washington discovered that American crows can recognise and remember individual human faces for years. In experiments, scientists wearing specific masks captured and banded crows. Months later, crows would scold and dive-bomb anyone wearing that mask — even people the birds had never encountered before. The grudge spread socially: crows who hadn't been captured but witnessed the event also learned to mob the threatening face. Brain scans revealed that crows process faces in a region analogous to the human fusiform face area, suggesting convergent evolution of facial recognition across vastly different brains.",
+        "image": "https://picsum.photos/seed/crows/480/480",
+        "category": "nature",
+        "references": [
+            {
+                "label": "University of Washington",
+                "url": "https://www.washington.edu/news/2012/09/10/crows-react-to-threats-in-human-like-way/"
+            }
+        ]
+    },
+    {
+        "date": "2026-03-21",
+        "title": "The Doorway Effect",
+        "summary": "Walking through a doorway literally resets your memory. Your brain files away the old room's thoughts and opens a fresh workspace — even in virtual environments.",
+        "body": "Ever walked into a room and immediately forgotten why you went there? Psychologists call this the 'doorway effect.' Research by Gabriel Radvansky at the University of Notre Dame showed that passing through a doorway creates an 'event boundary' in the mind. Your brain files away the thoughts associated with the previous room and opens a fresh mental workspace for the new one. The effect persists even in virtual environments — test subjects forgot more items after walking through a virtual doorway than after crossing the same distance in a single room. Your architecture is literally reshaping your memory.",
+        "category": "psychology",
+        "references": [
+            {
+                "label": "Quarterly Journal of Experimental Psychology",
+                "url": "https://journals.sagepub.com/doi/10.1080/17470218.2011.571267"
+            }
+        ]
+    },
+    {
+        "date": "2026-03-22",
+        "title": "The Language With No Word for War",
+        "summary": "A tribe in the Amazon speaks a language with no numbers, no past tense, and no future tense. They live entirely in the present moment.",
+        "body": "The Pirahã people of the Brazilian Amazon speak a language that has baffled linguists for decades. It has no numbers, no colour terms, no concept of left and right, and no creation myths. Linguist Daniel Everett, who lived with the tribe for years, claims it also lacks recursion — the ability to nest sentences within sentences — which Noam Chomsky had argued was a universal feature of all human languages. The Pirahã live entirely in the present: they have no past tense and no future tense. Their language reflects a worldview focused exclusively on immediate, firsthand experience.",
+        "image": "https://picsum.photos/seed/piraha/480/480",
+        "category": "culture",
+        "references": [
+            {
+                "label": "The New Yorker",
+                "url": "https://www.newyorker.com/magazine/2007/04/16/the-interpreter-2"
+            }
+        ]
+    },
+    {
+        "date": "2026-03-23",
+        "title": "The Number That Breaks Probability",
+        "summary": "In a room of just 23 people, there's a better than 50% chance two share a birthday. With 70 people, it's 99.9%. Your intuition is lying to you.",
+        "body": "In any group of just 23 people, there is a greater than 50% chance that two of them share a birthday. By 70 people, the probability exceeds 99.9%. This is the Birthday Paradox — and it feels impossible because we instinctively compare one person against all others, rather than considering every possible pair. With 23 people there are 253 unique pairs, each an independent chance for a match. The paradox has real-world applications: it explains why cryptographic hash collisions are more common than expected, and why seemingly 'unique' identifiers aren't as safe as they appear.",
+        "category": "numbers",
+        "references": [
+            {
+                "label": "Scientific American",
+                "url": "https://www.scientificamerican.com/article/bring-science-home-probability-birthday-paradox/"
+            }
+        ]
+    },
+    {
+        "date": "2026-03-24",
+        "title": "Honey Never Spoils",
+        "summary": "Archaeologists found 3,000-year-old honey in Egyptian tombs — still perfectly edible. Bees engineered one of nature's most perfect preservatives.",
+        "body": "Archaeologists have found 3,000-year-old pots of honey in Egyptian tombs that were still perfectly edible. Honey's near-eternal shelf life comes from a remarkable combination of factors: its low water content (around 17%) starves bacteria of moisture, its high sugar concentration creates osmotic pressure that bursts microbial cells, and the enzyme glucose oxidase — added by bees during production — generates small amounts of hydrogen peroxide. On top of that, honey is naturally acidic, with a pH between 3 and 4.5. Together, these properties create an environment where almost nothing can grow, making honey one of nature's most perfect preservatives.",
+        "image": "https://picsum.photos/seed/honey/480/480",
+        "category": "diverse",
+        "references": [
+            {
+                "label": "Smithsonian",
+                "url": "https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/"
+            }
+        ]
+    },
+    {
+        "date": "default",
+        "title": "The Weight of a Cloud",
+        "summary": "A single cloud weighs as much as 100 elephants. It floats anyway — because weight alone doesn't determine whether something rises or falls.",
+        "body": "An average cumulus cloud weighs around 500,000 kilograms — roughly the same as 100 elephants. Despite this staggering mass, clouds float because their water droplets are spread across a vast volume, making the density far lower than the surrounding dry air. The updrafts of warm air beneath them provide continuous lift. It's a beautiful reminder that weight alone doesn't determine whether something rises or falls — distribution and environment matter just as much.",
+        "image": "https://picsum.photos/seed/clouds/480/480",
+        "category": "diverse",
+        "references": [
+            {
+                "label": "NOAA",
+                "url": "https://www.noaa.gov/education"
+            },
+            {
+                "label": "National Geographic",
+                "url": "https://www.nationalgeographic.com/science/article/clouds"
+            }
+        ]
+    }
+]
