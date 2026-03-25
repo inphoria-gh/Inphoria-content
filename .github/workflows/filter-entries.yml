@@ -1,0 +1,71 @@
+name: Filter Future Entries
+
+on:
+  push:
+    branches: [source]
+  schedule:
+    # Runs every day at 00:05 UTC
+    - cron: '5 0 * * *'
+  workflow_dispatch: # Manual trigger
+
+jobs:
+  filter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source branch
+        uses: actions/checkout@v4
+        with:
+          ref: source
+          fetch-depth: 0
+
+      - name: Filter entries to tomorrow max
+        run: |
+          TOMORROW=$(date -u -d "+1 day" +%Y-%m-%d)
+          echo "Filtering entries up to: $TOMORROW"
+
+          for file in inphoria*.json; do
+            if [ -f "$file" ]; then
+              echo "Processing $file"
+              python3 -c "
+          import json, sys
+
+          tomorrow = '$TOMORROW'
+
+          with open('$file', 'r') as f:
+              entries = json.load(f)
+
+          filtered = [e for e in entries if e.get('date', '') <= tomorrow or e.get('date', '') == 'default']
+
+          print(f'  {len(entries)} entries -> {len(filtered)} entries (up to {tomorrow})')
+
+          with open('$file', 'w') as f:
+              json.dump(filtered, f, indent=2, ensure_ascii=False)
+          "
+            fi
+          done
+
+      - name: Copy non-JSON files
+        run: |
+          echo "JSON files filtered successfully"
+
+      - name: Push to main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Switch to main, keeping filtered files
+          git stash
+          git checkout main
+          git stash pop || true
+
+          # Copy filtered JSON files and other assets
+          git checkout source -- privacy.html README.md LICENSE 2>/dev/null || true
+
+          git add -A
+
+          if git diff --cached --quiet; then
+            echo "No changes to push"
+          else
+            git commit -m "Update filtered entries for $(date -u +%Y-%m-%d)"
+            git push origin main
+          fi
