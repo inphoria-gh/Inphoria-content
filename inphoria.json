@@ -97,24 +97,6 @@
     },
     {
         "date": "2026-03-25",
-        "title": "Your Brain Rewires Itself While You Sleep",
-        "summary": "Every night, your brain replays the day's events at 20× speed, strengthening useful memories and pruning the rest. Sleep isn't rest — it's renovation.",
-        "body": "While you sleep, your brain is far from idle. During deep sleep, neurons replay the day's experiences at up to 20 times their original speed — a process called memory consolidation. The hippocampus transfers important memories to the neocortex for long-term storage, while synapses that weren't reinforced during the day are pruned away in a process called synaptic homeostasis. This nightly 'housekeeping' is why pulling an all-nighter before an exam backfires: without sleep, newly learned information never makes it into long-term storage. Studies show that a 90-minute nap after learning improves recall by 20%. Your brain treats sleep not as rest, but as its most critical work session.",
-        "image": "https://picsum.photos/seed/brainsleep/480/480",
-        "category": "science",
-        "references": [
-            {
-                "label": "Nature Neuroscience",
-                "url": "https://www.nature.com/articles/nn.2762"
-            },
-            {
-                "label": "Walker, Why We Sleep",
-                "url": "https://www.simonandschuster.com/books/Why-We-Sleep/Matthew-Walker/9781501144325"
-            }
-        ]
-    },
-    {
-        "date": "default",
         "title": "The Weight of a Cloud",
         "summary": "A single cloud weighs as much as 100 elephants. It floats anyway — because weight alone doesn't determine whether something rises or falls.",
         "body": "An average cumulus cloud weighs around 500,000 kilograms — roughly the same as 100 elephants. Despite this staggering mass, clouds float because their water droplets are spread across a vast volume, making the density far lower than the surrounding dry air. The updrafts of warm air beneath them provide continuous lift. It's a beautiful reminder that weight alone doesn't determine whether something rises or falls — distribution and environment matter just as much.",
