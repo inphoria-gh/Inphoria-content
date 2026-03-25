@@ -22,7 +22,7 @@
         "title": "Oxford est plus ancienne que l'Empire aztèque",
         "summary": "L'enseignement a commencé à Oxford dès 1096. L'Empire aztèque n'a été fondé qu'en 1428. Oxford donnait des cours depuis plus de trois siècles quand Tenochtitlan est née.",
         "body": "L'Université d'Oxford a commencé à dispenser des cours dès 1096, ce qui en fait l'une des plus anciennes universités du monde occidental. L'Empire aztèque, lui, n'a été fondé qu'en 1428 avec la Triple Alliance de Tenochtitlan, Texcoco et Tlacopan. Quand les Aztèques posaient les fondations de leur civilisation, Oxford formait des étudiants depuis plus de trois siècles.\n\nCe décalage est déroutant parce que notre cerveau range instinctivement les Aztèques dans la catégorie « civilisations anciennes » et Oxford dans celle des « institutions modernes ». En réalité, les Aztèques étaient un empire relativement jeune quand les Espagnols sont arrivés en 1519 — il n'avait même pas un siècle d'existence.\n\nCe genre de comparaison révèle à quel point notre carte mentale de l'histoire est déformée. On imagine les civilisations précolombiennes comme infiniment anciennes parce qu'elles ont disparu, et les institutions européennes comme éternellement jeunes parce qu'elles existent encore. La réalité est plus nuancée : l'histoire n'est pas une ligne droite avec le « vieux » d'un côté et le « nouveau » de l'autre. C'est un enchevêtrement de chronologies qui se chevauchent de manière souvent surprenante.",
-        "image":"https://cdn.britannica.com/03/117103-050-F4C2FC83/view-University-of-Oxford-England-Oxfordshire.jpg",
+        "image": "https://cdn.britannica.com/03/117103-050-F4C2FC83/view-University-of-Oxford-England-Oxfordshire.jpg",
         "category": "history",
         "references": [
             {
@@ -44,7 +44,7 @@
         "title": "Le miel ne périme jamais",
         "summary": "Des archéologues ont trouvé du miel vieux de 3 000 ans dans des tombes égyptiennes — encore parfaitement comestible. Les abeilles ont créé l'un des conservateurs naturels les plus parfaits qui existent.",
         "body": "Des archéologues ont ouvert des tombes égyptiennes vieilles de trois millénaires et y ont trouvé des pots de miel encore parfaitement comestibles. Pas altéré, pas fermenté — comestible. Comment est-ce possible ? La réponse tient dans une combinaison presque miraculeuse de propriétés chimiques.\n\nLe miel contient environ 17% d'eau, ce qui est trop peu pour que les bactéries puissent survivre. Sa concentration en sucre est si élevée qu'elle crée une pression osmotique qui fait littéralement éclater les cellules microbiennes. En prime, les abeilles ajoutent une enzyme, la glucose oxydase, qui produit de petites quantités de peroxyde d'hydrogène — un antiseptique naturel. Le tout baigne dans un pH acide entre 3 et 4,5.\n\nLe miel est donc un environnement dans lequel presque rien de vivant ne peut se développer. C'est un conservateur si parfait que les anciens Égyptiens l'utilisaient aussi pour embaumer les morts et conserver les fruits. Si vous trouvez un vieux pot de miel cristallisé au fond d'un placard, n'hésitez pas : un léger réchauffage au bain-marie et il sera comme neuf.",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Runny_hunny.jpg/500px-Runny_hunny.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Runny_hunny.jpg/500px-Runny_hunny.jpg",
         "category": "nature",
         "references": [
             {
@@ -62,12 +62,12 @@
         "title": "Le nombre de Dunbar : 150 relations maximum",
         "summary": "Vos 2 000 amis Facebook sont une illusion. L'anthropologue Robin Dunbar a démontré que notre cerveau ne peut maintenir que 150 relations sociales stables. Au-delà, il faut des règles et des institutions.",
         "body": "Dans les années 1990, l'anthropologue britannique Robin Dunbar a observé une corrélation entre la taille du néocortex des primates et la taille de leurs groupes sociaux. En extrapolant au cerveau humain, il a estimé que nous ne pouvons maintenir que 150 relations sociales stables — des personnes que vous reconnaîtriez et avec lesquelles vous pourriez avoir une interaction non gênante si vous les croisiez dans un café.\n\nCe nombre de 150 apparaît partout. C'est la taille moyenne d'un village néolithique, d'une compagnie militaire romaine, d'une communauté amish, et de la plupart des entreprises qui fonctionnent sans bureaucratie formelle. Au-delà de 150, les groupes humains ont besoin de hiérarchies, de règles et de normes sociales pour rester cohérents. En dessous, la confiance mutuelle suffit.\n\nÀ l'ère des réseaux sociaux, le nombre de Dunbar est plus pertinent que jamais. Vous pouvez avoir 2 000 « amis » sur Facebook, mais des études montrent que vous n'interagissez régulièrement qu'avec 5 à 15 d'entre eux. Dunbar lui-même distingue des cercles concentriques : 5 relations intimes, 15 amis proches, 50 bons amis, et 150 relations stables. Au-delà, ce ne sont que des connaissances — des visages que votre cerveau n'a tout simplement pas la capacité de gérer.",
-        "image":"https://www.sciencesetavenir.fr/assets/img/2015/08/27/cover-r4x3w1200-57dfa1508d7a0-cerveau.jpg",
+        "image": "https://www.sciencesetavenir.fr/assets/img/2015/08/27/cover-r4x3w1200-57dfa1508d7a0-cerveau.jpg",
         "category": "psychology",
         "references": [
             {
                 "label": "BBC",
-                "url":"https://www.bbc.com/future/article/20191001-dunbars-number-why-we-can-only-maintain-150-relationships"
+                "url": "https://www.bbc.com/future/article/20191001-dunbars-number-why-we-can-only-maintain-150-relationships"
             },
             {
                 "label": "Royal Society Open Science",
@@ -80,7 +80,7 @@
         "title": "Shakespeare a inventé plus de 1 700 mots",
         "summary": "« Eyeball », « lonely », « generous », « assassination » — tous inventés par Shakespeare. Il a créé plus de 1 700 mots anglais, dont beaucoup sont utilisés quotidiennement sans que personne ne le sache.",
         "body": "William Shakespeare n'était pas seulement un dramaturge de génie — c'était aussi un fabricant de mots prolifique. On lui attribue l'invention ou la première utilisation écrite de plus de 1 700 mots anglais : « eyeball » (globe oculaire), « lonely » (solitaire), « generous » (généreux), « assassination » (assassinat), « bedroom » (chambre à coucher), « addiction » (dépendance) et même « swagger » (fanfaronnade).\n\nIl faut nuancer : « inventer » un mot signifie ici qu'il est le premier à l'avoir utilisé par écrit dans un document qui a survécu. Certains de ces mots existaient probablement à l'oral avant lui. Mais sa contribution reste colossale — il a aussi inventé des expressions comme « break the ice » (briser la glace), « wild goose chase » (chasse à l'oie sauvage, devenu « entreprise vaine ») et « heart of gold » (cœur d'or).\n\nCe qui rend Shakespeare unique, ce n'est pas seulement le volume de ses néologismes, mais leur taux de survie. La plupart des mots inventés par un auteur meurent avec lui. Les siens sont devenus si naturels qu'on ne les reconnaît même plus comme des inventions. Le fait que vous puissiez utiliser le mot « lonely » dans une conversation sans penser à Shakespeare est peut-être son plus grand tour de force.",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/William_Shakespeare_by_John_Taylor%2C_edited.jpg/960px-William_Shakespeare_by_John_Taylor%2C_edited.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/William_Shakespeare_by_John_Taylor%2C_edited.jpg/960px-William_Shakespeare_by_John_Taylor%2C_edited.jpg",
         "category": "culture",
         "references": [
             {
@@ -98,7 +98,7 @@
         "title": "Un jour sur Vénus dure plus longtemps que son année",
         "summary": "Vénus met 243 jours terrestres pour tourner sur elle-même, mais seulement 225 jours pour faire le tour du Soleil. Un jour vénusien dure donc plus longtemps qu'une année vénusienne.",
         "body": "Vénus est la planète de tous les paradoxes. Elle met 243 jours terrestres pour effectuer une rotation complète sur son axe, mais seulement 225 jours pour boucler son orbite autour du Soleil. Résultat : un jour vénusien (au sens astronomique) dure plus longtemps qu'une année vénusienne. Si vous fêtiez votre anniversaire sur Vénus, il arriverait avant la fin de votre « journée ».\n\nEt comme si ça ne suffisait pas, Vénus tourne à l'envers. Elle est l'une des deux seules planètes du système solaire (avec Uranus) à avoir une rotation rétrograde : le Soleil s'y lève à l'ouest et se couche à l'est. Les astronomes ne savent toujours pas exactement pourquoi, mais l'hypothèse principale est qu'un impact géant l'a retournée à un moment de son histoire, ou que des effets de marée atmosphérique ont progressivement inversé sa rotation.\n\nMalgré ces bizarreries, Vénus est souvent surnommée la « sœur jumelle » de la Terre en raison de sa taille et de sa masse similaires. Mais les ressemblances s'arrêtent là : sa surface atteint 465°C (assez pour faire fondre le plomb), sa pression atmosphérique est 90 fois celle de la Terre, et son atmosphère est composée à plus de 96% de CO2. C'est un exemple terrifiant de ce que l'effet de serre peut faire quand il s'emballe, une leçon que l'on ferait bien de méditer.",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/PIA23791-Venus-RealAndEnhancedContrastViews-20200608_%28cropped%29.jpg/960px-PIA23791-Venus-RealAndEnhancedContrastViews-20200608_%28cropped%29.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/PIA23791-Venus-RealAndEnhancedContrastViews-20200608_%28cropped%29.jpg/960px-PIA23791-Venus-RealAndEnhancedContrastViews-20200608_%28cropped%29.jpg",
         "category": "numbers",
         "references": [
             {
@@ -107,7 +107,7 @@
             },
             {
                 "label": "CNES",
-                "url":"https://cnes.fr/dossiers/planete-venus"
+                "url": "https://cnes.fr/dossiers/planete-venus"
             }
         ]
     },
@@ -116,7 +116,7 @@
         "title": "Les bananes sont radioactives",
         "summary": "Chaque banane que vous mangez contient du potassium-40, un isotope radioactif. Pas de panique : il faudrait en manger 10 millions d'un coup pour que ça devienne un problème.",
         "body": "La prochaine fois que vous pelez une banane, sachez que vous tenez un fruit légèrement radioactif. Les bananes sont riches en potassium, et environ 0,012% de ce potassium est du potassium-40, un isotope naturellement radioactif. C'est tellement connu en physique nucléaire qu'on a même créé une unité informelle : la « dose équivalente en bananes ».\n\nRassurez-vous, le danger est absolument nul. Votre corps régule en permanence son taux de potassium : quand vous en absorbez davantage, vous en éliminez autant. Il faudrait manger environ 10 millions de bananes d'un seul coup pour recevoir une dose de radiation mortelle. Votre estomac lâcherait bien avant vos cellules.\n\nCe qui est vraiment intéressant, c'est que cette anecdote illustre à quel point la radioactivité est omniprésente dans la nature. Le sol sous vos pieds, le granit de vos murs, même votre propre corps — tout émet un peu de rayonnement. La banane nous rappelle que la radioactivité n'est pas forcément synonyme de danger : c'est une question de dose, et la nature sait très bien gérer les siennes.",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cavendish_Banana_DS.jpg/500px-Cavendish_Banana_DS.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cavendish_Banana_DS.jpg/500px-Cavendish_Banana_DS.jpg",
         "category": "science",
         "references": [
             {
@@ -138,7 +138,7 @@
         "title": "Les pieuvres auraient une main préférée",
         "summary": "Des biologistes marins auraient observé que certaines pieuvres privilégient systématiquement un bras pour explorer, attraper des objets ou manipuler leur environnement. Une forme de latéralisation comparable à notre droitier-gaucher.",
         "body": "On sait déjà que les pieuvres sont parmi les animaux les plus étonnants du règne marin : elles résolvent des problèmes, ouvrent des bocaux, reconnaissent certains humains et semblent parfois faire preuve d'une curiosité presque inquiétante. Il n'aurait donc rien de très absurde d'imaginer qu'elles possèdent aussi une forme de latéralisation — autrement dit, une préférence pour l'usage d'un bras plutôt qu'un autre, un peu comme les humains sont droitiers ou gauchers.\n\nSelon des études récentes, certaines pieuvres utiliseraient plus souvent un même bras pour explorer une cavité, saisir de la nourriture ou manipuler des objets complexes. Les biologistes auraient même remarqué que cette préférence varierait selon les espèces, l'âge de l'animal et peut-être même son tempérament.\n\nPlus étrange encore, les chercheurs auraient soupçonné que les pieuvres stressées deviennent temporairement ambidextres, comme si leur cerveau redistribuait les priorités motrices en situation d'urgence.",
-        "image":"https://s.francaisfacile.rfi.fr/media/display/2d42d018-cfd9-11ed-b7bb-005056a90284/w:1280/p:16x9/b1_fp_poisson_d_avril_iStock-1138136178.jpg",
+        "image": "https://s.francaisfacile.rfi.fr/media/display/2d42d018-cfd9-11ed-b7bb-005056a90284/w:1280/p:16x9/b1_fp_poisson_d_avril_iStock-1138136178.jpg",
         "category": "science",
         "references": [
             {
@@ -152,7 +152,7 @@
         "title": "Les bananes sont radioactives",
         "summary": "Chaque banane que vous mangez contient du potassium-40, un isotope radioactif. Pas de panique : il faudrait en manger 10 millions d'un coup pour que ça devienne un problème.",
         "body": "La prochaine fois que vous pelez une banane, sachez que vous tenez un fruit légèrement radioactif. Les bananes sont riches en potassium, et environ 0,012% de ce potassium est du potassium-40, un isotope naturellement radioactif. C'est tellement connu en physique nucléaire qu'on a même créé une unité informelle : la « dose équivalente en bananes ».\n\nRassurez-vous, le danger est absolument nul. Votre corps régule en permanence son taux de potassium : quand vous en absorbez davantage, vous en éliminez autant. Il faudrait manger environ 10 millions de bananes d'un seul coup pour recevoir une dose de radiation mortelle. Votre estomac lâcherait bien avant vos cellules.\n\nCe qui est vraiment intéressant, c'est que cette anecdote illustre à quel point la radioactivité est omniprésente dans la nature. Le sol sous vos pieds, le granit de vos murs, même votre propre corps — tout émet un peu de rayonnement. La banane nous rappelle que la radioactivité n'est pas forcément synonyme de danger : c'est une question de dose, et la nature sait très bien gérer les siennes.",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cavendish_Banana_DS.jpg/500px-Cavendish_Banana_DS.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cavendish_Banana_DS.jpg/500px-Cavendish_Banana_DS.jpg",
         "category": "science",
         "references": [
             {
@@ -170,7 +170,7 @@
         "title": "Cléopâtre a vécu plus près de l'iPhone que des pyramides",
         "summary": "Cléopâtre est née en 69 av. J.-C. La Grande Pyramide date de 2560 av. J.-C. Elle était déjà vieille de 2 500 ans du temps de Cléopâtre, qui est plus proche de nous dans le temps que des bâtisseurs de pyramides.",
         "body": "Voici un fait qui va recalibrer votre perception de l'histoire : Cléopâtre VII, la dernière reine d'Égypte, est née en 69 avant J.-C. La Grande Pyramide de Gizeh a été construite vers 2560 avant J.-C. Ce qui signifie que les pyramides avaient déjà près de 2 500 ans quand Cléopâtre les regardait — elles étaient aussi anciennes pour elle que Cléopâtre l'est pour nous.\n\nAutrement dit, Cléopâtre vivait chronologiquement plus près du lancement de l'iPhone (2007) que de la construction des pyramides. Le calcul est simple : environ 2 076 ans nous séparent de sa naissance, contre 2 491 ans entre elle et les pyramides. L'Égypte ancienne a duré si longtemps que nous avons tendance à écraser mentalement toute cette histoire en un seul bloc.\n\nCette distorsion est ce que les historiens appellent la compression temporelle. On imagine Cléopâtre et les pharaons bâtisseurs comme des contemporains, alors qu'ils sont séparés par un gouffre temporel vertigineux. Pour mettre les choses en perspective : quand Cléopâtre visitait les pyramides, c'étaient déjà des attractions touristiques antiques, couvertes de graffitis de visiteurs grecs.",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/960px-All_Gizah_Pyramids.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/960px-All_Gizah_Pyramids.jpg",
         "category": "history",
         "references": [
             {
@@ -188,12 +188,12 @@
         "title": "Il y a plus d'arbres sur Terre que d'étoiles dans la Voie lactée",
         "summary": "La Terre abrite environ 3 000 milliards d'arbres, contre 100 à 400 milliards d'étoiles dans notre galaxie. Mais nous en perdons 10 milliards par an — le compteur tourne dans le mauvais sens.",
         "body": "En 2015, une étude publiée dans Nature a stupéfié la communauté scientifique : la Terre abrite environ 3 000 milliards d'arbres. C'est environ huit fois plus que les estimations précédentes, et surtout, c'est bien plus que le nombre d'étoiles dans la Voie lactée, estimé entre 100 et 400 milliards.\n\nCe chiffre peut donner l'impression que tout va bien, mais la réalité est moins rose. Nous perdons environ 10 milliards d'arbres par an à cause de la déforestation, de l'agriculture et de l'urbanisation. Depuis le début de la civilisation humaine, le nombre total d'arbres sur la planète a chuté de 46%. Au rythme actuel, nous retirons en un an ce que la nature met des décennies à reconstruire.\n\nCe qui rend cette comparaison saisissante, c'est qu'elle inverse notre perception habituelle. On imagine l'espace comme infiniment vaste et la Terre comme modeste, mais en termes de « choses à compter », notre petite planète bleue bat notre galaxie entière. Chaque arbre est une machine biologique qui capture le carbone, produit de l'oxygène, abrite des espèces et régule le climat. Trois mille milliards de machines comme ça, et on les traite comme si elles étaient inépuisables.",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ESO-VLT-Laser-phot-33a-07.jpg/960px-ESO-VLT-Laser-phot-33a-07.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ESO-VLT-Laser-phot-33a-07.jpg/960px-ESO-VLT-Laser-phot-33a-07.jpg",
         "category": "nature",
         "references": [
             {
                 "label": "WSL",
-                "url":"https://www.wsl.ch/fr/news/combien-y-a-t-il-darbres-sur-la-planete"
+                "url": "https://www.wsl.ch/fr/news/combien-y-a-t-il-darbres-sur-la-planete"
             },
             {
                 "label": "Wikipedia - Voie Lactée",
@@ -206,12 +206,12 @@
         "title": "La Joconde n'a pas de sourcils",
         "summary": "Mona Lisa n'a ni sourcils ni cils. Pendant des siècles, on a cru que c'était un choix esthétique de Léonard de Vinci. En 2007, un scan haute résolution a révélé qu'ils avaient simplement disparu avec le temps.",
         "body": "Regardez attentivement la Joconde : elle n'a ni sourcils ni cils. Pendant des siècles, cette absence a alimenté les théories les plus variées. Certains y voyaient un reflet de la mode de la Renaissance, où les femmes s'épilaient le front et les sourcils pour paraître plus élégantes. D'autres pensaient que c'était une décision artistique délibérée de Léonard de Vinci.\n\nEn 2007, l'ingénieur français Pascal Cotte a photographié le tableau avec une caméra multispectrale de 240 mégapixels, capable de voir au-delà des couches de vernis et de peinture. Verdict : Léonard avait bien peint des sourcils et des cils, mais ils ont disparu au fil des siècles, probablement effacés par des restaurations maladroites et le vieillissement naturel des pigments les plus fins.\n\nCette découverte nous rappelle que les œuvres d'art que nous voyons aujourd'hui ne sont pas exactement celles que leurs créateurs ont peintes. La Joconde a été vernie, nettoyée, transférée sur un autre support, et son fameux sfumato — cette brume qui donne au visage son mystère — s'est probablement estompé avec le temps. Le tableau que cinq millions de visiteurs admirent chaque année au Louvre est une version altérée de l'original. Le vrai sourire de Mona Lisa, personne ne l'a vu depuis des siècles.",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/960px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/960px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
         "category": "culture",
         "references": [
             {
                 "label": "RTL",
-                "url":"https://www.rtl.fr/culture/culture-generale/pourquoi-la-joconde-n-a-pas-de-sourcils-7900249152"
+                "url": "https://www.rtl.fr/culture/culture-generale/pourquoi-la-joconde-n-a-pas-de-sourcils-7900249152"
             },
             {
                 "label": "Wikipedia",
@@ -229,7 +229,7 @@
         "references": [
             {
                 "label": "EBSCO",
-                "url":"https://www.ebsco.com/research-starters/psychology/mere-exposure-effect"
+                "url": "https://www.ebsco.com/research-starters/psychology/mere-exposure-effect"
             },
             {
                 "label": "Wikipedia",
@@ -242,12 +242,30 @@
         "title": "La foudre frappe la Terre 100 fois par seconde",
         "summary": "Chaque seconde, environ 2 000 orages actifs produisent 100 éclairs sur Terre. Cela représente 8,6 millions de coups de foudre par jour, et chacun est cinq fois plus chaud que la surface du Soleil.",
         "body": "En ce moment même, environ 2 000 orages sont actifs simultanément à la surface du globe, produisant environ 100 éclairs par seconde. Cela représente 8,6 millions de coups de foudre par jour et plus de 3 milliards par an. Contrairement à ce que l'on peut penser, la foudre n'est pas un événement rare mais plutôt un phénomène permanent et planétaire.\n\nChaque éclair atteint une température d'environ 30 000 degrés Celsius, soit cinq fois la température de la surface du Soleil. Cette chaleur extrême provoque une expansion brutale de l'air, créant l'onde de choc que nous percevons comme le tonnerre. La lumière de l'éclair voyage à 300 000 km/s, le son à seulement 340 m/s (d'où le décalage entre le flash et le grondement), ce qui vous permet d'estimer la distance de l'orage (environ 3 secondes par kilomètre).\n\nLa foudre joue aussi un rôle chimique méconnu. En traversant l'atmosphère, elle fixe l'azote et crée des composés azotés qui tombent avec la pluie et fertilisent le sol. Avant l'invention des engrais synthétiques, la foudre était l'une des principales sources naturelles d'azote pour les plantes. Un orage n'est donc pas seulement un spectacle — c'est un engrais cosmique gratuit, livré à domicile par la physique.",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Lightning_Pritzerbe_01_%28MK%29.jpg/1920px-Lightning_Pritzerbe_01_%28MK%29.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Lightning_Pritzerbe_01_%28MK%29.jpg/1920px-Lightning_Pritzerbe_01_%28MK%29.jpg",
         "category": "numbers",
         "references": [
             {
                 "label": "Weather.gov",
-                "url":"https://www.weather.gov/mlb/lightning_facts"
+                "url": "https://www.weather.gov/mlb/lightning_facts"
+            }
+        ]
+    },
+    {
+        "date": "default",
+        "title": "Le Paradoxe de la Curiosité",
+        "summary": "Chercher à voir le contenu à l'avance diminue le plaisir qu'on en tire. L'anticipation active les mêmes circuits de dopamine que la récompense elle-même.",
+        "body": "Dans les années 1990, l'économiste George Loewenstein a proposé la théorie du \"fossé informationnel\" de la curiosité. Il a découvert que la curiosité naît lorsque nous percevons un écart entre ce que nous savons et ce que nous voulons savoir — et que l'anticipation de combler cet écart est elle-même une source de plaisir. Votre cerveau libère de la dopamine non pas quand vous obtenez la réponse, mais quand vous sentez que vous êtes sur le point de l'obtenir.\n\nCela crée un paradoxe : les personnes qui sautent les étapes — qui regardent la dernière page d'un roman, qui avancent rapidement jusqu'à la fin — rapportent systématiquement une satisfaction moindre que celles qui laissent l'histoire se dérouler naturellement. Des études sur les \"effets de spoiler\" ont montré que si connaître la fin ne gâche pas toujours le plaisir, l'acte de chercher impatiemment, lui, le diminue. Le plaisir n'est pas seulement dans la destination ; il est dans le voyage de ne pas savoir.\n\nDes chercheurs de Caltech l'ont confirmé par imagerie cérébrale. Quand les sujets anticipaient une récompense, leur striatum ventral — le centre du plaisir du cerveau — s'activait davantage pendant la période d'attente que pendant la récompense elle-même. L'attente n'est pas juste tolérable ; neurologiquement, elle EST le plaisir. Chaque fois que vous résistez à l'envie de sauter en avant, vous maximisez en réalité votre propre satisfaction. La patience, il s'avère, n'est pas seulement une vertu — c'est une stratégie dopaminergique.",
+        "image": "",
+        "category": "psychology",
+        "references": [
+            {
+                "label": "Loewenstein - The Psychology of Curiosity",
+                "url": "https://www.cmu.edu/dietrich/sds/docs/loewenstein/PsychofCuriosity.pdf"
+            },
+            {
+                "label": "Caltech - Anticipation and Reward",
+                "url": "https://www.caltech.edu/about/news/anticipating-reward-more-rewarding-reward-itself-1839"
             }
         ]
     }
