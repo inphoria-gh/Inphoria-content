@@ -8,6 +8,9 @@ on:
     - cron: '5 0 * * *'
   workflow_dispatch: # Manual trigger
 
+permissions:
+  contents: write
+
 jobs:
   filter:
     runs-on: ubuntu-latest
@@ -16,7 +19,6 @@ jobs:
         uses: actions/checkout@v4
         with:
           ref: source
-          fetch-depth: 0
 
       - name: Filter entries to tomorrow max
         run: |
@@ -27,7 +29,7 @@ jobs:
             if [ -f "$file" ]; then
               echo "Processing $file"
               python3 -c "
-          import json, sys
+          import json
 
           tomorrow = '$TOMORROW'
 
@@ -44,28 +46,12 @@ jobs:
             fi
           done
 
-      - name: Copy non-JSON files
-        run: |
-          echo "JSON files filtered successfully"
-
       - name: Push to main
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Switch to main, keeping filtered files
-          git stash
-          git checkout main
-          git stash pop || true
-
-          # Copy filtered JSON files and other assets
-          git checkout source -- privacy.html README.md LICENSE 2>/dev/null || true
-
+          # Force update main with the filtered content
           git add -A
-
-          if git diff --cached --quiet; then
-            echo "No changes to push"
-          else
-            git commit -m "Update filtered entries for $(date -u +%Y-%m-%d)"
-            git push origin main
-          fi
+          git commit -m "Update filtered entries for $(date -u +%Y-%m-%d)" || echo "No changes"
+          git push origin HEAD:main --force
