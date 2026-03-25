@@ -4,7 +4,7 @@
         "title": "Votre ADN est composé à 8% de virus",
         "summary": "Des virus anciens ont inséré leur code génétique dans celui de nos ancêtres il y a des millions d'années. Aujourd'hui, 8% de votre ADN est d'origine virale — et certains de ces fragments sont essentiels à votre survie.",
         "body": "On aime se penser comme des êtres purement humains, mais la réalité est bien plus troublante. Environ 8% de notre génome est constitué de séquences provenant de rétrovirus qui ont infecté nos ancêtres il y a des millions d'années. Ces virus ont littéralement fusionné leur code génétique avec le nôtre, et il y est resté.\n\nLe plus fascinant, c'est que certains de ces fragments viraux ne sont pas de simples passagers clandestins. La syncytine, une protéine essentielle à la formation du placenta chez les mammifères, provient directement d'un ancien rétrovirus. Sans cette infection virale survenue il y a environ 25 millions d'années, la grossesse telle que nous la connaissons n'existerait probablement pas.\n\nCes rétrovirus endogènes humains, ou HERV, représentent environ 98 000 fragments dans notre ADN. La plupart sont devenus silencieux au fil de l'évolution, mais certains continuent de jouer des rôles dans notre système immunitaire et notre développement embryonnaire. En un sens, nous sommes tous un peu des chimères — un mélange d'humain et de virus, forgé par des millions d'années de coévolution.",
-        "image": "https://picsum.photos/seed/viraldna/480/480",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Coronavirus._SARS-CoV-2.png/500px-Coronavirus._SARS-CoV-2.png",
         "category": "science",
         "references": [
             {
@@ -12,8 +12,8 @@
                 "url": "https://www.nature.com/articles/nrg3199"
             },
             {
-                "label": "Cell",
-                "url": "https://www.cell.com/cell/fulltext/S0092-8674(16)31280-7"
+                "label": "The Scientist",
+                "url": "https://www.the-scientist.com/ancient-viral-dna-plays-a-role-in-human-disease-and-development-70656"
             }
         ]
     },

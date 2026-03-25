@@ -4,7 +4,7 @@
         "title": "Your DNA Is 8% Virus",
         "summary": "Ancient viruses embedded themselves in your ancestors' DNA millions of years ago. Today, 8% of your genome is viral — and some of it is keeping you alive.",
         "body": "Here's something wild: about 8% of your DNA isn't really \"yours\" in the traditional sense. It's viral. Over millions of years, retroviruses infected your ancestors, inserted their genetic code into human cells, and just... stayed. These sequences, called endogenous retroviruses, got passed down generation after generation until they became a permanent part of the human genome.\n\nThe really fascinating part? Some of these viral genes aren't just freeloading. One called syncytin, originally from a retrovirus that infected our ancestors around 25 million years ago, is now essential for forming the placenta during pregnancy. Without it, mammals as we know them might not exist. Evolution basically took a viral invasion and turned it into a feature.\n\nScientists are still figuring out what most of these viral remnants do. Some appear to be completely inert — molecular fossils from infections that happened before humans even existed as a species. Others might play roles in gene regulation or immune function. A few have been linked to diseases when they reactivate. It's a strange thought: you're walking around with the genetic ghosts of ancient pandemics woven into every cell of your body, and some of them are literally keeping you alive.",
-        "image": "https://picsum.photos/seed/virusdna/480/480",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Coronavirus._SARS-CoV-2.png/500px-Coronavirus._SARS-CoV-2.png",
         "category": "science",
         "references": [
             {
@@ -12,8 +12,8 @@
                 "url": "https://www.nature.com/articles/nrg3031"
             },
             {
-                "label": "Science Magazine",
-                "url": "https://www.science.org/content/article/ancient-viruses-are-buried-your-dna"
+                "label": "The Scientist",
+                "url": "https://www.the-scientist.com/ancient-viral-dna-plays-a-role-in-human-disease-and-development-70656"
             }
         ]
     },
