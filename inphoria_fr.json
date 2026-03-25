@@ -19,10 +19,140 @@
     },
     {
         "date": "2026-03-26",
+        "title": "Oxford est plus ancienne que l'Empire aztèque",
+        "summary": "L'enseignement a commencé à Oxford dès 1096. L'Empire aztèque n'a été fondé qu'en 1428. Oxford donnait des cours depuis plus de trois siècles quand Tenochtitlan est née.",
+        "body": "L'Université d'Oxford a commencé à dispenser des cours dès 1096, ce qui en fait l'une des plus anciennes universités du monde occidental. L'Empire aztèque, lui, n'a été fondé qu'en 1428 avec la Triple Alliance de Tenochtitlan, Texcoco et Tlacopan. Quand les Aztèques posaient les fondations de leur civilisation, Oxford formait des étudiants depuis plus de trois siècles.\n\nCe décalage est déroutant parce que notre cerveau range instinctivement les Aztèques dans la catégorie « civilisations anciennes » et Oxford dans celle des « institutions modernes ». En réalité, les Aztèques étaient un empire relativement jeune quand les Espagnols sont arrivés en 1519 — il n'avait même pas un siècle d'existence.\n\nCe genre de comparaison révèle à quel point notre carte mentale de l'histoire est déformée. On imagine les civilisations précolombiennes comme infiniment anciennes parce qu'elles ont disparu, et les institutions européennes comme éternellement jeunes parce qu'elles existent encore. La réalité est plus nuancée : l'histoire n'est pas une ligne droite avec le « vieux » d'un côté et le « nouveau » de l'autre. C'est un enchevêtrement de chronologies qui se chevauchent de manière souvent surprenante.",
+        "image":"https://cdn.britannica.com/03/117103-050-F4C2FC83/view-University-of-Oxford-England-Oxfordshire.jpg",
+        "category": "history",
+        "references": [
+            {
+                "label": "University of Oxford - History",
+                "url": "https://www.ox.ac.uk/about/organisation/history"
+            },
+            {
+                "label": "Wikipedia - Aztec Empire",
+                "url": "https://en.wikipedia.org/wiki/Aztec_Empire"
+            },
+            {
+                "label": "Britannica - Aztec",
+                "url": "https://www.britannica.com/topic/Aztec"
+            }
+        ]
+    },
+    {
+        "date": "2026-03-27",
+        "title": "Le miel ne périme jamais",
+        "summary": "Des archéologues ont trouvé du miel vieux de 3 000 ans dans des tombes égyptiennes — encore parfaitement comestible. Les abeilles ont créé l'un des conservateurs naturels les plus parfaits qui existent.",
+        "body": "Des archéologues ont ouvert des tombes égyptiennes vieilles de trois millénaires et y ont trouvé des pots de miel encore parfaitement comestibles. Pas altéré, pas fermenté — comestible. Comment est-ce possible ? La réponse tient dans une combinaison presque miraculeuse de propriétés chimiques.\n\nLe miel contient environ 17% d'eau, ce qui est trop peu pour que les bactéries puissent survivre. Sa concentration en sucre est si élevée qu'elle crée une pression osmotique qui fait littéralement éclater les cellules microbiennes. En prime, les abeilles ajoutent une enzyme, la glucose oxydase, qui produit de petites quantités de peroxyde d'hydrogène — un antiseptique naturel. Le tout baigne dans un pH acide entre 3 et 4,5.\n\nLe miel est donc un environnement dans lequel presque rien de vivant ne peut se développer. C'est un conservateur si parfait que les anciens Égyptiens l'utilisaient aussi pour embaumer les morts et conserver les fruits. Si vous trouvez un vieux pot de miel cristallisé au fond d'un placard, n'hésitez pas : un léger réchauffage au bain-marie et il sera comme neuf.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Runny_hunny.jpg/500px-Runny_hunny.jpg",
+        "category": "nature",
+        "references": [
+            {
+                "label": "Smithsonian Magazine",
+                "url": "https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/"
+            },
+            {
+                "label": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Honey"
+            }
+        ]
+    },
+    {
+        "date": "2026-03-28",
+        "title": "Le nombre de Dunbar : 150 relations maximum",
+        "summary": "Vos 2 000 amis Facebook sont une illusion. L'anthropologue Robin Dunbar a démontré que notre cerveau ne peut maintenir que 150 relations sociales stables. Au-delà, il faut des règles et des institutions.",
+        "body": "Dans les années 1990, l'anthropologue britannique Robin Dunbar a observé une corrélation entre la taille du néocortex des primates et la taille de leurs groupes sociaux. En extrapolant au cerveau humain, il a estimé que nous ne pouvons maintenir que 150 relations sociales stables — des personnes que vous reconnaîtriez et avec lesquelles vous pourriez avoir une interaction non gênante si vous les croisiez dans un café.\n\nCe nombre de 150 apparaît partout. C'est la taille moyenne d'un village néolithique, d'une compagnie militaire romaine, d'une communauté amish, et de la plupart des entreprises qui fonctionnent sans bureaucratie formelle. Au-delà de 150, les groupes humains ont besoin de hiérarchies, de règles et de normes sociales pour rester cohérents. En dessous, la confiance mutuelle suffit.\n\nÀ l'ère des réseaux sociaux, le nombre de Dunbar est plus pertinent que jamais. Vous pouvez avoir 2 000 « amis » sur Facebook, mais des études montrent que vous n'interagissez régulièrement qu'avec 5 à 15 d'entre eux. Dunbar lui-même distingue des cercles concentriques : 5 relations intimes, 15 amis proches, 50 bons amis, et 150 relations stables. Au-delà, ce ne sont que des connaissances — des visages que votre cerveau n'a tout simplement pas la capacité de gérer.",
+        "image":"https://www.sciencesetavenir.fr/assets/img/2015/08/27/cover-r4x3w1200-57dfa1508d7a0-cerveau.jpg",
+        "category": "psychology",
+        "references": [
+            {
+                "label": "BBC",
+                "url":"https://www.bbc.com/future/article/20191001-dunbars-number-why-we-can-only-maintain-150-relationships"
+            },
+            {
+                "label": "Royal Society Open Science",
+                "url": "https://royalsocietypublishing.org/doi/10.1098/rsos.150292"
+            }
+        ]
+    },
+    {
+        "date": "2026-03-29",
+        "title": "Shakespeare a inventé plus de 1 700 mots",
+        "summary": "« Eyeball », « lonely », « generous », « assassination » — tous inventés par Shakespeare. Il a créé plus de 1 700 mots anglais, dont beaucoup sont utilisés quotidiennement sans que personne ne le sache.",
+        "body": "William Shakespeare n'était pas seulement un dramaturge de génie — c'était aussi un fabricant de mots prolifique. On lui attribue l'invention ou la première utilisation écrite de plus de 1 700 mots anglais : « eyeball » (globe oculaire), « lonely » (solitaire), « generous » (généreux), « assassination » (assassinat), « bedroom » (chambre à coucher), « addiction » (dépendance) et même « swagger » (fanfaronnade).\n\nIl faut nuancer : « inventer » un mot signifie ici qu'il est le premier à l'avoir utilisé par écrit dans un document qui a survécu. Certains de ces mots existaient probablement à l'oral avant lui. Mais sa contribution reste colossale — il a aussi inventé des expressions comme « break the ice » (briser la glace), « wild goose chase » (chasse à l'oie sauvage, devenu « entreprise vaine ») et « heart of gold » (cœur d'or).\n\nCe qui rend Shakespeare unique, ce n'est pas seulement le volume de ses néologismes, mais leur taux de survie. La plupart des mots inventés par un auteur meurent avec lui. Les siens sont devenus si naturels qu'on ne les reconnaît même plus comme des inventions. Le fait que vous puissiez utiliser le mot « lonely » dans une conversation sans penser à Shakespeare est peut-être son plus grand tour de force.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/William_Shakespeare_by_John_Taylor%2C_edited.jpg/960px-William_Shakespeare_by_John_Taylor%2C_edited.jpg",
+        "category": "culture",
+        "references": [
+            {
+                "label": "Shakespeare online",
+                "url": "https://www.shakespeare-online.com/biography/wordsinvented.html"
+            },
+            {
+                "label": "British Council",
+                "url": "https://englishonline.britishcouncil.org/blog/articles/a-closer-look-at-everyday-words-shakespeare-invented/"
+            }
+        ]
+    },
+    {
+        "date": "2026-03-30",
+        "title": "Un jour sur Vénus dure plus longtemps que son année",
+        "summary": "Vénus met 243 jours terrestres pour tourner sur elle-même, mais seulement 225 jours pour faire le tour du Soleil. Un jour vénusien dure donc plus longtemps qu'une année vénusienne.",
+        "body": "Vénus est la planète de tous les paradoxes. Elle met 243 jours terrestres pour effectuer une rotation complète sur son axe, mais seulement 225 jours pour boucler son orbite autour du Soleil. Résultat : un jour vénusien (au sens astronomique) dure plus longtemps qu'une année vénusienne. Si vous fêtiez votre anniversaire sur Vénus, il arriverait avant la fin de votre « journée ».\n\nEt comme si ça ne suffisait pas, Vénus tourne à l'envers. Elle est l'une des deux seules planètes du système solaire (avec Uranus) à avoir une rotation rétrograde : le Soleil s'y lève à l'ouest et se couche à l'est. Les astronomes ne savent toujours pas exactement pourquoi, mais l'hypothèse principale est qu'un impact géant l'a retournée à un moment de son histoire, ou que des effets de marée atmosphérique ont progressivement inversé sa rotation.\n\nMalgré ces bizarreries, Vénus est souvent surnommée la « sœur jumelle » de la Terre en raison de sa taille et de sa masse similaires. Mais les ressemblances s'arrêtent là : sa surface atteint 465°C (assez pour faire fondre le plomb), sa pression atmosphérique est 90 fois celle de la Terre, et son atmosphère est composée à plus de 96% de CO2. C'est un exemple terrifiant de ce que l'effet de serre peut faire quand il s'emballe, une leçon que l'on ferait bien de méditer.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/PIA23791-Venus-RealAndEnhancedContrastViews-20200608_%28cropped%29.jpg/960px-PIA23791-Venus-RealAndEnhancedContrastViews-20200608_%28cropped%29.jpg",
+        "category": "numbers",
+        "references": [
+            {
+                "label": "NASA",
+                "url": "https://science.nasa.gov/venus/venus-facts/"
+            },
+            {
+                "label": "CNES",
+                "url":"https://cnes.fr/dossiers/planete-venus"
+            }
+        ]
+    },
+    {
+        "date": "2026-03-31",
         "title": "Les bananes sont radioactives",
         "summary": "Chaque banane que vous mangez contient du potassium-40, un isotope radioactif. Pas de panique : il faudrait en manger 10 millions d'un coup pour que ça devienne un problème.",
         "body": "La prochaine fois que vous pelez une banane, sachez que vous tenez un fruit légèrement radioactif. Les bananes sont riches en potassium, et environ 0,012% de ce potassium est du potassium-40, un isotope naturellement radioactif. C'est tellement connu en physique nucléaire qu'on a même créé une unité informelle : la « dose équivalente en bananes ».\n\nRassurez-vous, le danger est absolument nul. Votre corps régule en permanence son taux de potassium : quand vous en absorbez davantage, vous en éliminez autant. Il faudrait manger environ 10 millions de bananes d'un seul coup pour recevoir une dose de radiation mortelle. Votre estomac lâcherait bien avant vos cellules.\n\nCe qui est vraiment intéressant, c'est que cette anecdote illustre à quel point la radioactivité est omniprésente dans la nature. Le sol sous vos pieds, le granit de vos murs, même votre propre corps — tout émet un peu de rayonnement. La banane nous rappelle que la radioactivité n'est pas forcément synonyme de danger : c'est une question de dose, et la nature sait très bien gérer les siennes.",
-        "image": "https://picsum.photos/seed/banana/480/480",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cavendish_Banana_DS.jpg/500px-Cavendish_Banana_DS.jpg",
+        "category": "science",
+        "references": [
+            {
+                "label": "EPA - Radiation Doses",
+                "url": "https://www.epa.gov/radiation/radiation-sources-and-doses"
+            },
+            {
+                "label": "Forbes",
+                "url": "https://www.forbes.com/sites/quora/2016/10/18/yes-bananas-are-radioactive-and-yes-you-should-keep-eating-them-anyway/"
+            },
+            {
+                "label": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Banana_equivalent_dose"
+            }
+        ]
+    },
+    {
+        "date": "2026-04-01",
+        "title": "Les pieuvres auraient une main préférée",
+        "summary": "Des biologistes marins auraient observé que certaines pieuvres privilégient systématiquement un bras pour explorer, attraper des objets ou manipuler leur environnement. Une forme de latéralisation comparable à notre droitier-gaucher.",
+        "body": "On sait déjà que les pieuvres sont parmi les animaux les plus étonnants du règne marin : elles résolvent des problèmes, ouvrent des bocaux, reconnaissent certains humains et semblent parfois faire preuve d'une curiosité presque inquiétante. Il n'aurait donc rien de très absurde d'imaginer qu'elles possèdent aussi une forme de latéralisation — autrement dit, une préférence pour l'usage d'un bras plutôt qu'un autre, un peu comme les humains sont droitiers ou gauchers.\n\nSelon des études récentes, certaines pieuvres utiliseraient plus souvent un même bras pour explorer une cavité, saisir de la nourriture ou manipuler des objets complexes. Les biologistes auraient même remarqué que cette préférence varierait selon les espèces, l'âge de l'animal et peut-être même son tempérament.\n\nPlus étrange encore, les chercheurs auraient soupçonné que les pieuvres stressées deviennent temporairement ambidextres, comme si leur cerveau redistribuait les priorités motrices en situation d'urgence.",
+        "image":"https://s.francaisfacile.rfi.fr/media/display/2d42d018-cfd9-11ed-b7bb-005056a90284/w:1280/p:16x9/b1_fp_poisson_d_avril_iStock-1138136178.jpg",
+        "category": "science",
+        "references": [
+            {
+                "label": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/April_Fools%27_Day"
+            }
+        ]
+    },
+    {
+        "date": "2026-04-02",
+        "title": "Les bananes sont radioactives",
+        "summary": "Chaque banane que vous mangez contient du potassium-40, un isotope radioactif. Pas de panique : il faudrait en manger 10 millions d'un coup pour que ça devienne un problème.",
+        "body": "La prochaine fois que vous pelez une banane, sachez que vous tenez un fruit légèrement radioactif. Les bananes sont riches en potassium, et environ 0,012% de ce potassium est du potassium-40, un isotope naturellement radioactif. C'est tellement connu en physique nucléaire qu'on a même créé une unité informelle : la « dose équivalente en bananes ».\n\nRassurez-vous, le danger est absolument nul. Votre corps régule en permanence son taux de potassium : quand vous en absorbez davantage, vous en éliminez autant. Il faudrait manger environ 10 millions de bananes d'un seul coup pour recevoir une dose de radiation mortelle. Votre estomac lâcherait bien avant vos cellules.\n\nCe qui est vraiment intéressant, c'est que cette anecdote illustre à quel point la radioactivité est omniprésente dans la nature. Le sol sous vos pieds, le granit de vos murs, même votre propre corps — tout émet un peu de rayonnement. La banane nous rappelle que la radioactivité n'est pas forcément synonyme de danger : c'est une question de dose, et la nature sait très bien gérer les siennes.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cavendish_Banana_DS.jpg/500px-Cavendish_Banana_DS.jpg",
         "category": "science",
         "references": [
             {
@@ -36,65 +166,11 @@
         ]
     },
     {
-        "date": "2026-03-27",
-        "title": "L'univers a une couleur : le Cosmic Latte",
-        "summary": "En 2002, des astronomes ont calculé la couleur moyenne de l'univers en combinant la lumière de 200 000 galaxies. Le résultat : un beige crémeux baptisé Cosmic Latte.",
-        "body": "Si vous pouviez mélanger toute la lumière émise par toutes les étoiles de l'univers observable, quelle couleur obtiendriez-vous ? En 2002, deux astronomes de l'Université Johns Hopkins, Karl Glazebrook et Ivan Baldry, ont répondu à cette question en analysant la lumière de plus de 200 000 galaxies. Le résultat : un beige légèrement crémeux, baptisé « Cosmic Latte ».\n\nLe nom a d'ailleurs fait l'objet d'un vote parmi les membres de l'équipe. Parmi les propositions rejetées : « Cappuccino Cosmique », « Big Bang Beige » et « Skyvory ». C'est finalement un latte cosmique qui l'a emporté — en référence au café au lait italien, ce qui est plutôt poétique pour décrire la teinte de l'univers tout entier.\n\nCe qui est fascinant, c'est que cette couleur évolue avec le temps. Dans sa jeunesse, l'univers était beaucoup plus bleu, dominé par de jeunes étoiles chaudes. En vieillissant, les étoiles rougissent et meurent, tirant progressivement la moyenne vers le rouge. Le Cosmic Latte est donc un instantané — la couleur de l'univers à notre époque, un selfie cosmique de 13,8 milliards d'années.",
-        "image": "https://picsum.photos/seed/cosmiclatte/480/480",
-        "category": "science",
-        "references": [
-            {
-                "label": "Johns Hopkins University",
-                "url": "https://www.jhu.edu/news/cosmic-color"
-            },
-            {
-                "label": "The Astrophysical Journal",
-                "url": "https://iopscience.iop.org/article/10.1086/340442"
-            }
-        ]
-    },
-    {
-        "date": "2026-03-28",
-        "title": "Le verre n'est pas un liquide",
-        "summary": "Contrairement à la légende urbaine, le verre des vieilles cathédrales n'est pas plus épais en bas parce qu'il coule lentement. Le verre est bel et bien un solide — un solide amorphe, certes, mais un solide.",
-        "body": "Vous avez sûrement déjà entendu cette affirmation : le verre est en réalité un liquide qui coule très lentement, et c'est pour ça que les vitraux médiévaux sont plus épais en bas qu'en haut. C'est un mythe tenace, mais c'est faux. Le verre est un solide amorphe — c'est-à-dire un solide dont les molécules ne sont pas arrangées en cristaux ordonnés, mais qui ne coule pas pour autant.\n\nL'épaisseur inégale des vitraux anciens s'explique bien plus simplement : les techniques de fabrication du Moyen Âge produisaient des plaques de verre d'épaisseur irrégulière. Les artisans plaçaient logiquement le côté le plus épais en bas pour la stabilité. Des études ont montré que certains vitraux anciens sont d'ailleurs plus épais en haut ou sur les côtés.\n\nPour que le verre coule de manière visible à température ambiante, il faudrait attendre un temps qui dépasse l'âge de l'univers. Les physiciens ont calculé que la viscosité du verre à température ambiante est d'environ 10^20 fois celle du miel. Alors non, vos fenêtres ne coulent pas — mais admettez que l'idée était séduisante.",
-        "image": "https://picsum.photos/seed/glassmyth/480/480",
-        "category": "science",
-        "references": [
-            {
-                "label": "Scientific American",
-                "url": "https://www.scientificamerican.com/article/fact-fiction-glass-liquid/"
-            },
-            {
-                "label": "Journal of the American Ceramic Society",
-                "url": "https://ceramics.onlinelibrary.wiley.com/doi/abs/10.1111/j.1551-2916.2007.02028.x"
-            }
-        ]
-    },
-    {
-        "date": "2026-03-29",
-        "title": "Votre corps se renouvelle tous les 7 à 10 ans",
-        "summary": "La plupart des cellules de votre corps sont remplacées en quelques années. Vos os, votre peau, votre foie — presque tout est neuf. Mais certains neurones vous accompagnent depuis la naissance.",
-        "body": "L'idée que votre corps se renouvelle entièrement en sept ans est une simplification, mais elle contient une vérité fascinante. Vos cellules intestinales vivent environ cinq jours, vos globules rouges quatre mois, et vos cellules de peau se renouvellent toutes les deux à trois semaines. Votre squelette, lui, est entièrement remplacé en environ dix ans.\n\nMais tout ne se régénère pas. Certains neurones du cortex cérébral, les cellules du cristallin de vos yeux et une partie des cellules du muscle cardiaque sont les mêmes que ceux avec lesquels vous êtes né. Ce sont les originaux — ils vous accompagnent du premier au dernier jour.\n\nCe renouvellement cellulaire pose une question philosophique vertigineuse : si la quasi-totalité de vos atomes sont remplacés au fil des ans, êtes-vous toujours la même personne qu'il y a dix ans ? C'est le paradoxe du bateau de Thésée, version biologique. Votre identité ne réside pas dans vos atomes, mais dans l'information — les connexions, les souvenirs, les schémas — qui persiste même quand le support matériel change.",
-        "image": "https://picsum.photos/seed/cellrenewal/480/480",
-        "category": "science",
-        "references": [
-            {
-                "label": "Cell - Retrospective Birth Dating of Cells",
-                "url": "https://www.cell.com/cell/fulltext/S0092-8674(05)00408-3"
-            },
-            {
-                "label": "NPR",
-                "url": "https://www.npr.org/2016/06/28/483789930/how-old-are-your-cells"
-            }
-        ]
-    },
-    {
-        "date": "2026-03-30",
-        "title": "Cléopâtre vivait plus près de l'iPhone que des pyramides",
-        "summary": "Cléopâtre est née en 69 av. J.-C. La Grande Pyramide date de 2560 av. J.-C. Elle était déjà vieille de 2 500 ans du temps de Cléopâtre — qui est plus proche de nous dans le temps que des bâtisseurs de pyramides.",
+        "date": "2026-04-03",
+        "title": "Cléopâtre a vécu plus près de l'iPhone que des pyramides",
+        "summary": "Cléopâtre est née en 69 av. J.-C. La Grande Pyramide date de 2560 av. J.-C. Elle était déjà vieille de 2 500 ans du temps de Cléopâtre, qui est plus proche de nous dans le temps que des bâtisseurs de pyramides.",
         "body": "Voici un fait qui va recalibrer votre perception de l'histoire : Cléopâtre VII, la dernière reine d'Égypte, est née en 69 avant J.-C. La Grande Pyramide de Gizeh a été construite vers 2560 avant J.-C. Ce qui signifie que les pyramides avaient déjà près de 2 500 ans quand Cléopâtre les regardait — elles étaient aussi anciennes pour elle que Cléopâtre l'est pour nous.\n\nAutrement dit, Cléopâtre vivait chronologiquement plus près du lancement de l'iPhone (2007) que de la construction des pyramides. Le calcul est simple : environ 2 076 ans nous séparent de sa naissance, contre 2 491 ans entre elle et les pyramides. L'Égypte ancienne a duré si longtemps que nous avons tendance à écraser mentalement toute cette histoire en un seul bloc.\n\nCette distorsion est ce que les historiens appellent la compression temporelle. On imagine Cléopâtre et les pharaons bâtisseurs comme des contemporains, alors qu'ils sont séparés par un gouffre temporel vertigineux. Pour mettre les choses en perspective : quand Cléopâtre visitait les pyramides, c'étaient déjà des attractions touristiques antiques, couvertes de graffitis de visiteurs grecs.",
-        "image": "https://picsum.photos/seed/cleopatra/480/480",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/960px-All_Gizah_Pyramids.jpg",
         "category": "history",
         "references": [
             {
@@ -102,466 +178,76 @@
                 "url": "https://www.britannica.com/biography/Cleopatra-queen-of-Egypt"
             },
             {
-                "label": "National Geographic",
-                "url": "https://www.nationalgeographic.com/history/article/cleopatra"
-            }
-        ]
-    },
-    {
-        "date": "2026-03-31",
-        "title": "Oxford est plus ancienne que l'Empire aztèque",
-        "summary": "L'enseignement a commencé à Oxford dès 1096. L'Empire aztèque n'a été fondé qu'en 1428. Oxford donnait des cours depuis plus de trois siècles quand Tenochtitlan est née.",
-        "body": "L'Université d'Oxford a commencé à dispenser des cours dès 1096, ce qui en fait l'une des plus anciennes universités du monde occidental. L'Empire aztèque, lui, n'a été fondé qu'en 1428 avec la Triple Alliance de Tenochtitlan, Texcoco et Tlacopan. Quand les Aztèques posaient les fondations de leur civilisation, Oxford formait des étudiants depuis plus de trois siècles.\n\nCe décalage est déroutant parce que notre cerveau range instinctivement les Aztèques dans la catégorie « civilisations anciennes » et Oxford dans celle des « institutions modernes ». En réalité, les Aztèques étaient un empire relativement jeune quand les Espagnols sont arrivés en 1519 — il n'avait même pas un siècle d'existence.\n\nCe genre de comparaison révèle à quel point notre carte mentale de l'histoire est déformée. On imagine les civilisations précolombiennes comme infiniment anciennes parce qu'elles ont disparu, et les institutions européennes comme éternellement jeunes parce qu'elles existent encore. La réalité est plus nuancée : l'histoire n'est pas une ligne droite avec le « vieux » d'un côté et le « nouveau » de l'autre. C'est un enchevêtrement de chronologies qui se chevauchent de manière souvent surprenante.",
-        "image": "https://picsum.photos/seed/oxfordaztec/480/480",
-        "category": "history",
-        "references": [
-            {
-                "label": "University of Oxford - History",
-                "url": "https://www.ox.ac.uk/about/organisation/history"
-            },
-            {
-                "label": "Britannica - Aztec Empire",
-                "url": "https://www.britannica.com/topic/Aztec"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-01",
-        "title": "La dernière exécution par guillotine date de 1977",
-        "summary": "La France a exécuté Hamida Djandoubi par guillotine le 10 septembre 1977. Le même mois, Star Wars était au cinéma et Apple vendait son premier ordinateur. Un autre siècle cohabitait avec le nôtre.",
-        "body": "Le 10 septembre 1977, Hamida Djandoubi est devenu la dernière personne exécutée par guillotine en France — et la dernière personne exécutée par quelque méthode que ce soit en Europe occidentale. Pour situer l'époque : Star Wars était en salle, l'Apple II venait d'être commercialisé, et le Concorde effectuait ses premiers vols transatlantiques.\n\nLa guillotine avait été introduite en 1792 pendant la Révolution française comme une méthode d'exécution « humaine et égalitaire ». Avant elle, les nobles étaient décapités à l'épée (rapide mais dépendant de l'adresse du bourreau) tandis que les roturiers étaient pendus (lent et souvent bâclé). Le docteur Joseph-Ignace Guillotin voulait démocratiser la mort — un projet sinistre vu d'aujourd'hui.\n\nLa peine de mort n'a été abolie en France qu'en 1981 par François Mitterrand et Robert Badinter, contre l'opinion publique de l'époque : les sondages montraient que 63% des Français y étaient encore favorables. C'est un rappel que les grandes avancées morales ne suivent pas toujours l'opinion majoritaire — parfois, elles la précèdent.",
-        "image": "https://picsum.photos/seed/guillotine/480/480",
-        "category": "history",
-        "references": [
-            {
-                "label": "France Culture",
-                "url": "https://www.radiofrance.fr/franceculture/la-derniere-execution-capitale-en-france"
-            },
-            {
-                "label": "Britannica - Guillotine",
-                "url": "https://www.britannica.com/topic/guillotine"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-02",
-        "title": "Les Vikings naviguaient grâce à des cristaux",
-        "summary": "Les sagas mentionnent une mystérieuse « pierre de soleil » utilisée par les Vikings pour naviguer par temps couvert. Des physiciens ont prouvé que le spath d'Islande permet effectivement de localiser le soleil même sous les nuages.",
-        "body": "Les sagas nordiques mentionnent une mystérieuse « sólarsteinn » — pierre de soleil — que les navigateurs vikings utilisaient pour trouver le soleil par temps couvert. Pendant longtemps, les historiens ont considéré cela comme une légende. Puis les physiciens s'en sont mêlés, et il s'est avéré que la légende était probablement vraie.\n\nLe spath d'Islande, un cristal de calcite transparent, possède une propriété optique appelée biréfringence : il divise la lumière en deux rayons polarisés différemment. En faisant tourner le cristal et en observant quand les deux images ont la même luminosité, un navigateur peut déterminer la direction du soleil même quand celui-ci est caché par des nuages ou du brouillard. Des expériences menées par des chercheurs français ont montré que cette méthode permet de localiser le soleil avec une précision de quelques degrés.\n\nEn 2013, un cristal de calcite a été retrouvé dans l'épave d'un navire élisabéthain au large d'Aurigny, dans la Manche. Bien que ce soit un navire anglais et non viking, la découverte suggère que la navigation par cristal a pu persister bien au-delà de l'ère viking. Les Vikings traversaient l'Atlantique Nord sans boussole, sans sextant, avec un cristal et les étoiles. Il faut un certain culot pour ça.",
-        "image": "https://picsum.photos/seed/vikingcrystal/480/480",
-        "category": "history",
-        "references": [
-            {
-                "label": "Proceedings of the Royal Society A",
-                "url": "https://royalsocietypublishing.org/doi/10.1098/rspa.2011.0369"
-            },
-            {
-                "label": "National Geographic",
-                "url": "https://www.nationalgeographic.com/science/article/vikings-sunstone-navigation-calcite-crystal"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-03",
-        "title": "Le Grand Incendie de Londres n'a officiellement tué que 6 personnes",
-        "summary": "En 1666, le Grand Incendie de Londres a détruit 13 200 maisons et 87 églises sur quatre jours. Pourtant, le bilan officiel ne compte que six morts. La vraie raison est plus sombre qu'il n'y paraît.",
-        "body": "Entre le 2 et le 5 septembre 1666, le Grand Incendie de Londres a ravagé la ville médiévale. Il a détruit 13 200 maisons, 87 églises dont la cathédrale Saint-Paul, et laissé 70 000 des 80 000 habitants sans abri. Malgré cette destruction apocalyptique, le bilan officiel ne compte que six morts. Six.\n\nCe chiffre est presque certainement faux, mais pas de la manière qu'on pourrait croire. Les registres de décès de l'époque ne comptabilisaient que les paroissiens identifiés — or les pauvres, les sans-abri et les immigrants n'étaient tout simplement pas enregistrés. Les températures du brasier étaient si intenses qu'elles pouvaient réduire un corps en cendres, ne laissant aucune trace. Les historiens modernes estiment que le vrai bilan est probablement beaucoup plus élevé, sans qu'on puisse avancer un chiffre précis.\n\nIroniquement, l'incendie a eu un effet bénéfique inattendu : il a probablement contribué à mettre fin à la Grande Peste qui ravageait Londres depuis 1665, en détruisant les quartiers insalubres où pullulaient les rats. La ville reconstruite par Christopher Wren, en pierre et en brique plutôt qu'en bois, était plus sûre et plus saine. Parfois, la destruction est un architecte plus efficace que la planification.",
-        "image": "https://picsum.photos/seed/londonfire/480/480",
-        "category": "history",
-        "references": [
-            {
-                "label": "Museum of London",
-                "url": "https://www.museumoflondon.org.uk/museum-london/great-fire-london"
-            },
-            {
-                "label": "BBC History",
-                "url": "https://www.bbc.co.uk/history/british/civil_war_revolution/great_fire_01.shtml"
+                "label": "ARCE",
+                "url": "https://arce.org/resource/cleopatra-vii-scholar-patron-queen"
             }
         ]
     },
     {
         "date": "2026-04-04",
-        "title": "Les arbres communiquent entre eux",
-        "summary": "Sous la forêt, un réseau fongique souterrain relie les arbres entre eux. Ils échangent des nutriments, s'envoient des signaux d'alerte, et les plus vieux nourrissent les plus jeunes. On l'appelle le Wood Wide Web.",
-        "body": "Sous chaque forêt se cache un réseau de communication invisible. Les racines des arbres sont connectées par des champignons mycorhiziens — des filaments microscopiques qui forment un réseau souterrain que les scientifiques ont surnommé le « Wood Wide Web ». À travers ce réseau, les arbres échangent des nutriments, partagent du carbone et s'envoient des signaux chimiques d'alerte.\n\nLa biologiste Suzanne Simard, de l'Université de Colombie-Britannique, a démontré que les arbres-mères — les plus grands et les plus vieux — nourrissent activement les jeunes pousses en leur envoyant du carbone et des nutriments via le réseau fongique. Quand un arbre est attaqué par des insectes, il libère des composés chimiques qui circulent dans le réseau et déclenchent des réactions défensives chez ses voisins, parfois à des dizaines de mètres de distance.\n\nCette découverte a bouleversé notre vision des forêts. Ce ne sont pas des collections d'individus en compétition pour la lumière, mais des communautés coopératives où les arbres s'entraident. La forêt ressemble moins à un champ de bataille qu'à une société — avec ses aînés, ses jeunes, ses échanges et sa solidarité. On n'abat plus un vieil arbre de la même façon quand on sait qu'il nourrit toute une communauté.",
-        "image": "https://picsum.photos/seed/woodwideweb/480/480",
+        "title": "Il y a plus d'arbres sur Terre que d'étoiles dans la Voie lactée",
+        "summary": "La Terre abrite environ 3 000 milliards d'arbres, contre 100 à 400 milliards d'étoiles dans notre galaxie. Mais nous en perdons 10 milliards par an — le compteur tourne dans le mauvais sens.",
+        "body": "En 2015, une étude publiée dans Nature a stupéfié la communauté scientifique : la Terre abrite environ 3 000 milliards d'arbres. C'est environ huit fois plus que les estimations précédentes, et surtout, c'est bien plus que le nombre d'étoiles dans la Voie lactée, estimé entre 100 et 400 milliards.\n\nCe chiffre peut donner l'impression que tout va bien, mais la réalité est moins rose. Nous perdons environ 10 milliards d'arbres par an à cause de la déforestation, de l'agriculture et de l'urbanisation. Depuis le début de la civilisation humaine, le nombre total d'arbres sur la planète a chuté de 46%. Au rythme actuel, nous retirons en un an ce que la nature met des décennies à reconstruire.\n\nCe qui rend cette comparaison saisissante, c'est qu'elle inverse notre perception habituelle. On imagine l'espace comme infiniment vaste et la Terre comme modeste, mais en termes de « choses à compter », notre petite planète bleue bat notre galaxie entière. Chaque arbre est une machine biologique qui capture le carbone, produit de l'oxygène, abrite des espèces et régule le climat. Trois mille milliards de machines comme ça, et on les traite comme si elles étaient inépuisables.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ESO-VLT-Laser-phot-33a-07.jpg/960px-ESO-VLT-Laser-phot-33a-07.jpg",
         "category": "nature",
         "references": [
             {
-                "label": "Nature - Suzanne Simard",
-                "url": "https://www.nature.com/articles/s41559-023-01986-1"
+                "label": "WSL",
+                "url":"https://www.wsl.ch/fr/news/combien-y-a-t-il-darbres-sur-la-planete"
             },
             {
-                "label": "TED Talk - Suzanne Simard",
-                "url": "https://www.ted.com/talks/suzanne_simard_how_trees_talk_to_each_other"
+                "label": "Wikipedia - Voie Lactée",
+                "url": "https://fr.wikipedia.org/wiki/Voie_lactée"
             }
         ]
     },
     {
         "date": "2026-04-05",
-        "title": "Le miel ne périme jamais",
-        "summary": "Des archéologues ont trouvé du miel vieux de 3 000 ans dans des tombes égyptiennes — encore parfaitement comestible. Les abeilles ont créé l'un des conservateurs naturels les plus parfaits qui existent.",
-        "body": "Des archéologues ont ouvert des tombes égyptiennes vieilles de trois millénaires et y ont trouvé des pots de miel encore parfaitement comestibles. Pas altéré, pas fermenté — comestible. Comment est-ce possible ? La réponse tient dans une combinaison presque miraculeuse de propriétés chimiques.\n\nLe miel contient environ 17% d'eau, ce qui est trop peu pour que les bactéries puissent survivre. Sa concentration en sucre est si élevée qu'elle crée une pression osmotique qui fait littéralement éclater les cellules microbiennes. En prime, les abeilles ajoutent une enzyme, la glucose oxydase, qui produit de petites quantités de peroxyde d'hydrogène — un antiseptique naturel. Le tout baigne dans un pH acide entre 3 et 4,5.\n\nLe miel est donc un environnement dans lequel presque rien de vivant ne peut se développer. C'est un conservateur si parfait que les anciens Égyptiens l'utilisaient aussi pour embaumer les morts et conserver les fruits. Alexandre le Grand aurait été transporté dans un cercueil rempli de miel après sa mort. Si vous trouvez un vieux pot de miel cristallisé au fond d'un placard, n'hésitez pas : un léger réchauffage au bain-marie et il sera comme neuf.",
-        "image": "https://picsum.photos/seed/honeybee/480/480",
-        "category": "nature",
+        "title": "La Joconde n'a pas de sourcils",
+        "summary": "Mona Lisa n'a ni sourcils ni cils. Pendant des siècles, on a cru que c'était un choix esthétique de Léonard de Vinci. En 2007, un scan haute résolution a révélé qu'ils avaient simplement disparu avec le temps.",
+        "body": "Regardez attentivement la Joconde : elle n'a ni sourcils ni cils. Pendant des siècles, cette absence a alimenté les théories les plus variées. Certains y voyaient un reflet de la mode de la Renaissance, où les femmes s'épilaient le front et les sourcils pour paraître plus élégantes. D'autres pensaient que c'était une décision artistique délibérée de Léonard de Vinci.\n\nEn 2007, l'ingénieur français Pascal Cotte a photographié le tableau avec une caméra multispectrale de 240 mégapixels, capable de voir au-delà des couches de vernis et de peinture. Verdict : Léonard avait bien peint des sourcils et des cils, mais ils ont disparu au fil des siècles, probablement effacés par des restaurations maladroites et le vieillissement naturel des pigments les plus fins.\n\nCette découverte nous rappelle que les œuvres d'art que nous voyons aujourd'hui ne sont pas exactement celles que leurs créateurs ont peintes. La Joconde a été vernie, nettoyée, transférée sur un autre support, et son fameux sfumato — cette brume qui donne au visage son mystère — s'est probablement estompé avec le temps. Le tableau que cinq millions de visiteurs admirent chaque année au Louvre est une version altérée de l'original. Le vrai sourire de Mona Lisa, personne ne l'a vu depuis des siècles.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/960px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+        "category": "culture",
         "references": [
             {
-                "label": "Smithsonian Magazine",
-                "url": "https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/"
+                "label": "RTL",
+                "url":"https://www.rtl.fr/culture/culture-generale/pourquoi-la-joconde-n-a-pas-de-sourcils-7900249152"
             },
             {
-                "label": "National Geographic",
-                "url": "https://www.nationalgeographic.com/animals/article/honey-never-spoils-science"
+                "label": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Mona_Lisa#:~:text=In%202007%2C%20French%20engineer%20Pascal,as%20a%20result%20of%20overcleaning."
             }
         ]
     },
     {
         "date": "2026-04-06",
-        "title": "Les corbeaux reconnaissent les visages humains",
-        "summary": "Des chercheurs ont prouvé que les corbeaux mémorisent les visages humains pendant des années. Si vous offensez un corbeau, tout son groupe s'en souviendra et vous le fera savoir.",
-        "body": "Les corbeaux ne sont pas seulement intelligents — ils sont rancuniers. Des chercheurs de l'Université de Washington ont mené une expérience devenue célèbre : des scientifiques portant des masques spécifiques ont capturé et bagué des corbeaux. Des mois plus tard, les corbeaux harcelaient et plongeaient sur quiconque portait ce masque, même des personnes qu'ils n'avaient jamais vues.\n\nLe plus impressionnant, c'est que la rancune se transmet socialement. Des corbeaux qui n'avaient pas été capturés mais avaient simplement observé la scène ont eux aussi appris à identifier et à attaquer le visage menaçant. Des scanners cérébraux ont révélé que les corbeaux traitent les visages dans une région analogue à l'aire fusiforme des visages chez l'humain — une convergence évolutive remarquable entre des cerveaux séparés par 300 millions d'années d'évolution.\n\nCes oiseaux fabriquent aussi des outils, résolvent des puzzles à plusieurs étapes, et offrent des cadeaux aux humains qui les nourrissent régulièrement. En Nouvelle-Calédonie, des corbeaux ont été observés en train de plier du fil métallique pour fabriquer des crochets — un comportement jamais observé chez les grands singes dans la nature. La prochaine fois que vous croisez un corbeau, souriez. Il s'en souviendra.",
-        "image": "https://picsum.photos/seed/crows/480/480",
-        "category": "nature",
+        "title": "L'effet de simple exposition",
+        "summary": "Plus vous voyez quelque chose — un visage, une chanson, un logo — plus vous l'appréciez. Ce biais cognitif, découvert en 1968, explique pourquoi la publicité fonctionne même quand elle est mauvaise.",
+        "body": "En 1968, le psychologue Robert Zajonc a fait une découverte dérangeante : nous aimons davantage les choses simplement parce que nous les avons déjà vues. Il a montré des caractères chinois à des participants anglophones, certains une seule fois, d'autres jusqu'à vingt-cinq fois. Résultat : les caractères vus le plus souvent étaient systématiquement jugés plus « agréables », même si les participants ne pouvaient pas les identifier consciemment.\n\nCet « effet de simple exposition » explique énormément de choses dans notre vie quotidienne. C'est pour ça que les publicitaires matraquent le même spot en boucle — même une pub agaçante finit par créer de la familiarité, et la familiarité se transforme en préférence. C'est aussi pour ça que les chansons qu'on détestait au début finissent par nous plaire après quelques écoutes forcées à la radio.\n\nL'effet fonctionne même en dessous du seuil de conscience. Des images flashées pendant quelques millisecondes, trop brièvement pour être véritablement perçues, influencent quand même nos préférences. Le plus troublant, c'est que cet effet s'applique aussi aux visages : nous trouvons plus attirantes les personnes que nous croisons régulièrement, indépendamment de leur apparence. La familiarité ne nourrit pas le mépris, elle nourrit l'affection. À méditer la prochaine fois que vous jurez ne pas aimer une chanson !",
+        "image": "",
+        "category": "psychology",
         "references": [
             {
-                "label": "Université de Washington",
-                "url": "https://www.washington.edu/news/2012/09/10/crows-react-to-threats-in-human-like-way/"
+                "label": "EBSCO",
+                "url":"https://www.ebsco.com/research-starters/psychology/mere-exposure-effect"
             },
             {
-                "label": "Current Biology",
-                "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(12)00831-0"
+                "label": "Wikipedia",
+                "url": "https://fr.wikipedia.org/wiki/Effet_de_simple_exposition1"
             }
         ]
     },
     {
         "date": "2026-04-07",
-        "title": "Il y a plus d'arbres sur Terre que d'étoiles dans la Voie lactée",
-        "summary": "La Terre abrite environ 3 000 milliards d'arbres, contre 100 à 400 milliards d'étoiles dans notre galaxie. Mais nous en perdons 10 milliards par an — le compteur tourne dans le mauvais sens.",
-        "body": "En 2015, une étude publiée dans Nature a stupéfié la communauté scientifique : la Terre abrite environ 3 000 milliards d'arbres. C'est environ huit fois plus que les estimations précédentes, et surtout, c'est bien plus que le nombre d'étoiles dans la Voie lactée, estimé entre 100 et 400 milliards.\n\nCe chiffre peut donner l'impression que tout va bien, mais la réalité est moins rose. Nous perdons environ 10 milliards d'arbres par an à cause de la déforestation, de l'agriculture et de l'urbanisation. Depuis le début de la civilisation humaine, le nombre total d'arbres sur la planète a chuté de 46%. Au rythme actuel, nous retirons en un an ce que la nature met des décennies à reconstruire.\n\nCe qui rend cette comparaison saisissante, c'est qu'elle inverse notre perception habituelle. On imagine l'espace comme infiniment vaste et la Terre comme modeste, mais en termes de « choses à compter », notre petite planète bleue bat notre galaxie entière. Chaque arbre est une machine biologique qui capture le carbone, produit de l'oxygène, abrite des espèces et régule le climat. Trois mille milliards de machines comme ça, et on les traite comme si elles étaient inépuisables.",
-        "image": "https://picsum.photos/seed/treescount/480/480",
-        "category": "nature",
-        "references": [
-            {
-                "label": "Nature",
-                "url": "https://www.nature.com/articles/nature14967"
-            },
-            {
-                "label": "Yale School of the Environment",
-                "url": "https://environment.yale.edu/news/article/global-tree-count-is-3-trillion"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-08",
-        "title": "Les requins sont plus vieux que les arbres",
-        "summary": "Les premiers requins nageaient dans les océans il y a 450 millions d'années. Les premiers arbres ne sont apparus que 90 millions d'années plus tard. Les requins ont survécu à cinq extinctions massives.",
-        "body": "Les requins nagent dans les océans de la Terre depuis environ 450 millions d'années. Les premiers arbres, eux, ne sont apparus qu'il y a environ 360 millions d'années. Autrement dit, les requins ont eu le monopole de la planète pendant 90 millions d'années avant qu'un seul arbre ne pousse. Pour donner un ordre de grandeur, 90 millions d'années, c'est plus que le temps qui sépare la disparition des dinosaures de notre époque.\n\nLes requins ont survécu aux cinq grandes extinctions massives de l'histoire de la Terre, y compris celle du Permien-Trias qui a anéanti 96% des espèces marines. Ils étaient là avant les dinosaures, ils ont traversé leur règne, et ils leur ont survécu. Leur conception biologique — un squelette cartilagineux, des sens ultra-développés, une efficacité hydrodynamique parfaite — s'est avérée extraordinairement résiliente.\n\nMalgré cette endurance de 450 millions d'années, les requins sont aujourd'hui menacés comme jamais. Un quart des espèces de requins et de raies sont en danger d'extinction, principalement à cause de la surpêche et du commerce des ailerons. Il aura fallu à l'humanité quelques décennies pour mettre en péril ce que cinq apocalypses n'avaient pas réussi à détruire.",
-        "image": "https://picsum.photos/seed/sharksold/480/480",
-        "category": "nature",
-        "references": [
-            {
-                "label": "American Museum of Natural History",
-                "url": "https://www.amnh.org/explore/ology/biology/the-evolution-of-sharks"
-            },
-            {
-                "label": "Nature - Shark Conservation",
-                "url": "https://www.nature.com/articles/s41586-021-03324-w"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-09",
-        "title": "Le nombre de Dunbar : 150 relations maximum",
-        "summary": "L'anthropologue Robin Dunbar a démontré que notre cerveau ne peut maintenir que 150 relations sociales stables. Au-delà, il faut des règles et des institutions. Vos 2 000 amis Facebook sont une illusion.",
-        "body": "Dans les années 1990, l'anthropologue britannique Robin Dunbar a observé une corrélation entre la taille du néocortex des primates et la taille de leurs groupes sociaux. En extrapolant au cerveau humain, il a estimé que nous ne pouvons maintenir que 150 relations sociales stables — des personnes que vous reconnaîtriez et avec lesquelles vous pourriez avoir une interaction non gênante si vous les croisiez dans un café.\n\nCe nombre de 150 apparaît partout. C'est la taille moyenne d'un village néolithique, d'une compagnie militaire romaine, d'une communauté amish, et de la plupart des entreprises qui fonctionnent sans bureaucratie formelle. Au-delà de 150, les groupes humains ont besoin de hiérarchies, de règles et de normes sociales pour rester cohérents. En dessous, la confiance mutuelle suffit.\n\nÀ l'ère des réseaux sociaux, le nombre de Dunbar est plus pertinent que jamais. Vous pouvez avoir 2 000 « amis » sur Facebook, mais des études montrent que vous n'interagissez régulièrement qu'avec 5 à 15 d'entre eux. Dunbar lui-même distingue des cercles concentriques : 5 relations intimes, 15 amis proches, 50 bons amis, et 150 relations stables. Au-delà, ce ne sont que des connaissances — des visages que votre cerveau n'a tout simplement pas la capacité de gérer.",
-        "image": "https://picsum.photos/seed/dunbar/480/480",
-        "category": "psychology",
-        "references": [
-            {
-                "label": "Robin Dunbar - How Many Friends Does One Person Need?",
-                "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674057166"
-            },
-            {
-                "label": "Royal Society Open Science",
-                "url": "https://royalsocietypublishing.org/doi/10.1098/rsos.150292"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-10",
-        "title": "Votre cerveau consomme 20% de votre énergie",
-        "summary": "Votre cerveau ne représente que 2% de votre poids, mais il consomme 20% de votre énergie totale. Même au repos, il brûle autant de calories qu'une ampoule de 20 watts.",
-        "body": "Votre cerveau pèse environ 1,4 kilogramme — à peine 2% de votre masse corporelle. Pourtant, il consomme environ 20% de votre énergie totale au repos, soit environ 400 calories par jour. C'est disproportionné, et c'est le prix à payer pour faire fonctionner la structure la plus complexe connue dans l'univers.\n\nCette consommation est remarquablement constante. Que vous résolviez un problème de mathématiques ou que vous regardiez le plafond, votre cerveau consomme à peu près la même quantité d'énergie. La majorité de cette énergie sert à maintenir les signaux électriques entre vos 86 milliards de neurones — un réseau qui, s'il était déroulé, mesurerait environ 170 000 kilomètres.\n\nDu point de vue évolutif, un organe aussi énergivore est un pari risqué. Pendant les périodes de famine, le cerveau continue d'exiger sa part, même si le reste du corps souffre. C'est pour ça que notre corps a développé des mécanismes prioritaires : en cas de manque de glucose, le cerveau est le dernier organe à être privé. L'évolution a misé gros sur notre matière grise — et visiblement, le pari a payé.",
-        "image": "https://picsum.photos/seed/brainenergy/480/480",
-        "category": "psychology",
-        "references": [
-            {
-                "label": "Proceedings of the National Academy of Sciences",
-                "url": "https://www.pnas.org/doi/10.1073/pnas.0803504105"
-            },
-            {
-                "label": "Scientific American",
-                "url": "https://www.scientificamerican.com/article/why-does-the-brain-need-s/"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-11",
-        "title": "L'effet de simple exposition",
-        "summary": "Plus vous voyez quelque chose — un visage, une chanson, un logo — plus vous l'appréciez. Ce biais cognitif, découvert en 1968, explique pourquoi la publicité fonctionne même quand elle est mauvaise.",
-        "body": "En 1968, le psychologue Robert Zajonc a fait une découverte dérangeante : nous aimons davantage les choses simplement parce que nous les avons déjà vues. Il a montré des caractères chinois à des participants anglophones, certains une seule fois, d'autres jusqu'à vingt-cinq fois. Résultat : les caractères vus le plus souvent étaient systématiquement jugés plus « agréables », même si les participants ne pouvaient pas les identifier consciemment.\n\nCet « effet de simple exposition » explique énormément de choses dans notre vie quotidienne. C'est pour ça que les publicitaires matraquent le même spot en boucle — même une pub agaçante finit par créer de la familiarité, et la familiarité se transforme en préférence. C'est aussi pour ça que les chansons qu'on détestait au début finissent par nous plaire après quelques écoutes forcées à la radio.\n\nL'effet fonctionne même en dessous du seuil de conscience. Des images flashées pendant quelques millisecondes — trop brièvement pour être perçues — influencent quand même nos préférences. Le plus troublant, c'est que cet effet s'applique aussi aux visages : nous trouvons plus attirantes les personnes que nous croisons régulièrement, indépendamment de leur apparence. La familiarité ne nourrit pas le mépris — elle nourrit l'affection. À méditer la prochaine fois que vous jurez ne pas aimer une chanson.",
-        "image": "https://picsum.photos/seed/mereexposure/480/480",
-        "category": "psychology",
-        "references": [
-            {
-                "label": "Journal of Personality and Social Psychology - Zajonc 1968",
-                "url": "https://psycnet.apa.org/record/1968-12019-001"
-            },
-            {
-                "label": "Psychological Bulletin",
-                "url": "https://psycnet.apa.org/record/2001-10085-001"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-12",
-        "title": "La fatigue décisionnelle existe vraiment",
-        "summary": "Plus vous prenez de décisions dans la journée, plus vos choix suivants se dégradent. Des juges israéliens accordent 65% de libérations conditionnelles le matin — et presque zéro en fin de journée.",
-        "body": "En 2011, une étude publiée dans les Proceedings of the National Academy of Sciences a analysé 1 112 décisions de libération conditionnelle prises par des juges israéliens. Le résultat est glaçant : en début de session, les juges accordaient la liberté dans environ 65% des cas. Juste avant la pause déjeuner, ce taux tombait à presque zéro. Après le repas, il remontait à 65% avant de chuter à nouveau.\n\nC'est la fatigue décisionnelle — l'idée que notre capacité à prendre de bonnes décisions s'épuise au fil de la journée comme un muscle fatigué. Quand notre énergie mentale décline, nous optons pour le choix par défaut, celui qui demande le moins d'effort cognitif. Pour un juge, le choix par défaut est de refuser la libération — c'est l'option la plus sûre et la moins risquée.\n\nCette découverte a des implications profondes pour la vie quotidienne. C'est pour ça que Steve Jobs portait toujours le même col roulé noir et que Mark Zuckerberg porte le même t-shirt gris : réduire le nombre de décisions triviales pour préserver sa capacité de jugement pour les décisions importantes. Si vous avez un choix majeur à faire, faites-le le matin. Et si vous passez devant un juge, priez pour avoir un créneau juste après le déjeuner.",
-        "image": "https://picsum.photos/seed/decisionfatigue/480/480",
-        "category": "psychology",
-        "references": [
-            {
-                "label": "PNAS - Extraneous factors in judicial decisions",
-                "url": "https://www.pnas.org/doi/10.1073/pnas.1018033108"
-            },
-            {
-                "label": "New York Times",
-                "url": "https://www.nytimes.com/2011/08/21/magazine/do-you-suffer-from-decision-fatigue.html"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-13",
-        "title": "Vous ne pouvez pas vous chatouiller vous-même",
-        "summary": "Votre cervelet prédit les sensations causées par vos propres mouvements et les « annule ». C'est pour ça que vos propres chatouilles ne fonctionnent pas — votre cerveau savait que ça arrivait.",
-        "body": "Essayez de vous chatouiller vous-même. Ça ne marche pas, n'est-ce pas ? Ce n'est pas un manque de technique — c'est votre cerveau qui sabote l'expérience. Le cervelet, cette structure à l'arrière de votre crâne, prédit en permanence les conséquences sensorielles de vos propres actions. Quand c'est votre main qui fait le mouvement, il anticipe exactement la sensation et l'atténue.\n\nDes chercheurs de l'University College London ont utilisé un robot pour introduire un délai minuscule entre le mouvement de la main d'un participant et la sensation sur son autre main. Résultat : plus le délai augmentait, plus la sensation était chatouillante. Il suffit d'un décalage de 200 millisecondes pour tromper le cerveau et lui faire croire que la sensation vient de l'extérieur.\n\nCe mécanisme existe pour une raison fondamentale : distinguer les sensations que vous produisez vous-même de celles qui viennent du monde extérieur. C'est crucial pour la survie — vous devez pouvoir ignorer le frottement de vos vêtements mais réagir instantanément à un insecte sur votre peau. Fait intéressant : les personnes atteintes de schizophrénie peuvent souvent se chatouiller elles-mêmes, ce qui suggère que ce trouble affecte la capacité du cerveau à distinguer les actions propres de celles d'autrui.",
-        "image": "https://picsum.photos/seed/tickle/480/480",
-        "category": "psychology",
-        "references": [
-            {
-                "label": "Nature Neuroscience",
-                "url": "https://www.nature.com/articles/nn1295"
-            },
-            {
-                "label": "Current Biology",
-                "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(00)00295-3"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-14",
-        "title": "Plus de parties d'échecs possibles que d'atomes dans l'univers",
-        "summary": "Le nombre de parties d'échecs possibles est estimé à 10^120 — le nombre de Shannon. L'univers observable ne contient « que » 10^80 atomes. Chaque partie que vous jouez est probablement unique dans l'histoire.",
-        "body": "En 1950, le mathématicien Claude Shannon a estimé le nombre de parties d'échecs théoriquement possibles à environ 10^120. Pour mettre ce chiffre en perspective, le nombre total d'atomes dans l'univers observable est d'environ 10^80. Le nombre de Shannon est donc un 1 suivi de 120 zéros — un chiffre si astronomique qu'il défie toute métaphore.\n\nCela signifie que chaque partie d'échecs que vous jouez est, avec une quasi-certitude, unique dans toute l'histoire de l'humanité. Même si tous les humains ayant jamais vécu avaient joué aux échecs en permanence depuis le Big Bang, on n'aurait exploré qu'une fraction infinitésimale de toutes les parties possibles.\n\nCe qui rend les échecs fascinants pour les informaticiens, c'est que malgré des règles simples, la complexité explose de manière combinatoire. Après seulement quatre coups de chaque côté, il existe déjà 288 milliards de positions possibles. C'est cette explosion combinatoire qui a fait des échecs le terrain de jeu idéal pour l'intelligence artificielle, de Deep Blue en 1997 à AlphaZero en 2017. Et pourtant, même les meilleurs algorithmes ne font que gratter la surface de cet océan de possibilités.",
-        "image": "https://picsum.photos/seed/chessgame/480/480",
-        "category": "culture",
-        "references": [
-            {
-                "label": "Shannon - Programming a Computer for Playing Chess",
-                "url": "https://vision.unipv.it/IA1/ProgramssPlayingChess-Shannon.pdf"
-            },
-            {
-                "label": "Scientific American",
-                "url": "https://www.scientificamerican.com/article/chess-and-the-limits-of-computation/"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-15",
-        "title": "\"OK\" est le mot le plus prononcé au monde",
-        "summary": "Le mot « OK » est compris dans pratiquement toutes les langues du monde. Né en 1839 comme une blague d'orthographe dans un journal de Boston, il est devenu le mot le plus universellement reconnu de l'histoire.",
-        "body": "Le mot « OK » est probablement le mot le plus universellement reconnu de la planète. Il est compris en mandarin, en arabe, en swahili, en finnois — dans pratiquement toutes les langues du monde. Son origine est étonnamment bien documentée : il apparaît pour la première fois le 23 mars 1839 dans le Boston Morning Post, comme une abréviation humoristique de « oll korrect » (une déformation volontaire de « all correct »), dans le cadre d'une mode d'abréviations comiques qui traversait les journaux américains de l'époque.\n\nCe qui aurait dû rester une blague éphémère a été propulsé par la campagne présidentielle de Martin Van Buren en 1840. Surnommé « Old Kinderhook » d'après sa ville natale, Van Buren a adopté « OK » comme slogan. Des « OK Clubs » se sont formés dans tout le pays. Van Buren a perdu l'élection, mais le mot a gagné la guerre.\n\nLe linguiste Allan Metcalf a consacré un livre entier à ce mot de deux lettres, le décrivant comme « l'invention la plus remarquable de la langue américaine ». Sa force tient à sa neutralité parfaite : « OK » n'est ni enthousiaste ni négatif, ni formel ni familier. C'est le mot par défaut de l'humanité pour dire « ça passe » — et c'est peut-être pour ça qu'il a conquis le monde.",
-        "image": "https://picsum.photos/seed/okword/480/480",
-        "category": "culture",
-        "references": [
-            {
-                "label": "Allan Metcalf - OK: The Improbable Story",
-                "url": "https://global.oup.com/academic/product/ok-9780195377934"
-            },
-            {
-                "label": "BBC",
-                "url": "https://www.bbc.com/culture/article/20180212-the-true-origins-of-ok"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-16",
-        "title": "Shakespeare a inventé plus de 1 700 mots",
-        "summary": "« Eyeball », « lonely », « generous », « assassination » — tous inventés par Shakespeare. Il a créé plus de 1 700 mots anglais, dont beaucoup sont utilisés quotidiennement sans que personne ne le sache.",
-        "body": "William Shakespeare n'était pas seulement un dramaturge de génie — c'était aussi un fabricant de mots prolifique. On lui attribue l'invention ou la première utilisation écrite de plus de 1 700 mots anglais : « eyeball » (globe oculaire), « lonely » (solitaire), « generous » (généreux), « assassination » (assassinat), « bedroom » (chambre à coucher), « addiction » (dépendance) et même « swagger » (fanfaronnade).\n\nIl faut nuancer : « inventer » un mot signifie ici qu'il est le premier à l'avoir utilisé par écrit dans un document qui a survécu. Certains de ces mots existaient probablement à l'oral avant lui. Mais sa contribution reste colossale — il a aussi inventé des expressions comme « break the ice » (briser la glace), « wild goose chase » (chasse à l'oie sauvage, devenu « entreprise vaine ») et « heart of gold » (cœur d'or).\n\nCe qui rend Shakespeare unique, ce n'est pas seulement le volume de ses néologismes, mais leur taux de survie. La plupart des mots inventés par un auteur meurent avec lui. Les siens sont devenus si naturels qu'on ne les reconnaît même plus comme des inventions. Le fait que vous puissiez utiliser le mot « lonely » dans une conversation sans penser à Shakespeare est peut-être son plus grand tour de force.",
-        "image": "https://picsum.photos/seed/shakespeare/480/480",
-        "category": "culture",
-        "references": [
-            {
-                "label": "Oxford English Dictionary",
-                "url": "https://www.oed.com/discover/shakespeare-s-influence-on-the-english-language"
-            },
-            {
-                "label": "British Library",
-                "url": "https://www.bl.uk/shakespeare/articles/shakespeares-influence-on-the-english-language"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-17",
-        "title": "La guerre la plus courte a duré 38 minutes",
-        "summary": "Le 27 août 1896, l'Empire britannique a déclaré la guerre au sultanat de Zanzibar. 38 minutes plus tard, c'était fini. Le sultan avait un yacht armé et 2 800 hommes. Les Britanniques avaient cinq navires de guerre.",
-        "body": "Le 27 août 1896, à 9h00 précises, la Royal Navy a ouvert le feu sur le palais du sultan de Zanzibar. À 9h38, le sultan Khalid ibn Barghash avait fui par la porte de derrière, son palais était en ruines, et la guerre était terminée. Trente-huit minutes — le conflit armé le plus court de l'histoire enregistrée.\n\nLa cause ? Le sultan Khalid avait pris le pouvoir sans l'approbation des Britanniques, ce qui violait un traité de 1886. Les Britanniques lui avaient donné un ultimatum : abdiquer avant 9h00 le 27 août. Khalid a choisi de résister. Il disposait de 2 800 défenseurs et d'un yacht armé, le HHS Glasgow (ironiquement, un cadeau des Britanniques). Face à lui : cinq navires de guerre britanniques et leurs canons de marine.\n\nLe bilan fut d'environ 500 victimes côté zanzibarite, et un seul blessé côté britannique. Le yacht du sultan a été coulé dans le port — la seule perte navale de Zanzibar, et probablement la bataille navale la plus asymétrique de l'histoire. Khalid s'est réfugié au consulat allemand, et les Britanniques ont installé un sultan plus coopératif. L'épisode illustre brutalement la disproportion du pouvoir colonial à la fin du XIXe siècle.",
-        "image": "https://picsum.photos/seed/shortestwar/480/480",
-        "category": "culture",
-        "references": [
-            {
-                "label": "Britannica",
-                "url": "https://www.britannica.com/event/Anglo-Zanzibar-War"
-            },
-            {
-                "label": "Guinness World Records",
-                "url": "https://www.guinnessworldrecords.com/world-records/shortest-war"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-18",
-        "title": "La Joconde n'a pas de sourcils",
-        "summary": "Mona Lisa n'a ni sourcils ni cils. Pendant des siècles, on a cru que c'était un choix esthétique de Léonard de Vinci. En 2007, un scan haute résolution a révélé qu'ils avaient simplement disparu avec le temps.",
-        "body": "Regardez attentivement la Joconde : elle n'a ni sourcils ni cils. Pendant des siècles, cette absence a alimenté les théories les plus variées. Certains y voyaient un reflet de la mode de la Renaissance, où les femmes s'épilaient le front et les sourcils pour paraître plus élégantes. D'autres pensaient que c'était une décision artistique délibérée de Léonard de Vinci.\n\nEn 2007, l'ingénieur français Pascal Cotte a photographié le tableau avec une caméra multispectrale de 240 mégapixels, capable de voir au-delà des couches de vernis et de peinture. Verdict : Léonard avait bien peint des sourcils et des cils, mais ils ont disparu au fil des siècles, probablement effacés par des restaurations maladroites et le vieillissement naturel des pigments les plus fins.\n\nCette découverte nous rappelle que les œuvres d'art que nous voyons aujourd'hui ne sont pas exactement celles que leurs créateurs ont peintes. La Joconde a été vernie, nettoyée, transférée sur un autre support, et son fameux sfumato — cette brume qui donne au visage son mystère — s'est probablement estompé avec le temps. Le tableau que cinq millions de visiteurs admirent chaque année au Louvre est une version altérée de l'original. Le vrai sourire de Mona Lisa, personne ne l'a vu depuis des siècles.",
-        "image": "https://picsum.photos/seed/monalisa/480/480",
-        "category": "culture",
-        "references": [
-            {
-                "label": "BBC News",
-                "url": "https://www.bbc.com/news/entertainment-arts-41tried"
-            },
-            {
-                "label": "Lumiere Technology - Pascal Cotte",
-                "url": "https://www.lumiere-technology.com/Pages/News/news2.htm"
-            },
-            {
-                "label": "The Guardian",
-                "url": "https://www.theguardian.com/world/2007/oct/22/france.art"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-19",
-        "title": "Un jour sur Vénus dure plus longtemps que son année",
-        "summary": "Vénus met 243 jours terrestres pour tourner sur elle-même, mais seulement 225 jours pour faire le tour du Soleil. Un jour vénusien dure donc plus longtemps qu'une année vénusienne.",
-        "body": "Vénus est la planète de tous les paradoxes. Elle met 243 jours terrestres pour effectuer une rotation complète sur son axe, mais seulement 225 jours pour boucler son orbite autour du Soleil. Résultat : un jour vénusien (au sens astronomique) dure plus longtemps qu'une année vénusienne. Si vous fêtiez votre anniversaire sur Vénus, il arriverait avant la fin de votre « journée ».\n\nEt comme si ça ne suffisait pas, Vénus tourne à l'envers. Elle est l'une des deux seules planètes du système solaire (avec Uranus) à avoir une rotation rétrograde : le Soleil s'y lève à l'ouest et se couche à l'est. Les astronomes ne savent toujours pas exactement pourquoi, mais l'hypothèse principale est qu'un impact géant l'a retournée à un moment de son histoire, ou que des effets de marée atmosphérique ont progressivement inversé sa rotation.\n\nMalgré ces bizarreries, Vénus est souvent surnommée la « sœur jumelle » de la Terre en raison de sa taille et de sa masse similaires. Mais les ressemblances s'arrêtent là : sa surface atteint 465°C (assez pour faire fondre le plomb), sa pression atmosphérique est 90 fois celle de la Terre, et son atmosphère est composée à 96% de CO2. C'est un exemple terrifiant de ce que l'effet de serre peut faire quand il s'emballe — une leçon que notre propre planète ferait bien de méditer.",
-        "image": "https://picsum.photos/seed/venusday/480/480",
-        "category": "numbers",
-        "references": [
-            {
-                "label": "NASA - Venus Facts",
-                "url": "https://science.nasa.gov/venus/venus-facts/"
-            },
-            {
-                "label": "Nature Astronomy",
-                "url": "https://www.nature.com/articles/s41550-021-01339-7"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-20",
-        "title": "La Terre en ballon de basket, la Lune en balle de tennis à 7m",
-        "summary": "Si la Terre avait la taille d'un ballon de basket, la Lune serait une balle de tennis placée à 7 mètres. L'espace entre les deux est bien plus vaste qu'on ne l'imagine.",
-        "body": "On voit toujours la Terre et la Lune côte à côte dans les illustrations, séparées par un petit espace. C'est une illusion complète. Si la Terre avait la taille d'un ballon de basket (environ 24 cm de diamètre), la Lune serait une balle de tennis (environ 7 cm) placée à plus de 7 mètres de distance. L'espace entre les deux est immense — assez vaste pour y caser toutes les autres planètes du système solaire alignées.\n\nCette distance — environ 384 400 kilomètres en réalité — est suffisante pour que la lumière mette 1,3 seconde à la parcourir. Quand les astronautes d'Apollo parlaient avec Houston, il y avait un délai perceptible dans chaque échange. Et la Lune s'éloigne : elle recule d'environ 3,8 centimètres par an à cause des forces de marée, un phénomène mesuré grâce aux réflecteurs laser laissés sur sa surface par les missions Apollo.\n\nCette maquette mentale est un excellent exercice pour appréhender les distances dans l'espace. À la même échelle, le Soleil serait un ballon de 26 mètres de diamètre situé à 2,8 kilomètres. Et Proxima Centauri, l'étoile la plus proche ? Un autre ballon similaire, mais à 750 000 kilomètres — presque deux fois la distance réelle Terre-Lune. L'espace porte décidément bien son nom.",
-        "image": "https://picsum.photos/seed/earthmoonscale/480/480",
-        "category": "numbers",
-        "references": [
-            {
-                "label": "NASA - Earth's Moon",
-                "url": "https://science.nasa.gov/moon/"
-            },
-            {
-                "label": "Astronomy Magazine",
-                "url": "https://www.astronomy.com/science/how-far-away-is-the-moon/"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-21",
-        "title": "Vous clignez des yeux 28 000 fois par jour",
-        "summary": "Vous clignez des yeux environ 28 000 fois par jour — bien plus que nécessaire pour les humidifier. En fait, votre cerveau utilise les clignements comme des micro-pauses pour réinitialiser l'attention.",
-        "body": "Vous clignez des yeux environ 15 à 20 fois par minute, soit entre 20 000 et 28 000 fois par jour. Chaque clignement dure entre 100 et 150 millisecondes. Faites le calcul : vous passez environ 10% de vos heures d'éveil avec les yeux fermés, rien qu'à cause des clignements. Et pourtant, vous ne remarquez jamais ces micro-coupures dans votre perception visuelle.\n\nLa raison est fascinante. Des chercheurs de l'University College London ont découvert que le cerveau supprime activement la perception visuelle pendant un clignement — un phénomène appelé « suppression saccadique ». Votre cerveau « comble les trous » en maintenant la dernière image perçue, créant une illusion de continuité visuelle parfaite.\n\nMais pourquoi cligner autant ? Humidifier la cornée ne nécessiterait que trois ou quatre clignements par minute. Des études en neuroimagerie ont montré que les clignements coïncident avec des moments de transition attentionnelle : la fin d'une phrase dans une conversation, la chute d'une blague, une pause dans un film. Votre cerveau utilise les clignements comme des « points de ponctuation » mentaux — de brèves micro-pauses pour réinitialiser le réseau de l'attention. Vous ne clignez pas quand vos yeux sont secs ; vous clignez quand votre cerveau a besoin de souffler.",
-        "image": "https://picsum.photos/seed/blinking/480/480",
-        "category": "numbers",
-        "references": [
-            {
-                "label": "PNAS - Blink Timing",
-                "url": "https://www.pnas.org/doi/10.1073/pnas.1214804110"
-            },
-            {
-                "label": "Current Biology",
-                "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(05)00033-1"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-22",
         "title": "La foudre frappe la Terre 100 fois par seconde",
-        "summary": "À chaque instant, environ 2 000 orages actifs produisent 100 éclairs par seconde sur Terre. Cela représente 8,6 millions de coups de foudre par jour — et chacun est cinq fois plus chaud que la surface du Soleil.",
-        "body": "En ce moment même, environ 2 000 orages sont actifs simultanément à la surface du globe, produisant environ 100 éclairs par seconde. Cela représente 8,6 millions de coups de foudre par jour et plus de 3 milliards par an. La foudre n'est pas un événement rare — c'est un phénomène permanent et planétaire.\n\nChaque éclair atteint une température d'environ 30 000 degrés Celsius — soit cinq fois la température de la surface du Soleil. Cette chaleur extrême provoque une expansion brutale de l'air, créant l'onde de choc que nous percevons comme le tonnerre. La lumière de l'éclair voyage à 300 000 km/s, le son à seulement 340 m/s — d'où le décalage entre le flash et le grondement, qui vous permet d'estimer la distance de l'orage (environ 3 secondes par kilomètre).\n\nLa foudre joue aussi un rôle chimique méconnu. En traversant l'atmosphère, elle fixe l'azote et crée des composés azotés qui tombent avec la pluie et fertilisent le sol. Avant l'invention des engrais synthétiques, la foudre était l'une des principales sources naturelles d'azote pour les plantes. Un orage n'est donc pas seulement un spectacle — c'est un engrais cosmique gratuit, livré à domicile par la physique.",
-        "image": "https://picsum.photos/seed/lightning/480/480",
+        "summary": "Chaque seconde, environ 2 000 orages actifs produisent 100 éclairs sur Terre. Cela représente 8,6 millions de coups de foudre par jour, et chacun est cinq fois plus chaud que la surface du Soleil.",
+        "body": "En ce moment même, environ 2 000 orages sont actifs simultanément à la surface du globe, produisant environ 100 éclairs par seconde. Cela représente 8,6 millions de coups de foudre par jour et plus de 3 milliards par an. Contrairement à ce que l'on peut penser, la foudre n'est pas un événement rare mais plutôt un phénomène permanent et planétaire.\n\nChaque éclair atteint une température d'environ 30 000 degrés Celsius, soit cinq fois la température de la surface du Soleil. Cette chaleur extrême provoque une expansion brutale de l'air, créant l'onde de choc que nous percevons comme le tonnerre. La lumière de l'éclair voyage à 300 000 km/s, le son à seulement 340 m/s (d'où le décalage entre le flash et le grondement), ce qui vous permet d'estimer la distance de l'orage (environ 3 secondes par kilomètre).\n\nLa foudre joue aussi un rôle chimique méconnu. En traversant l'atmosphère, elle fixe l'azote et crée des composés azotés qui tombent avec la pluie et fertilisent le sol. Avant l'invention des engrais synthétiques, la foudre était l'une des principales sources naturelles d'azote pour les plantes. Un orage n'est donc pas seulement un spectacle — c'est un engrais cosmique gratuit, livré à domicile par la physique.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Lightning_Pritzerbe_01_%28MK%29.jpg/1920px-Lightning_Pritzerbe_01_%28MK%29.jpg",
         "category": "numbers",
         "references": [
             {
-                "label": "NOAA - Lightning Science",
-                "url": "https://www.nssl.noaa.gov/education/svrwx101/lightning/"
-            },
-            {
-                "label": "NASA - Lightning",
-                "url": "https://science.nasa.gov/earth/10-things-lightning/"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-23",
-        "title": "Une cuillère d'étoile à neutrons pèse 6 milliards de tonnes",
-        "summary": "La matière d'une étoile à neutrons est si dense qu'une seule cuillère à café pèserait environ 6 milliards de tonnes — autant que le mont Everest tout entier concentré dans un dé à coudre.",
-        "body": "Quand une étoile massive meurt en supernova, son noyau s'effondre sous sa propre gravité jusqu'à ce que les protons et les électrons fusionnent pour former des neutrons. Le résultat est une étoile à neutrons : un objet d'environ 20 kilomètres de diamètre — la taille d'une ville — mais contenant une masse supérieure à celle du Soleil. La densité qui en résulte est presque inconcevable.\n\nUne cuillère à café de matière d'étoile à neutrons pèserait environ 6 milliards de tonnes sur Terre. C'est à peu près la masse du mont Everest compressée dans un volume de quelques centimètres cubes. À cette densité, toute l'humanité — les 8 milliards d'êtres humains — tiendrait dans un cube de sucre.\n\nCes objets tournent également sur eux-mêmes à des vitesses vertigineuses. Certains pulsars (des étoiles à neutrons en rotation) effectuent plus de 700 tours par seconde. Leur champ magnétique est un milliard de fois plus puissant que celui de la Terre. Et si deux étoiles à neutrons entrent en collision, l'événement est si violent qu'il crée des éléments lourds comme l'or et le platine. La bague que vous portez au doigt a probablement été forgée dans la collision de deux cadavres stellaires, il y a des milliards d'années.",
-        "image": "https://picsum.photos/seed/neutronstar/480/480",
-        "category": "numbers",
-        "references": [
-            {
-                "label": "NASA - Neutron Stars",
-                "url": "https://science.nasa.gov/universe/neutron-stars/"
-            },
-            {
-                "label": "Nature - Neutron Star Mergers",
-                "url": "https://www.nature.com/articles/nature24453"
-            },
-            {
-                "label": "Space.com",
-                "url": "https://www.space.com/22180-neutron-stars.html"
-            }
-        ]
-    },
-    {
-        "date": "default",
-        "title": "Le poids d'un nuage",
-        "summary": "Un seul nuage pèse autant que 100 éléphants. Il flotte quand même — car le poids seul ne détermine pas si quelque chose monte ou descend.",
-        "body": "Un nuage cumulus moyen pèse environ 500 000 kilogrammes — à peu près le poids de 100 éléphants. Malgré cette masse stupéfiante, les nuages flottent car leurs gouttelettes d'eau sont réparties sur un volume immense, rendant la densité bien inférieure à celle de l'air sec environnant. Les courants ascendants d'air chaud en dessous fournissent une portance continue.\n\nC'est un beau rappel que le poids seul ne détermine pas si quelque chose monte ou descend — la distribution et l'environnement comptent tout autant. Un nuage qui pèse autant qu'un troupeau d'éléphants flotte paisiblement au-dessus de nos têtes, simplement parce que sa masse est étalée sur un volume de plusieurs kilomètres cubes.\n\nLa prochaine fois que vous levez les yeux vers un ciel nuageux, souvenez-vous que ces formes blanches et légères en apparence transportent des centaines de tonnes d'eau. Et quand cette eau se concentre suffisamment pour que les gouttelettes grossissent et deviennent trop lourdes pour les courants ascendants, il se passe quelque chose de très simple : il pleut.",
-        "image": "https://picsum.photos/seed/clouds/480/480",
-        "category": "nature",
-        "references": [
-            {
-                "label": "NOAA",
-                "url": "https://www.noaa.gov/education"
-            },
-            {
-                "label": "National Geographic",
-                "url": "https://www.nationalgeographic.com/science/article/clouds"
+                "label": "Weather.gov",
+                "url":"https://www.weather.gov/mlb/lightning_facts"
             }
         ]
     }

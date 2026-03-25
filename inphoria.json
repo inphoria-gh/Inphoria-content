@@ -19,112 +19,10 @@
     },
     {
         "date": "2026-03-26",
-        "title": "Bananas Are Radioactive",
-        "summary": "Every banana you eat contains radioactive potassium-40. Don't panic — you'd need to eat 10 million bananas at once for a lethal dose.",
-        "body": "You've been eating radioactive fruit your entire life and nobody told you. Bananas contain potassium-40, a naturally occurring radioactive isotope, and every single one emits a tiny amount of radiation. Scientists even invented an informal unit called the \"Banana Equivalent Dose\" (BED) to help people conceptualize radiation exposure in everyday terms.\n\nBefore you swear off smoothies forever, let's put this in perspective. The radiation from one banana is about 0.01 millirem — roughly 1/100th of a chest X-ray. You'd need to eat approximately 10 million bananas in a single sitting to accumulate a lethal radiation dose. Your body is also pretty smart about this: it regulates potassium levels tightly, so eating more bananas doesn't actually increase the total amount of potassium-40 in your body. You just excrete the excess.\n\nWhat makes this genuinely interesting isn't the bananas themselves — it's what it reveals about how we think about risk. We live in a naturally radioactive world. The ground beneath you, the air you breathe, even your own body emits radiation constantly. Bananas just happen to be the most fun example of background radiation that's been with us forever. The universe is a little spicier than we like to admit.",
-        "image": "https://picsum.photos/seed/radiobanana/480/480",
-        "category": "science",
-        "references": [
-            {
-                "label": "EPA - Radiation Sources",
-                "url": "https://www.epa.gov/radiation/radiation-sources-and-doses"
-            },
-            {
-                "label": "Wikipedia - Banana Equivalent Dose",
-                "url": "https://en.wikipedia.org/wiki/Banana_equivalent_dose"
-            },
-            {
-                "label": "Forbes",
-                "url": "https://www.forbes.com/sites/quora/2016/07/15/how-radioactive-are-bananas-really/"
-            }
-        ]
-    },
-    {
-        "date": "2026-03-27",
-        "title": "The Universe Has a Color Called Cosmic Latte",
-        "summary": "In 2002, astronomers averaged the light of 200,000 galaxies and discovered the universe's overall color: a beige shade they named Cosmic Latte.",
-        "body": "If you could somehow blend all the light in the observable universe into a single color, you'd get... beige. Specifically, a pale creamy white that astronomers at Johns Hopkins University officially named \"Cosmic Latte\" in 2002. Karl Glazebrook and Ivan Baldry averaged the light from over 200,000 galaxies as part of the 2dF Galaxy Redshift Survey and computed the cosmic spectrum's average color.\n\nThe naming process was honestly the best part. The team initially announced the color as pale turquoise due to a software bug, which made headlines everywhere. After correcting the error, they held a vote among their team and the public for the real (much less exciting) beige shade. Suggestions included \"Cappuccino Cosmico,\" \"Big Bang Buff,\" \"Univeige,\" and \"Primordial Clam Chowder.\" Cosmic Latte won.\n\nThe color isn't static, though. In its early days, the universe would have appeared much bluer because young, hot stars dominated. As stars age and the universe expands, the overall hue has been gradually reddening. Billions of years from now, as fewer new stars form and old red dwarfs dominate, the cosmic color will shift toward a deeper red before eventually fading to black. We're living in the latte years — enjoy them.",
-        "image": "https://picsum.photos/seed/cosmiclatte/480/480",
-        "category": "science",
-        "references": [
-            {
-                "label": "Johns Hopkins University",
-                "url": "https://www.jhu.edu/news/news-releases/2002/01/the-universe-is-a-beige-y-kind-of-place/"
-            },
-            {
-                "label": "Wikipedia - Cosmic Latte",
-                "url": "https://en.wikipedia.org/wiki/Cosmic_latte"
-            },
-            {
-                "label": "BBC News",
-                "url": "https://news.bbc.co.uk/2/hi/science/nature/1869037.stm"
-            }
-        ]
-    },
-    {
-        "date": "2026-03-28",
-        "title": "Glass Is Not Actually a Liquid",
-        "summary": "Despite the popular myth about old cathedral windows being thicker at the bottom, glass is an amorphous solid — not a slow-flowing liquid.",
-        "body": "You've probably heard that glass is actually a very slow-moving liquid, and that old cathedral windows are thicker at the bottom because the glass has been slowly flowing downward for centuries. It's one of those facts that sounds perfectly plausible and gets repeated constantly. There's just one problem: it's completely wrong.\n\nGlass is what physicists call an amorphous solid. Unlike crystalline solids (think salt or diamond), its molecules don't arrange themselves in a neat, repeating lattice. Instead, they're frozen in a disordered arrangement, kind of like a snapshot of a liquid at a single moment. But \"disordered\" doesn't mean \"moving.\" At room temperature, the viscosity of glass is so astronomically high that it would take longer than the age of the universe for any measurable flow to occur.\n\nSo why are those old windows thicker at the bottom? The answer is much simpler: medieval glassmaking techniques produced panes of uneven thickness. When glaziers installed them, they naturally placed the heavier, thicker edge at the bottom for stability. Some old windows are actually thicker at the top or on the sides, which blows up the flowing-liquid theory entirely. It's a great reminder that elegant-sounding explanations aren't always the right ones.",
-        "image": "https://picsum.photos/seed/glasspane/480/480",
-        "category": "science",
-        "references": [
-            {
-                "label": "Scientific American",
-                "url": "https://www.scientificamerican.com/article/fact-fiction-glass-liquid/"
-            },
-            {
-                "label": "Journal of the American Ceramic Society",
-                "url": "https://ceramics.org/about/what-are-engineered-ceramics-and-glass/what-is-glass"
-            }
-        ]
-    },
-    {
-        "date": "2026-03-29",
-        "title": "Your Body Replaces Itself Every 7–10 Years",
-        "summary": "Most cells in your body are constantly dying and being replaced. In 7-10 years, nearly every atom in you is different — yet somehow, you're still you.",
-        "body": "Here's an identity crisis waiting to happen: almost every cell in your body is on a replacement schedule. Your stomach lining renews itself every few days. Red blood cells last about four months. Your skin completely replaces itself roughly every two to three weeks. Over the course of 7 to 10 years, the vast majority of atoms in your body will have been swapped out for new ones.\n\nThe \"almost\" is doing heavy lifting in that paragraph, though. Some cells break the pattern. The neurons in your cerebral cortex are largely the same ones you were born with — they have to be, because they store your memories and personality. The lenses of your eyes don't regenerate either, which is why they accumulate damage over a lifetime and eventually need reading glasses. Your heart muscle cells do replace themselves, but incredibly slowly — only about 1% per year.\n\nWhat's philosophically wild about this is the Ship of Theseus problem made flesh. If nearly every physical component of \"you\" has been replaced multiple times, what exactly makes you... you? Your pattern persists even as the material changes. You're less like a thing and more like a wave — a continuous process that happens to look solid. The atoms don't matter; the arrangement does.",
-        "image": "https://picsum.photos/seed/cellrenewal/480/480",
-        "category": "science",
-        "references": [
-            {
-                "label": "Cell - Retrospective Birth Dating of Cells",
-                "url": "https://www.cell.com/fulltext/S0092-8674(05)00408-3"
-            },
-            {
-                "label": "NPR",
-                "url": "https://www.npr.org/2016/06/28/483731512/how-old-are-your-cells"
-            },
-            {
-                "label": "Nature",
-                "url": "https://www.nature.com/articles/d41586-021-00730-0"
-            }
-        ]
-    },
-    {
-        "date": "2026-03-30",
-        "title": "Cleopatra Lived Closer to the iPhone Than to the Pyramids",
-        "summary": "Cleopatra lived around 30 BC. The Great Pyramid was built around 2560 BC. She's 2,500 years closer to us than to the people who built it.",
-        "body": "This is one of those facts that genuinely breaks people's brains the first time they hear it. Cleopatra VII, the last active ruler of Ptolemaic Egypt, died in 30 BC. The Great Pyramid of Giza was completed around 2560 BC. That means roughly 2,530 years passed between the pyramid's construction and Cleopatra's lifetime. The iPhone was released in 2007 AD — only about 2,037 years after Cleopatra. She lived closer in time to us scrolling through Instagram than to the workers who stacked those limestone blocks.\n\nThe reason this feels so wrong is that we mentally compress ancient history into a single block. \"Ancient Egypt\" feels like one era, but it lasted over 3,000 years — longer than the entire span from Cleopatra to today. By the time Cleopatra ruled, the pyramids were already ancient monuments that tourists visited. She would have looked at them with the same sense of deep historical distance that we feel looking at Roman ruins.\n\nIt puts our own era into perspective too. We tend to think of human civilization as a long, slow crawl, but the timescales involved are genuinely hard to internalize. The pyramids were as old to Cleopatra as Cleopatra is to someone living in the 25th century. History is much deeper and stranger than the neat timelines in textbooks suggest.",
-        "image": "https://picsum.photos/seed/cleopatra/480/480",
-        "category": "history",
-        "references": [
-            {
-                "label": "Smithsonian Magazine",
-                "url": "https://www.smithsonianmag.com/history/cleopatra-the-real-story-behind-the-myth-702969/"
-            },
-            {
-                "label": "BBC History",
-                "url": "https://www.bbc.co.uk/history/historic_figures/cleopatra.shtml"
-            }
-        ]
-    },
-    {
-        "date": "2026-03-31",
         "title": "Oxford University Is Older Than the Aztec Empire",
         "summary": "Teaching began at Oxford around 1096 AD. The Aztec Empire wasn't founded until 1428. Oxford was already ancient when Tenochtitlan was being built.",
-        "body": "Oxford University started teaching in some form around 1096 AD, making it one of the oldest universities in the world. The Aztec Empire? That wasn't formally established until 1428, when the Triple Alliance of Tenochtitlan, Texcoco, and Tlacopan came together. By the time Aztec civilization was hitting its stride, Oxford had been educating students for over 300 years and had already survived plagues, wars, and faculty disputes.\n\nThis fact trips people up because we associate Oxford with the established, old-world European tradition and the Aztecs with something even more ancient and lost to time. But the Aztec Empire was actually quite young when the Spanish arrived in 1519 — less than a century old. It rose fast, built one of the largest cities in the world (Tenochtitlan had a population of around 200,000), and was destroyed even faster.\n\nWhat's really striking is how it challenges our unconscious biases about \"civilized\" versus \"ancient\" cultures. The Aztecs had sophisticated agriculture, astronomy, and engineering happening while Oxford scholars were debating theology in medieval Latin. These were parallel, contemporary civilizations — not sequential chapters in a history book. The world has always been more simultaneously complex than we give it credit for.",
-        "image": "https://picsum.photos/seed/oxforduni/480/480",
+        "body": "Oxford University started teaching in some form around 1096 AD, making it one of the oldest universities in the world. The Aztec Empire? That wasn't formally established until 1428, when the Triple Alliance of Tenochtitlan, Texcoco, and Tlacopan came together. By the time Aztec civilization was hitting its stride, Oxford had been educating students for over 300 years and had already survived plagues, wars, and faculty disputes.\n\nThis fact trips people up because we associate Oxford with the established, old-world European tradition and the Aztecs with something even more ancient and lost to time. But the Aztec Empire was actually quite young when the Spanish arrived in 1519 — less than a century old.\n\nWhat's really striking is how it challenges our unconscious biases about \"civilized\" versus \"ancient\" cultures. The Aztecs had sophisticated agriculture, astronomy, and engineering happening while Oxford scholars were debating theology in medieval Latin. These were parallel, contemporary civilizations — not sequential chapters in a history book. The world has always been more simultaneously complex than we give it credit for.",
+        "image":"https://cdn.britannica.com/03/117103-050-F4C2FC83/view-University-of-Oxford-England-Oxfordshire.jpg",
         "category": "history",
         "references": [
             {
@@ -142,99 +40,11 @@
         ]
     },
     {
-        "date": "2026-04-01",
-        "title": "The Last Guillotine Execution Was in 1977",
-        "summary": "France's last guillotine execution happened on September 10, 1977 — the same year Star Wars came out. The device wasn't formally abolished until 1981.",
-        "body": "Star Wars was in theaters. The Apple II had just launched. The Sex Pistols were shocking Britain. And in Marseille, France, on September 10, 1977, a man named Hamida Djandoubi became the last person to be executed by guillotine. The device most people associate with the French Revolution was still the official method of capital punishment in France well into the disco era.\n\nThe guillotine was introduced in 1792 as a humanitarian reform — seriously. Before it, executions were often botched, with swords missing their mark or axes requiring multiple swings. Dr. Joseph-Ignace Guillotin (who, contrary to popular belief, did not invent the device but merely advocated for it) argued that a mechanical blade would ensure a quick, equal death for all, regardless of social class. It was literally designed to be more merciful.\n\nFrance didn't formally abolish capital punishment until 1981, under President Fran\u00e7ois Mitterrand. The fact that a device from the 18th century remained in active use alongside personal computers and space shuttles says something interesting about how slowly institutions change compared to technology. We imagine history as a clean progression, but in reality, the medieval and the modern have always coexisted more awkwardly than we'd like to admit.",
-        "image": "https://picsum.photos/seed/guillotine/480/480",
-        "category": "history",
-        "references": [
-            {
-                "label": "BBC News",
-                "url": "https://www.bbc.com/news/magazine-20610379"
-            },
-            {
-                "label": "Smithsonian Magazine",
-                "url": "https://www.smithsonianmag.com/history/the-history-of-the-guillotine-29572853/"
-            },
-            {
-                "label": "Wikipedia - Hamida Djandoubi",
-                "url": "https://en.wikipedia.org/wiki/Hamida_Djandoubi"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-02",
-        "title": "Vikings Used Crystals to Navigate",
-        "summary": "Vikings may have used calcite \"sunstones\" to locate the sun on cloudy days and navigate the open Atlantic centuries before the magnetic compass.",
-        "body": "Viking sagas mention a mysterious \"sunstone\" that could find the sun even on overcast days. For decades, historians dismissed this as myth. Then scientists started testing it — and realized the Vikings might have been doing polarimetry a thousand years before we had a word for it.\n\nThe leading candidate is Iceland spar, a transparent form of calcite that depolarizes light. When you rotate the crystal and look through it toward the sky, the brightness changes depending on where the sun is — even when clouds block direct sunlight. By finding the point of equal brightness from two positions, a navigator could pinpoint the sun's location with surprising accuracy. Experiments have shown this method works to within a few degrees, which is more than enough for open-ocean navigation.\n\nA calcite crystal was actually found aboard a 16th-century English shipwreck near the Channel Islands in 2013, suggesting the technique may have persisted long after the Viking Age. Whether the Vikings used sunstones routinely or just occasionally, the principle works. They crossed the North Atlantic to Iceland, Greenland, and North America without magnetic compasses, and they clearly had some method beyond dead reckoning and hoping for clear skies.",
-        "image": "https://picsum.photos/seed/vikingsunstone/480/480",
-        "category": "history",
-        "references": [
-            {
-                "label": "Proceedings of the Royal Society A",
-                "url": "https://royalsocietypublishing.org/doi/10.1098/rspa.2011.0369"
-            },
-            {
-                "label": "National Geographic",
-                "url": "https://www.nationalgeographic.com/science/article/viking-sunstone-navigation-calcite-crystal"
-            },
-            {
-                "label": "BBC News",
-                "url": "https://www.bbc.com/news/science-environment-21636985"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-03",
-        "title": "The Great Fire of London Killed Only 6 People (Officially)",
-        "summary": "The 1666 Great Fire of London destroyed 13,200 houses and 87 churches, yet the official death toll was just 6. The real number was almost certainly far higher.",
-        "body": "In September 1666, the Great Fire of London raged for four days, destroying 13,200 houses, 87 churches (including the original St Paul's Cathedral), and most of the buildings of the City of London. It left an estimated 70,000 of the city's 80,000 residents homeless. And according to official records, it killed exactly six people.\n\nThat number is almost certainly a dramatic undercount. The official toll only recorded identifiable deaths of known citizens. The poor, the homeless, immigrants, and anyone whose remains were completely incinerated simply weren't counted. The fire burned hot enough to melt steel and pottery — cremation temperatures that would have left no recoverable human remains. Museum of London archaeologists have found melted pottery fragments from the fire zone, suggesting temperatures exceeded 1,700 degrees Celsius in some areas.\n\nHistorians now believe the real death toll was likely in the hundreds, possibly more. But we'll never know for certain. In 1666, there was no systematic census of London's population, and many of the city's poorest residents — living in the densest, most fire-prone neighborhoods — existed outside any official record. The \"six deaths\" figure has persisted for centuries as one of history's most misleading statistics, a reminder that official records often tell you more about who was counting than what actually happened.",
-        "image": "https://picsum.photos/seed/londonfire/480/480",
-        "category": "history",
-        "references": [
-            {
-                "label": "Museum of London",
-                "url": "https://www.museumoflondon.org.uk/museum-london/explore/great-fire-london"
-            },
-            {
-                "label": "BBC History",
-                "url": "https://www.bbc.co.uk/history/british/civil_war_revolution/great_fire_01.shtml"
-            },
-            {
-                "label": "Wikipedia - Great Fire of London",
-                "url": "https://en.wikipedia.org/wiki/Great_Fire_of_London"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-04",
-        "title": "Trees Talk to Each Other Through Underground Networks",
-        "summary": "Trees share nutrients, send chemical warnings, and nurture their young through vast underground fungal networks. Scientists call it the Wood Wide Web.",
-        "body": "Beneath every forest floor lies a hidden internet. Mycorrhizal fungi form massive networks that connect the roots of different trees, allowing them to share nutrients, water, and even chemical warning signals. Ecologist Suzanne Simard discovered that trees use these fungal highways to transfer carbon between each other — and that \"mother trees\" actively send more resources to their own seedlings than to strangers.\n\nThe system is genuinely sophisticated. When a tree is attacked by insects, it can send chemical signals through the fungal network that prompt neighboring trees to ramp up their own defenses before the bugs even arrive. Dying trees have been observed \"dumping\" their carbon and nutrients into the network, essentially bequeathing their resources to the community. Some researchers have found that trees of different species will share resources with each other — Douglas firs and paper birches, for example, trade carbon back and forth depending on the season.\n\nThe implications are profound. We've long thought of forests as collections of individual trees competing for light and space. But the mycorrhizal evidence suggests forests function more like superorganisms, with cooperation being just as fundamental as competition. It doesn't mean trees are \"conscious\" in any human sense, but it does mean that the strict individual-competition model of nature misses something important about how ecosystems actually work.",
-        "image": "https://picsum.photos/seed/mycorrhiza/480/480",
-        "category": "nature",
-        "references": [
-            {
-                "label": "Nature - Suzanne Simard",
-                "url": "https://www.nature.com/articles/37718"
-            },
-            {
-                "label": "Smithsonian Magazine",
-                "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968915/"
-            },
-            {
-                "label": "Yale Environment 360",
-                "url": "https://e360.yale.edu/features/exploring_how_and_why_trees_talk_to_each_other"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-05",
+        "date": "2026-03-27",
         "title": "Honey Never Spoils",
         "summary": "Archaeologists found 3,000-year-old honey in Egyptian tombs that was still edible. Bees engineered a biochemically perfect preservative.",
-        "body": "Archaeologists have cracked open 3,000-year-old pots of honey from Egyptian tombs and found it still perfectly edible. Not \"sort of okay.\" Edible. Honey is essentially immortal, and the reasons why are a masterclass in accidental biochemistry.\n\nIt starts with the bees. When a bee makes honey, it regurgitates nectar and fans it with its wings, driving the moisture content down to around 17% — too low for virtually any microorganism to survive. The high sugar concentration creates intense osmotic pressure that literally sucks water out of any bacteria foolish enough to land in it, killing them through dehydration. On top of that, bees add an enzyme called glucose oxidase, which produces small amounts of hydrogen peroxide — yes, the disinfectant. And honey is naturally acidic, with a pH between 3 and 4.5, creating yet another hostile environment for microbes.\n\nThe only way honey goes bad is if you introduce water. Diluted honey can ferment (which is how you make mead, so not all bad). But sealed in a dry container, it's essentially eternal. The Egyptians knew this intuitively and used honey not just as a sweetener but as a wound dressing and embalming agent. Modern medicine is circling back — medical-grade honey is now used in hospitals to treat antibiotic-resistant wound infections. Three thousand years later, we're still catching up to what bees figured out.",
-        "image": "https://picsum.photos/seed/eternalhoney/480/480",
+        "body": "Archaeologists have cracked open 3,000-year-old pots of honey from Egyptian tombs and found it still perfectly edible. Not \"sort of okay.\" Edible. Honey is essentially immortal, and the reasons why are a masterclass in biochemistry.\n\nIt starts with the bees. When a bee makes honey, it regurgitates nectar and fans it with its wings, driving the moisture content down to around 17% — too low for virtually any microorganism to survive. The high sugar concentration creates intense osmotic pressure that literally sucks water out of any bacteria foolish enough to land in it, killing them through dehydration. On top of that, bees add an enzyme called glucose oxidase, which produces small amounts of hydrogen peroxide (yes, the disinfectant). And honey is naturally acidic, with a pH between 3 and 4.5, creating yet another hostile environment for microbes.\n\nThe only way honey goes bad is if you introduce water. Diluted honey can ferment (which is how you make mead, so not all bad). But sealed in a dry container, it's essentially eternal. The Egyptians knew this intuitively and used honey not just as a sweetener but as a wound dressing and embalming agent. Modern medicine is circling back — medical-grade honey is now used in hospitals to treat antibiotic-resistant wound infections. Three thousand years later, we're still catching up to what bees figured out.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Runny_hunny.jpg/500px-Runny_hunny.jpg",
         "category": "nature",
         "references": [
             {
@@ -242,268 +52,152 @@
                 "url": "https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/"
             },
             {
-                "label": "National Geographic",
-                "url": "https://www.nationalgeographic.com/animals/article/honey-bees-food-preservation"
+                "label": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Honey"
             }
         ]
     },
     {
-        "date": "2026-04-06",
-        "title": "Crows Recognize Human Faces and Hold Grudges",
-        "summary": "Crows remember individual human faces for years, teach their grudges to other crows, and will mob someone who wronged them — even in a crowd.",
-        "body": "If you've ever been rude to a crow, it remembers. Researchers at the University of Washington proved this by wearing caveman masks while capturing and banding wild crows. Years later, crows still scolded and dive-bombed anyone wearing that specific mask — even people the birds had never personally encountered. The grudge had been passed along socially.\n\nThis social transmission is the really wild part. Crows who weren't even present during the original capture learned to identify and harass the \"dangerous\" mask from watching other crows react to it. Over the course of the study, the number of crows responding aggressively to the mask actually increased over time, suggesting the information was spreading through the population like a cultural memory. Brain scans of crows shown threatening versus neutral faces revealed activity in regions analogous to our own amygdala — the brain area associated with fear and emotional memory.\n\nThe flip side is equally interesting: crows also remember people who are kind to them. There are documented cases of crows bringing small gifts — shiny objects, buttons, bits of glass — to humans who regularly feed them. They can distinguish individual faces in a crowd and adjust their behavior accordingly. So next time you walk past a crow, consider that it might be sizing you up, filing your face away, and deciding whether you're friend or foe. And it will remember.",
-        "image": "https://picsum.photos/seed/crowface/480/480",
-        "category": "nature",
+        "date": "2026-03-28",
+        "title": "Dunbar's Number: You Can Only Maintain ~150 Relationships",
+        "summary": "Your 2,000 LinkedIn connections are an illusion. British anthropologist Robin Dunbar found that the human brain can maintain about 150 stable social relationships.",
+        "body": "In the 1990s, British anthropologist Robin Dunbar noticed something interesting: primate species with larger neocortexes tend to live in larger social groups. When he extrapolated this relationship to human brain size, he landed on a number: approximately 150. That's roughly how many stable social relationships the average human brain can maintain at any given time.\n\nThe number keeps showing up everywhere. Historical military units — from Roman centuries to modern company-sized units — tend to cluster around 150. Hutterite communities traditionally split when they exceed 150 members. The average number of people invited to a wedding? About 150. Gore-Tex famously caps their factory sizes at 150 employees, claiming it's the maximum at which everyone can know everyone else well enough to work effectively without formal hierarchy.\n\nDunbar's model actually describes concentric circles of intimacy. You have about 5 people in your innermost circle (your closest confidants), then 15 good friends, 50 friends, and 150 meaningful contacts. Beyond that, you might recognize faces and names, but you don't really \"know\" those people in any functional sense. Social media has given us the illusion of maintaining thousands of relationships, but your brain is still running on hardware designed for a village. Those 2,000 followers? Your brain treats most of them as strangers.",
+        "image":"https://www.sciencesetavenir.fr/assets/img/2015/08/27/cover-r4x3w1200-57dfa1508d7a0-cerveau.jpg",
+        "category": "psychology",
         "references": [
             {
-                "label": "University of Washington Research",
-                "url": "https://www.washington.edu/news/2012/09/10/crows-react-to-threats-in-human-like-way/"
+                "label": "BBC",
+                "url":"https://www.bbc.com/future/article/20191001-dunbars-number-why-we-can-only-maintain-150-relationships"
             },
             {
-                "label": "Proceedings of the Royal Society B",
-                "url": "https://royalsocietypublishing.org/doi/10.1098/rspb.2011.0957"
-            },
-            {
-                "label": "BBC Earth",
-                "url": "https://www.bbc.com/future/article/20191211-why-crows-are-as-smart-as-7-year-old-humans"
+                "label": "Royal Society Open Science",
+                "url": "https://royalsocietypublishing.org/doi/10.1098/rsos.150292"
             }
         ]
     },
     {
-        "date": "2026-04-07",
+        "date": "2026-03-29",
+        "title": "Shakespeare Invented 1,700+ Words",
+        "summary": "Shakespeare coined over 1,700 words still used today, from \"eyeball\" to \"lonely\" to \"assassination.\" He didn't just write in English, he built it.",
+        "body": "William Shakespeare didn't just write plays — he manufactured a significant chunk of the English language. Scholars estimate he coined over 1,700 words that are still in common use today. \"Eyeball,\" \"lonely,\" \"generous,\" \"assassination,\" \"bedroom,\" \"fashionable,\" \"addiction,\" \"uncomfortable,\" \"rant\" — all Shakespeare. He didn't just describe the human condition; he literally gave us the vocabulary to discuss it.\n\nNow, \"invented\" requires a small asterisk. Shakespeare was the first person to write many of these words down, but some may have existed in spoken English before he put quill to paper. Elizabethan English was wildly flexible — you could verb any noun, adjective any verb, and nobody blinked. Shakespeare was working in a language that was still half-molten, and he pushed it further than anyone else. He also invented phrases we still use without thinking: \"break the ice,\" \"wild goose chase,\" \"heart of gold,\" \"in a pickle,\" and \"love is blind.\"\n\nWhat's genuinely staggering is the scale. Shakespeare's total written vocabulary was around 31,000 unique words — roughly double what a well-educated modern English speaker uses. He showed up at a moment when English was expanding rapidly, absorbing words from Latin, French, and Italian, and he accelerated that expansion single-handedly. The language you're reading right now would be meaningfully different without him. Not many writers can say that — and none can say it to the same degree.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/William_Shakespeare_by_John_Taylor%2C_edited.jpg/960px-William_Shakespeare_by_John_Taylor%2C_edited.jpg",
+        "category": "culture",
+        "references": [
+            {
+                "label": "Shakespeare online",
+                "url": "https://www.shakespeare-online.com/biography/wordsinvented.html"
+            },
+            {
+                "label": "British Council",
+                "url": "https://englishonline.britishcouncil.org/blog/articles/a-closer-look-at-everyday-words-shakespeare-invented/"
+            }
+        ]
+    },
+    {
+        "date": "2026-03-30",
+        "title": "A Day on Venus Is Longer Than Its Year",
+        "summary": "Venus takes 243 Earth days to rotate once but only 225 days to orbit the Sun. A single Venusian day outlasts a Venusian year.",
+        "body": "Venus is the solar system's contrarian. It takes 243 Earth days to complete a single rotation on its axis, but only 225 Earth days to orbit the Sun. That means a day on Venus (one full rotation) is longer than a Venusian year (one full orbit). You'd celebrate your birthday before the sun had fully risen and set once. If that doesn't break your brain a little, consider that Venus also rotates backward — its sun rises in the west and sets in the east.\n\nScientists call this retrograde rotation, and nobody is entirely sure why Venus does it. The leading theory is that a massive collision early in the planet's history either flipped it upside down or gradually slowed and reversed its spin through tidal interactions with its thick atmosphere. \n\nDespite all these oddities, Venus is often called Earth’s “twin sister” because of its similar size and mass. But that is where the resemblance ends. Its surface reaches 465°C (hot enough to melt lead), its atmospheric pressure is about 90 times that of Earth, and its atmosphere is more than 96% carbon dioxide. Venus is a terrifying example of what a runaway greenhouse effect can do, and a warning worth taking seriously.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/PIA23791-Venus-RealAndEnhancedContrastViews-20200608_%28cropped%29.jpg/960px-PIA23791-Venus-RealAndEnhancedContrastViews-20200608_%28cropped%29.jpg",
+        "category": "numbers",
+        "references": [
+            {
+                "label": "NASA",
+                "url": "https://science.nasa.gov/venus/venus-facts/"
+            },
+            {
+                "label": "CNES",
+                "url":"https://cnes.fr/en/folders/planet-venus"
+            }
+        ]
+    },
+    {
+        "date": "2026-03-31",
+        "title": "Bananas Are Radioactive",
+        "summary": "Every banana you eat contains radioactive potassium-40. Don't panic — you'd need to eat 10 million bananas at once for a lethal dose.",
+        "body": "You've been eating radioactive fruit your entire life and nobody told you. Bananas contain potassium-40, a naturally occurring radioactive isotope, and every single one emits a tiny amount of radiation. Scientists even invented an informal unit called the \"Banana Equivalent Dose\" (BED) to help people conceptualize radiation exposure in everyday terms.\n\nBefore you swear off smoothies forever, let's put this in perspective. The radiation from one banana is about 0.01 millirem — roughly 1/100th of a chest X-ray. You'd need to eat approximately 10 million bananas in a single sitting to accumulate a lethal radiation dose. Your body is also pretty smart about this: it regulates potassium levels tightly, so eating more bananas doesn't actually increase the total amount of potassium-40 in your body. You just excrete the excess.\n\nWhat makes this genuinely interesting isn't the bananas themselves — it's what it reveals about how we think about risk. We live in a naturally radioactive world. The ground beneath you, the air you breathe, even your own body emits radiation constantly. Bananas just happen to be the most fun example of background radiation that's been with us forever. The universe is a little spicier than we like to admit.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cavendish_Banana_DS.jpg/500px-Cavendish_Banana_DS.jpg",
+        "category": "science",
+        "references": [
+            {
+                "label": "EPA - Radiation Doses",
+                "url": "https://www.epa.gov/radiation/radiation-sources-and-doses"
+            },
+            {
+                "label": "Forbes",
+                "url": "https://www.forbes.com/sites/quora/2016/10/18/yes-bananas-are-radioactive-and-yes-you-should-keep-eating-them-anyway/"
+            },
+            {
+                "label": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Banana_equivalent_dose"
+            }
+        ]
+    },
+    {
+        "date": "2026-04-01",
+        "title": "Octopuses Have a Dominant Hand",
+        "summary": "Marine biologists have reportedly observed that some octopuses consistently favor one arm to explore, grab objects, or manipulate their surroundings. A form of handedness similar to being right- or left-handed.",
+        "body": "We already know that octopuses are among the most astonishing animals in the ocean. They solve problems, open jars, recognize individual humans, and often display a kind of eerie curiosity that feels almost unsettling. So it would not be especially hard to believe that they might also show a form of lateralization — in other words, a preference for using one arm more often than the others, much like humans tend to be right- or left-handed.\n\nAccording to this fictional but suspiciously believable observation, some octopuses would repeatedly favor the same arm to inspect crevices, grab food, or manipulate complex objects. Marine biologists might even have noticed that this preference varies by species, age, and perhaps even personality. A bold octopus, after all, may not behave quite like a cautious one.\n\nEven stranger, researchers might have suggested that stressed octopuses become temporarily ambidextrous, as though their nervous system starts redistributing motor priorities in moments of emergency.",
+        "image":"https://s.francaisfacile.rfi.fr/media/display/2d42d018-cfd9-11ed-b7bb-005056a90284/w:1280/p:16x9/b1_fp_poisson_d_avril_iStock-1138136178.jpg",
+        "category": "science",
+        "references": [
+            {
+                "label": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/April_Fools%27_Day"
+            }
+        ]
+    },
+    {
+        "date": "2026-04-02",
+        "title": "Bananas Are Radioactive",
+        "summary": "Every banana you eat contains radioactive potassium-40. Don't panic — you'd need to eat 10 million bananas at once for a lethal dose.",
+        "body": "You've been eating radioactive fruit your entire life and nobody told you. Bananas contain potassium-40, a naturally occurring radioactive isotope, and every single one emits a tiny amount of radiation. Scientists even invented an informal unit called the \"Banana Equivalent Dose\" (BED) to help people conceptualize radiation exposure in everyday terms.\n\nBefore you swear off smoothies forever, let's put this in perspective. The radiation from one banana is about 0.01 millirem — roughly 1/100th of a chest X-ray. You'd need to eat approximately 10 million bananas in a single sitting to accumulate a lethal radiation dose. Your body is also pretty smart about this: it regulates potassium levels tightly, so eating more bananas doesn't actually increase the total amount of potassium-40 in your body. You just excrete the excess.\n\nWhat makes this genuinely interesting isn't the bananas themselves — it's what it reveals about how we think about risk. We live in a naturally radioactive world. The ground beneath you, the air you breathe, even your own body emits radiation constantly. Bananas just happen to be the most fun example of background radiation that's been with us forever. The universe is a little spicier than we like to admit.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cavendish_Banana_DS.jpg/500px-Cavendish_Banana_DS.jpg",
+        "category": "science",
+        "references": [
+            {
+                "label": "EPA - Radiation Doses",
+                "url": "https://www.epa.gov/radiation/radiation-sources-and-doses"
+            },
+            {
+                "label": "Forbes",
+                "url": "https://www.forbes.com/sites/quora/2016/07/18/how-many-bananas-would-you-have-to-eat-to-get-radiation-poisoning/"
+            }
+        ]
+    },
+    {
+        "date": "2026-04-03",
+        "title": "Cleopatra Lived Closer to the iPhone Than to the Pyramids",
+        "summary": "Cleopatra lived around 30 BC. The Great Pyramid was built around 2560 BC. She's roughly 500 years closer to us than to the people who built it.",
+        "body": "This is one of those facts that genuinely breaks people's brains the first time they hear it. Cleopatra VII, the last active ruler of Ptolemaic Egypt, died in 30 BC. The Great Pyramid of Giza was completed around 2560 BC. That means roughly 2,530 years passed between the pyramid's construction and Cleopatra's lifetime. The iPhone was released in 2007 AD — only about 2,037 years after Cleopatra. She lived closer in time to us scrolling through Instagram than to the workers who stacked those limestone blocks.\n\nThe reason this feels so wrong is that we mentally compress ancient history into a single block. \"Ancient Egypt\" feels like one era, but it lasted over 3,000 years — longer than the entire span from Cleopatra to today. By the time Cleopatra ruled, the pyramids were already ancient monuments that tourists visited. She would have looked at them with the same sense of deep historical distance that we feel looking at Roman ruins.\n\nIt puts our own era into perspective too. We tend to think of human civilization as a long, slow crawl, but the timescales involved are genuinely hard to internalize. The pyramids were as old to Cleopatra as Cleopatra is to someone living in the 25th century. History is much deeper and stranger than the neat timelines in textbooks suggest.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/960px-All_Gizah_Pyramids.jpg",
+        "category": "history",
+        "references": [
+            {
+                "label": "Britannica - Cleopatra",
+                "url": "https://www.britannica.com/biography/Cleopatra-queen-of-Egypt"
+            },
+            {
+                "label": "ARCE",
+                "url": "https://arce.org/resource/cleopatra-vii-scholar-patron-queen"
+            }
+        ]
+    },
+    {
+        "date": "2026-04-04",
         "title": "More Trees on Earth Than Stars in the Milky Way",
         "summary": "Earth has roughly 3 trillion trees — about 7.5 times more than the estimated 400 billion stars in our galaxy. The planet is lusher than space is sparkly.",
         "body": "A 2015 study published in Nature estimated that Earth is home to approximately 3.04 trillion trees. The Milky Way galaxy, by comparison, contains an estimated 100 to 400 billion stars. Even using the highest star estimate, there are roughly 7.5 trees on Earth for every star in our galaxy. The planet is more forested than space is starry.\n\nThe tree count was a genuine surprise. Previous estimates had put the number at around 400 billion — off by nearly an order of magnitude. The research team, led by Thomas Crowther at Yale, combined satellite imagery with ground-level tree counts from every continent to build the most comprehensive estimate ever attempted. The highest densities are in the boreal forests of Russia, Scandinavia, and Canada, not in tropical rainforests as most people assume.\n\nBut here's the less cheerful coda: the same study estimated that the number of trees on Earth has fallen by roughly 46% since the start of human civilization. We lose about 15 billion trees per year to deforestation and land clearing, while replanting roughly 5 billion. The net loss is about 10 billion trees annually. So yes, we still have more trees than the galaxy has stars — but we're working on closing that gap faster than most people realize.",
-        "image": "https://picsum.photos/seed/treestars/480/480",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ESO-VLT-Laser-phot-33a-07.jpg/960px-ESO-VLT-Laser-phot-33a-07.jpg",
         "category": "nature",
         "references": [
             {
-                "label": "Nature - Mapping Tree Density",
-                "url": "https://www.nature.com/articles/nature14967"
+                "label": "WSL",
+                "url":"https://www.wsl.ch/en/news/counting-the-worlds-trees"
             },
             {
-                "label": "Yale School of the Environment",
-                "url": "https://environment.yale.edu/news/article/yale-study-earth-has-3-trillion-trees"
-            },
-            {
-                "label": "NASA",
-                "url": "https://www.nasa.gov/feature/goddard/2016/carbon-dioxide-fertilization-greening-earth"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-08",
-        "title": "Sharks Are Older Than Trees",
-        "summary": "Sharks have been swimming Earth's oceans for over 400 million years. Trees didn't appear until about 350 million years ago. Sharks predate forests.",
-        "body": "Sharks have existed for more than 400 million years. Trees, as we know them, didn't appear until roughly 350 million years ago. Let that sink in: for about 50 million years, sharks were swimming in oceans on a planet that had no forests. Sharks are older than trees. They're also older than dinosaurs, older than the rings of Saturn, and older than most mountain ranges on Earth.\n\nThe earliest shark-like fossils date to the Late Ordovician period, around 450 million years ago. These weren't the great whites and hammerheads of today — early sharks were small, strange-looking creatures. But their basic body plan was so effective that it has survived five mass extinction events, including the one that wiped out the dinosaurs. The design works: a cartilage skeleton (lighter and more flexible than bone), multiple rows of replaceable teeth, and electroreception for detecting prey.\n\nTrees, by contrast, took a long time to evolve. Early land plants were tiny and simple. The first real tree, Archaeopteris, didn't appear until the Late Devonian period, around 385 million years ago. Forests didn't become widespread until even later. So for most of the time that complex life has existed on Earth, there were sharks but no trees. The next time someone calls sharks \"primitive,\" remember: they've been perfecting their design for 400 million years. They're not primitive — they're optimized.",
-        "image": "https://picsum.photos/seed/ancientsharks/480/480",
-        "category": "nature",
-        "references": [
-            {
-                "label": "Smithsonian Ocean Portal",
-                "url": "https://ocean.si.edu/ocean-life/sharks-rays/sharks"
-            },
-            {
-                "label": "Nature - Early Shark Evolution",
-                "url": "https://www.nature.com/articles/nature02950"
-            },
-            {
-                "label": "Scientific American",
-                "url": "https://www.scientificamerican.com/article/the-oldest-living-things/"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-09",
-        "title": "Dunbar's Number: You Can Only Maintain ~150 Relationships",
-        "summary": "British anthropologist Robin Dunbar found that the human brain can maintain about 150 stable social relationships. Your 2,000 Instagram followers are mostly strangers.",
-        "body": "In the 1990s, British anthropologist Robin Dunbar noticed something interesting: primate species with larger neocortexes tend to live in larger social groups. When he extrapolated this relationship to human brain size, he landed on a number: approximately 150. That's roughly how many stable social relationships the average human brain can maintain at any given time.\n\nThe number keeps showing up everywhere. Historical military units — from Roman centuries to modern company-sized units — tend to cluster around 150. Hutterite communities traditionally split when they exceed 150 members. The average number of people invited to a wedding? About 150. Gore-Tex famously caps their factory sizes at 150 employees, claiming it's the maximum at which everyone can know everyone else well enough to work effectively without formal hierarchy.\n\nDunbar's model actually describes concentric circles of intimacy. You have about 5 people in your innermost circle (your closest confidants), then 15 good friends, 50 friends, and 150 meaningful contacts. Beyond that, you might recognize faces and names, but you don't really \"know\" those people in any functional sense. Social media has given us the illusion of maintaining thousands of relationships, but your brain is still running on hardware designed for a village. Those 2,000 followers? Your brain treats most of them as strangers.",
-        "image": "https://picsum.photos/seed/dunbar150/480/480",
-        "category": "psychology",
-        "references": [
-            {
-                "label": "Journal of Human Evolution",
-                "url": "https://www.sciencedirect.com/science/article/pii/004724849290081J"
-            },
-            {
-                "label": "BBC Future",
-                "url": "https://www.bbc.com/future/article/20191001-dunbars-number-why-we-can-only-maintain-150-relationships"
-            },
-            {
-                "label": "The New Yorker",
-                "url": "https://www.newyorker.com/science/maria-konnikova/social-media-affect-math-dunbar-number-background"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-10",
-        "title": "Your Brain Uses 20% of Your Energy",
-        "summary": "Your brain is just 2% of your body weight but consumes 20% of your calories. Thinking hard doesn't burn more — your brain is always running at full power.",
-        "body": "Your brain weighs about 1.4 kilograms — roughly 2% of your total body weight. But it consumes about 20% of your daily caloric intake, making it far and away the most energy-hungry organ per gram in your body. Even when you're asleep, your brain is burning through glucose at a remarkable rate, maintaining neural connections, consolidating memories, and regulating bodily functions.\n\nHere's the disappointing part for anyone hoping to lose weight by doing sudoku: thinking harder doesn't actually burn significantly more calories. Your brain's energy consumption stays remarkably constant whether you're solving differential equations or staring blankly at a wall. The baseline energy cost of maintaining 86 billion neurons and their trillions of connections dwarfs the marginal cost of any particular mental task. Studies show that intense concentration might increase brain energy use by about 5% at most.\n\nWhat the brain's energy budget does explain is why we evolved to be cognitively lazy. Mental shortcuts, biases, habits, and heuristics all exist because the brain is constantly trying to accomplish complex tasks with minimal additional energy expenditure. Thinking carefully and deliberately is expensive — not in absolute terms, but relative to just going with your gut. Evolution built us a supercomputer and then gave it a strong preference for power-saving mode.",
-        "image": "https://picsum.photos/seed/brainenergy/480/480",
-        "category": "psychology",
-        "references": [
-            {
-                "label": "Scientific American",
-                "url": "https://www.scientificamerican.com/article/why-does-the-brain-need-s/"
-            },
-            {
-                "label": "PNAS",
-                "url": "https://www.pnas.org/doi/10.1073/pnas.0604187103"
-            },
-            {
-                "label": "Harvard Medical School",
-                "url": "https://hms.harvard.edu/news/why-does-brain-need-so-much-power"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-11",
-        "title": "The Mere Exposure Effect",
-        "summary": "You like things more simply because you've seen them before. This unconscious bias shapes your taste in music, faces, and even political candidates.",
-        "body": "In the 1960s, psychologist Robert Zajonc showed test subjects a series of random shapes, some more frequently than others. Afterward, subjects consistently rated the shapes they'd seen more often as more \"pleasant\" — even though they couldn't consciously remember which ones they'd been shown more. He called it the mere exposure effect, and it's one of the most robust findings in all of psychology.\n\nThe effect is everywhere once you start looking. It's why radio stations play the same songs on heavy rotation — the more you hear a track, the more you tend to like it (up to a point of oversaturation). It's why brands plaster their logos everywhere even when the ads don't contain useful information. It's a factor in why we tend to find familiar faces more attractive, and some researchers believe it plays a role in elections: candidates with higher name recognition benefit from a baseline warmth that has nothing to do with their policies.\n\nWhat makes this unsettling is how completely unconscious it is. You don't decide to like familiar things more — your brain just does it automatically, below the threshold of awareness. It's probably an evolved shortcut: something you've encountered before without being harmed is statistically safer than something completely novel. But in a modern world of advertising and algorithmic recommendations, this ancient safety heuristic gets exploited constantly. Your taste is less \"yours\" than you think.",
-        "image": "https://picsum.photos/seed/mereexposure/480/480",
-        "category": "psychology",
-        "references": [
-            {
-                "label": "Journal of Personality and Social Psychology",
-                "url": "https://psycnet.apa.org/record/1968-12019-001"
-            },
-            {
-                "label": "Psychology Today",
-                "url": "https://www.psychologytoday.com/us/blog/sapient-nature/201201/familiarity-breeds-enjoyment"
-            },
-            {
-                "label": "Wikipedia - Mere-Exposure Effect",
-                "url": "https://en.wikipedia.org/wiki/Mere-exposure_effect"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-12",
-        "title": "Decision Fatigue Is Real",
-        "summary": "The more decisions you make in a day, the worse each subsequent decision gets. This is why judges grant more paroles after lunch than before.",
-        "body": "There's a famous study of Israeli parole judges that should terrify you. Researchers analyzed 1,112 parole decisions and found that the probability of a favorable ruling dropped from about 65% at the start of each session to nearly zero just before a break — then spiked back up to 65% after the judges ate. Prisoners seen late in the morning had an almost zero chance of parole, regardless of their crime or behavior. The judges weren't being malicious; their brains were simply exhausted from making decisions.\n\nThis is decision fatigue: the documented deterioration in the quality of decisions made after a long session of decision-making. Your willpower and judgment draw from a finite daily pool. Each choice — even trivial ones like what to eat for lunch or which email to respond to first — depletes it slightly. As the pool drains, your brain starts defaulting to the easiest option, which is usually to do nothing, maintain the status quo, or choose the most impulsive option.\n\nThis is why Steve Jobs wore the same outfit every day and why Obama limited his suits to two colors. They weren't being eccentric — they were deliberately conserving their decision-making energy for choices that actually mattered. The practical takeaway is real: make your most important decisions in the morning, automate or eliminate trivial choices where possible, and never go grocery shopping when you're tired. Your evening self is objectively worse at deciding things than your morning self.",
-        "image": "https://picsum.photos/seed/decisionfatigue/480/480",
-        "category": "psychology",
-        "references": [
-            {
-                "label": "PNAS - Judicial Decisions",
-                "url": "https://www.pnas.org/doi/10.1073/pnas.1018033108"
-            },
-            {
-                "label": "New York Times",
-                "url": "https://www.nytimes.com/2011/08/21/magazine/do-you-suffer-from-decision-fatigue.html"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-13",
-        "title": "You Can't Tickle Yourself",
-        "summary": "Your cerebellum predicts the sensation of your own touch and cancels the tickle response. Your brain literally won't let you surprise yourself.",
-        "body": "Go ahead, try to tickle yourself. It doesn't work, does it? This isn't because you lack the physical ability — it's because your cerebellum, the brain region responsible for monitoring movement and predicting sensory consequences, is too good at its job. When you move your own fingers across your skin, the cerebellum predicts exactly what the sensation will feel like and essentially cancels the tickle response. No surprise, no tickle.\n\nResearchers at University College London confirmed this using a clever robot setup. Subjects controlled a robotic arm that tickled their palm. When the robot responded instantly to their movements, the sensation wasn't ticklish. But when a small time delay was introduced between the subject's movement and the robot's touch, the sensation became increasingly ticklish — because the delay broke the cerebellum's prediction. The brain could no longer be certain the touch was self-generated, so it registered as potentially external.\n\nThis has real implications beyond party tricks. The inability to distinguish self-generated sensations from external ones is a feature of some psychiatric conditions, including schizophrenia. Some studies have found that patients with schizophrenia can actually tickle themselves, possibly because their brains have impaired self-monitoring — they can't reliably predict the consequences of their own actions. The tickle reflex, silly as it seems, is actually a window into some of the deepest questions about how the brain constructs the boundary between self and world.",
-        "image": "https://picsum.photos/seed/tickle/480/480",
-        "category": "psychology",
-        "references": [
-            {
-                "label": "Nature Neuroscience",
-                "url": "https://www.nature.com/articles/nn.2782"
-            },
-            {
-                "label": "Scientific American",
-                "url": "https://www.scientificamerican.com/article/why-cant-you-tickle-yourself/"
-            },
-            {
-                "label": "UCL Research",
-                "url": "https://www.ucl.ac.uk/news/2000/jan/why-you-cant-tickle-yourself"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-14",
-        "title": "More Possible Chess Games Than Atoms in the Universe",
-        "summary": "The Shannon number estimates 10^120 possible chess games. The observable universe has about 10^80 atoms. Chess is more complex than the cosmos.",
-        "body": "Mathematician Claude Shannon estimated in 1950 that the number of possible chess games is roughly 10^120 — a number so large it's called the Shannon number. The observable universe, by comparison, contains approximately 10^80 atoms. That means there are more possible chess games than atoms in everything we can see, by a factor of 10^40. To put that ratio into perspective, 10^40 is more than the number of grains of sand on Earth.\n\nThis mind-boggling complexity emerges from surprisingly simple rules. Chess has only 6 types of pieces and a 64-square board, but the branching possibilities at each move create a combinatorial explosion that dwarfs anything in the physical universe. After just the first move by each player, there are 400 possible board positions. After two moves each, there are 197,742. After three, it's roughly 121 million. The game tree grows exponentially from there.\n\nThis is why chess computers were such a landmark in AI. When Deep Blue defeated Garry Kasparov in 1997, it couldn't actually calculate every possible position — no computer ever built could. It evaluated about 200 million positions per second and used clever pruning algorithms to ignore unpromising branches. Modern engines like Stockfish and AlphaZero are even more sophisticated, but they're still exploring only a vanishingly tiny fraction of the game's total possibility space. Chess is a finite game that might as well be infinite for any mind — silicon or biological — that tries to fully comprehend it.",
-        "image": "https://picsum.photos/seed/chessatoms/480/480",
-        "category": "culture",
-        "references": [
-            {
-                "label": "Shannon's Original Paper",
-                "url": "https://vision.unipv.it/IA1/ProgramssPlayingChess.pdf"
-            },
-            {
-                "label": "Wikipedia - Shannon Number",
-                "url": "https://en.wikipedia.org/wiki/Shannon_number"
-            },
-            {
-                "label": "Scientific American",
-                "url": "https://www.scientificamerican.com/article/what-makes-chess-so-hard-for-computers-to-beat/"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-15",
-        "title": "\"OK\" Is the Most Spoken Word on Earth",
-        "summary": "\"OK\" has spread to virtually every language on the planet, making it arguably the most universally recognized and spoken word in human history.",
-        "body": "The word \"OK\" is understood in virtually every language on Earth, making it arguably the most globally recognized word in human history. Its origins are surprisingly humble: it first appeared in print in 1839 in the Boston Morning Post as a humorous abbreviation for \"oll korrect\" (a deliberate misspelling of \"all correct\"), part of a brief fad for comical abbreviations in American newspapers.\n\nWhat's remarkable is how it escaped that silly origin and conquered the world. \"OK\" spread rapidly through telegraph communication, where brevity was everything. It jumped to other languages because it's phonetically simple — two syllables, two of the most common sounds in human language — and fills a universal need for a quick, neutral affirmative. It's not enthusiastic like \"great\" or reluctant like \"fine.\" It's the Switzerland of affirmatives: functional, neutral, and universally accepted.\n\nLinguist Allan Metcalf, who wrote an entire book about the word, argues that OK's genius is its ambiguity. It can mean \"good,\" \"acceptable,\" \"I acknowledge what you said,\" \"I agree,\" or \"let's move on\" — depending entirely on context and tone. That flexibility is exactly why it's impossible to kill. Languages absorb it because no native word captures quite the same noncommittal, all-purpose utility. Two letters, zero pretension, maximum function. It's the most American invention of all time, and the whole world uses it daily.",
-        "image": "https://picsum.photos/seed/okword/480/480",
-        "category": "culture",
-        "references": [
-            {
-                "label": "BBC Culture",
-                "url": "https://www.bbc.com/culture/article/20180212-the-history-of-ok"
-            },
-            {
-                "label": "Allan Metcalf - OK: The Improbable Story",
-                "url": "https://global.oup.com/academic/product/ok-9780195377934"
-            },
-            {
-                "label": "Wikipedia - OK",
-                "url": "https://en.wikipedia.org/wiki/OK"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-16",
-        "title": "Shakespeare Invented 1,700+ Words",
-        "summary": "Shakespeare coined over 1,700 words still used today, from \"eyeball\" to \"lonely\" to \"assassination.\" He didn't just write in English — he built it.",
-        "body": "William Shakespeare didn't just write plays — he manufactured a significant chunk of the English language. Scholars estimate he coined over 1,700 words that are still in common use today. \"Eyeball,\" \"lonely,\" \"generous,\" \"assassination,\" \"bedroom,\" \"fashionable,\" \"addiction,\" \"uncomfortable,\" \"rant\" — all Shakespeare. He didn't just describe the human condition; he literally gave us the vocabulary to discuss it.\n\nNow, \"invented\" requires a small asterisk. Shakespeare was the first person to write many of these words down, but some may have existed in spoken English before he put quill to paper. Elizabethan English was wildly flexible — you could verb any noun, adjective any verb, and nobody blinked. Shakespeare was working in a language that was still half-molten, and he pushed it further than anyone else. He also invented phrases we still use without thinking: \"break the ice,\" \"wild goose chase,\" \"heart of gold,\" \"in a pickle,\" and \"love is blind.\"\n\nWhat's genuinely staggering is the scale. Shakespeare's total written vocabulary was around 31,000 unique words — roughly double what a well-educated modern English speaker uses. He showed up at a moment when English was expanding rapidly, absorbing words from Latin, French, and Italian, and he accelerated that expansion single-handedly. The language you're reading right now would be meaningfully different without him. Not many writers can say that — and none can say it to the same degree.",
-        "image": "https://picsum.photos/seed/shakespeare/480/480",
-        "category": "culture",
-        "references": [
-            {
-                "label": "Oxford English Dictionary",
-                "url": "https://www.oed.com/page/shakespeare-quotations"
-            },
-            {
-                "label": "British Library",
-                "url": "https://www.bl.uk/shakespeare/articles/shakespeares-influence-on-the-english-language"
-            },
-            {
-                "label": "Smithsonian Magazine",
-                "url": "https://www.smithsonianmag.com/smart-news/shakespeares-longest-legacy-the-english-language-180975790/"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-17",
-        "title": "The Shortest War Lasted 38 Minutes",
-        "summary": "In 1896, Britain and Zanzibar fought a war that lasted just 38 minutes. The sultan's palace was shelled, his single warship sunk, and it was over before lunch.",
-        "body": "On August 27, 1896, the British Empire and the Sultanate of Zanzibar fought a war that lasted between 38 and 45 minutes — officially the shortest war in recorded history. It started at 9:02 AM when the British opened fire on the sultan's palace, and it was over by 9:40 AM. About 500 Zanzibari casualties resulted, compared to one wounded British sailor.\n\nThe backstory is pure colonial arrogance. When pro-British Sultan Hamad bin Thuwaini died suddenly on August 25, his nephew Khalid bin Barghash seized the throne without British approval. Britain issued an ultimatum: stand down by 9:00 AM on August 27, or face the consequences. Khalid assembled about 2,800 defenders and a single aging wooden warship, the HHS Glasgow. The British positioned five warships in the harbor. When the deadline expired, the bombardment began. The Glasgow was sunk in minutes. The palace was reduced to rubble. Khalid fled to the German consulate.\n\nThe Anglo-Zanzibar War is often cited as a funny historical footnote, and it is absurd on the surface. But it's also a stark illustration of the massive power asymmetry of the colonial era. One side had modern steel warships and artillery; the other had a wooden boat and outdated cannons. The \"war\" was less a conflict than a demolition. Its brevity tells you everything about who held the power and who didn't.",
-        "image": "https://picsum.photos/seed/zanzibarwar/480/480",
-        "category": "culture",
-        "references": [
-            {
-                "label": "Britannica",
-                "url": "https://www.britannica.com/event/Anglo-Zanzibar-War"
-            },
-            {
-                "label": "Wikipedia - Anglo-Zanzibar War",
-                "url": "https://en.wikipedia.org/wiki/Anglo-Zanzibar_War"
-            },
-            {
-                "label": "BBC History",
-                "url": "https://www.bbc.co.uk/history/0/20693091"
+                "label": "Wikipedia - Milky Way",
+                "url": "https://en.wikipedia.org/wiki/Milky_Way"
             }
         ]
     },
@@ -512,144 +206,48 @@
         "title": "The Mona Lisa Has No Eyebrows",
         "summary": "The Mona Lisa originally had eyebrows and eyelashes. They vanished over centuries of restoration, leaving the enigmatic bare-faced look we know today.",
         "body": "If you look at the Mona Lisa closely — and millions of tourists try to every year, jostling for phone photos in the Louvre — you'll notice something odd: she has no eyebrows or eyelashes. For centuries, art historians debated whether this was Leonardo da Vinci's deliberate choice, perhaps reflecting a Renaissance fashion trend where women plucked their brows.\n\nIn 2007, French engineer Pascal Cotte used ultra-high-resolution multispectral scanning to analyze the painting at 240 megapixels. He found evidence that Leonardo did originally paint both eyebrows and eyelashes. They disappeared over time — likely erased by overzealous restoration efforts in the 16th and 17th centuries, when cleaning solvents gradually stripped away the extremely fine, translucent brushstrokes Leonardo used for these delicate features. Leonardo was famous for his sfumato technique, building up hair-thin layers of paint. Those layers were exactly what aggressive cleaning would remove first.\n\nIt's a small detail, but it changes how you see the painting. The Mona Lisa's famously enigmatic expression — that ambiguous smile that seems to shift depending on where you look — may actually owe something to the accidental removal of her eyebrows. Eyebrows are crucial for reading facial expressions. Without them, the face becomes harder to interpret, more ambiguous, more mysterious. The most famous expression in art history might be partly a restoration accident.",
-        "image": "https://picsum.photos/seed/monalisa/480/480",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/960px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
         "category": "culture",
         "references": [
             {
-                "label": "BBC News",
-                "url": "https://news.bbc.co.uk/2/hi/entertainment/7061027.stm"
+                "label": "Paintvine",
+                "url":"https://paintvine.co.nz/blogs/news/what-happened-to-mona-lisas-eyebrows?srsltid=AfmBOooDePAx8t5lZbYU6bNKYB1dYARQ1PXAWuQgM5duCDroRfkt727n"
             },
             {
-                "label": "Smithsonian Magazine",
-                "url": "https://www.smithsonianmag.com/smart-news/the-mona-lisas-twin-painting-was-likely-made-side-by-side-with-the-original-180978620/"
-            },
-            {
-                "label": "The Louvre",
-                "url": "https://www.louvre.fr/en/explore/the-palace/from-a-royal-palace-to-a-museum"
+                "label": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Mona_Lisa#:~:text=In%202007%2C%20French%20engineer%20Pascal,as%20a%20result%20of%20overcleaning."
             }
         ]
     },
     {
-        "date": "2026-04-19",
-        "title": "A Day on Venus Is Longer Than Its Year",
-        "summary": "Venus takes 243 Earth days to rotate once but only 225 days to orbit the Sun. A single Venusian day outlasts a Venusian year.",
-        "body": "Venus is the solar system's contrarian. It takes 243 Earth days to complete a single rotation on its axis, but only 225 Earth days to orbit the Sun. That means a day on Venus (one full rotation) is longer than a Venusian year (one full orbit). You'd celebrate your birthday before the sun had fully risen and set once. If that doesn't break your brain a little, consider that Venus also rotates backward — its sun rises in the west and sets in the east.\n\nScientists call this retrograde rotation, and nobody is entirely sure why Venus does it. The leading theory is that a massive collision early in the planet's history either flipped it upside down or gradually slowed and reversed its spin through tidal interactions with its thick atmosphere. Venus's atmosphere is so dense — about 90 times Earth's surface pressure — that atmospheric tides from the Sun's gravitational pull may have played a significant role in braking its rotation over billions of years.\n\nThe practical weirdness compounds when you consider that the \"solar day\" on Venus (the time between one sunrise and the next) is actually about 117 Earth days, much shorter than the sidereal day, because the planet's orbital motion around the Sun partially compensates for its slow rotation. Venus is basically the planet that looked at the rules of planetary physics and decided they were more like suggestions.",
-        "image": "https://picsum.photos/seed/venusday/480/480",
-        "category": "numbers",
+        "date": "2026-04-06",
+        "title": "The Mere Exposure Effect",
+        "summary": "You like things more simply because you've seen them before. This unconscious bias shapes your taste in music, faces, and even political candidates.",
+        "body": "In 1968, psychologist Robert Zajonc showed test subjects a series of random shapes, some more frequently than others. Afterward, subjects consistently rated the shapes they'd seen more often as more \"pleasant\" — even though they couldn't consciously remember which ones they'd been shown more. He called it the mere exposure effect, and it's one of the most robust findings in all of psychology.\n\nThe effect is everywhere once you start looking. It's why radio stations play the same songs on heavy rotation — the more you hear a track, the more you tend to like it (up to a point of oversaturation). It's why brands plaster their logos everywhere even when the ads don't contain useful information. It's a factor in why we tend to find familiar faces more attractive, and some researchers believe it plays a role in elections: candidates with higher name recognition benefit from a baseline warmth that has nothing to do with their policies.\n\nWhat makes this unsettling is how completely unconscious it is. You don't decide to like familiar things more — your brain just does it automatically, below the threshold of awareness. It's probably an evolved shortcut: something you've encountered before without being harmed is statistically safer than something completely novel. But in a modern world of advertising and algorithmic recommendations, this ancient safety heuristic gets exploited constantly. Your taste is less \"yours\" than you think.",
+        "image": "",
+        "category": "psychology",
         "references": [
             {
-                "label": "NASA - Venus",
-                "url": "https://solarsystem.nasa.gov/planets/venus/overview/"
+                "label": "EBSCO",
+                "url":"https://www.ebsco.com/research-starters/psychology/mere-exposure-effect"
             },
             {
-                "label": "Nature - Venus Rotation",
-                "url": "https://www.nature.com/articles/s41561-020-0585-2"
-            },
-            {
-                "label": "Space.com",
-                "url": "https://www.space.com/18551-venus-rotation.html"
+                "label": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Mere-exposure_effect"
             }
         ]
     },
     {
-        "date": "2026-04-20",
-        "title": "Earth as Basketball, Moon as Tennis Ball 7 Meters Away",
-        "summary": "If Earth were a basketball, the Moon would be a tennis ball about 7 meters away. Most people guess 1-2 meters. Space is emptier than you think.",
-        "body": "Here's a scale experiment you can do right now. If you shrink the Earth down to the size of a basketball (about 24 cm diameter), the Moon would be the size of a tennis ball (about 7 cm). Now: how far apart should you hold them? Most people guess somewhere around one to two meters. The actual answer is about 7.4 meters — roughly 24 feet. Space is way, way emptier than our mental models suggest.\n\nThis is hard to visualize because every diagram of the Earth-Moon system you've ever seen in a textbook or documentary has been laughably out of scale. They have to be, or the Moon would be off the page. The real Earth-Moon distance is about 384,400 kilometers — roughly 30 Earth diameters. You could line up every planet in the solar system between the Earth and Moon and still have room to spare.\n\nThe misconception matters because it shapes how we think about space travel. The Moon is close by cosmic standards, but it's still astonishingly far by human ones. Apollo astronauts took about three days to get there. The distance is large enough that radio signals — traveling at the speed of light — take 1.3 seconds to make the trip. When you look up at the Moon tonight, remember: if Earth is a basketball in your hands, that little glowing circle is a tennis ball sitting at the far end of a large room.",
-        "image": "https://picsum.photos/seed/earthmoonscale/480/480",
-        "category": "numbers",
-        "references": [
-            {
-                "label": "NASA - Earth's Moon",
-                "url": "https://solarsystem.nasa.gov/moons/earths-moon/overview/"
-            },
-            {
-                "label": "Wikipedia - Lunar Distance",
-                "url": "https://en.wikipedia.org/wiki/Lunar_distance_(astronomy)"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-21",
-        "title": "You Blink About 28,000 Times a Day",
-        "summary": "You blink roughly 15-20 times per minute, adding up to 28,000 blinks daily. Each blink lasts 100-150 milliseconds — you spend 10% of waking hours with eyes shut.",
-        "body": "The average person blinks 15 to 20 times per minute, which adds up to roughly 28,000 blinks per day and about 10 million per year. Each blink lasts between 100 and 150 milliseconds. If you do the math, you spend approximately 10% of your waking hours with your eyes closed — and you almost never notice.\n\nBlinking serves the obvious function of keeping your corneas lubricated and clearing debris, but that only requires a fraction of the blinks you actually perform. Scientists have found that blinking also serves a cognitive function: it tends to occur at natural breakpoints in attention, like the end of a sentence while reading or during pauses in conversation. Your brain uses blinks as micro-moments to briefly reset your visual attention. MRI studies show that during a blink, brain activity shifts briefly from visual processing areas to the \"default mode network\" — the same areas active during daydreaming.\n\nWhat's really interesting is how social blinking is. People synchronize their blink patterns when watching the same video or listening to the same speaker. Audiences in a theater tend to blink at the same moments — during pauses in dialogue, scene transitions, or low-action moments. Your blinking isn't random; it's a surprisingly coordinated social and cognitive behavior that you perform tens of thousands of times a day without a single conscious thought.",
-        "image": "https://picsum.photos/seed/blinking/480/480",
-        "category": "numbers",
-        "references": [
-            {
-                "label": "PNAS - Blink Timing",
-                "url": "https://www.pnas.org/doi/10.1073/pnas.0903613106"
-            },
-            {
-                "label": "Smithsonian Magazine",
-                "url": "https://www.smithsonianmag.com/science-nature/why-do-we-blink-so-much-172334883/"
-            },
-            {
-                "label": "Scientific American",
-                "url": "https://www.scientificamerican.com/article/the-quest-to-understand-blinking/"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-22",
+        "date": "2026-04-07",
         "title": "Lightning Strikes Earth 100 Times per Second",
         "summary": "At any given moment, about 2,000 thunderstorms are happening worldwide, producing roughly 100 lightning strikes per second — 8.6 million per day.",
-        "body": "Right now, as you read this, there are approximately 2,000 thunderstorms happening simultaneously around the world. Together, they produce about 100 lightning bolts every single second — roughly 8.6 million strikes per day, or over 3 billion per year. The planet is basically running a continuous electrical light show that never stops.\n\nEach bolt is genuinely extraordinary on its own terms. A typical lightning strike carries about 300 million volts and 30,000 amperes of current, heating the surrounding air to roughly 30,000 Kelvin — about five times hotter than the surface of the Sun. The entire discharge happens in a few milliseconds. The thunder you hear is the sound of that superheated air expanding faster than the speed of sound. Lightning also produces X-rays and even gamma rays, making thunderstorms among the most energetic natural phenomena on the planet's surface.\n\nLightning has shaped Earth in ways most people don't appreciate. It's responsible for producing a significant portion of the nitrogen fixation in soils — the energy splits atmospheric nitrogen molecules, which then combine with oxygen and dissolve into rain as natural fertilizer. Some scientists believe lightning may have been essential for the origin of life, providing the energy needed to forge complex organic molecules from simpler precursors in Earth's early atmosphere. The same force that fries power lines and terrifies golfers might have kickstarted biology itself.",
-        "image": "https://picsum.photos/seed/lightningearth/480/480",
+        "body": "Right now, as you read this, there are approximately 2,000 thunderstorms happening simultaneously around the world. Together, they produce about 100 lightning bolts every single second, roughly 8.6 million strikes per day (or over 3 billion per year). The planet is basically running a continuous electrical light show that never stops.\n\nA typical lightning strike carries about 300 million volts and 30,000 amperes of current, heating the surrounding air to roughly 30,000 Kelvin, or about five times hotter than the surface of the Sun. The entire discharge happens in a few milliseconds. The thunder you hear is the sound of that superheated air expanding faster than the speed of sound. Lightning also produces X-rays and even gamma rays, making thunderstorms among the most energetic natural phenomena on the planet's surface.\n\nLightning has shaped Earth in ways most people don't appreciate. It's responsible for producing a significant portion of the nitrogen fixation in soils — the energy splits atmospheric nitrogen molecules, which then combine with oxygen and dissolve into rain as natural fertilizer. Some scientists believe lightning may have been essential for the origin of life, providing the energy needed to forge complex organic molecules from simpler precursors in Earth's early atmosphere. The same force that fries power lines and terrifies golfers might have kickstarted biology itself.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Lightning_Pritzerbe_01_%28MK%29.jpg/1920px-Lightning_Pritzerbe_01_%28MK%29.jpg",
         "category": "numbers",
         "references": [
             {
-                "label": "NASA - Lightning",
-                "url": "https://lightning.nsstc.nasa.gov/primer/primer2.html"
-            },
-            {
-                "label": "NOAA - Lightning Safety",
-                "url": "https://www.weather.gov/safety/lightning-science-overview"
-            },
-            {
-                "label": "National Geographic",
-                "url": "https://www.nationalgeographic.com/environment/article/lightning"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-23",
-        "title": "A Teaspoon of Neutron Star Weighs 6 Billion Tons",
-        "summary": "Neutron stars are so dense that a teaspoon of their material would weigh about 6 billion tons — roughly the weight of every human on Earth combined.",
-        "body": "When a massive star dies and its core collapses, protons and electrons are crushed together to form neutrons, creating an object of almost incomprehensible density: a neutron star. The result is a sphere roughly 20 kilometers across that contains more mass than the Sun. A single teaspoon of neutron star material would weigh approximately 6 billion tons — about the same as the combined weight of every human being on Earth.\n\nTo get a sense of what this density means: if you could somehow drop a teaspoon of neutron star material onto the Earth's surface, it wouldn't just sit there. It would punch through the ground like a bullet through tissue paper, falling toward the center of the planet. Normal matter is almost entirely empty space — the distance between an atom's nucleus and its electrons is proportionally similar to the distance between the sun and its planets. In a neutron star, all that empty space has been squeezed out. What remains is matter pressed to its absolute limit.\n\nNeutron stars also spin incredibly fast — some rotate hundreds of times per second, faster than a kitchen blender. These rapidly rotating neutron stars, called pulsars, emit beams of radiation from their poles that sweep across space like cosmic lighthouses. The fastest known pulsar spins at 716 revolutions per second, meaning its surface is moving at nearly a quarter of the speed of light. The universe builds things that shouldn't be possible, and neutron stars are among the most extreme examples.",
-        "image": "https://picsum.photos/seed/neutronstar/480/480",
-        "category": "numbers",
-        "references": [
-            {
-                "label": "NASA - Neutron Stars",
-                "url": "https://imagine.gsfc.nasa.gov/science/objects/neutron_stars1.html"
-            },
-            {
-                "label": "Nature - Neutron Star Physics",
-                "url": "https://www.nature.com/articles/s41550-019-0880-2"
-            },
-            {
-                "label": "Space.com",
-                "url": "https://www.space.com/22180-neutron-stars.html"
-            }
-        ]
-    },
-    {
-        "date": "default",
-        "title": "The Weight of a Cloud",
-        "summary": "A single cloud weighs as much as 100 elephants. It floats anyway — because weight alone doesn't determine whether something rises or falls.",
-        "body": "An average cumulus cloud weighs around 500,000 kilograms — roughly the same as 100 elephants. Despite this staggering mass, clouds float because their water droplets are spread across a vast volume, making the density far lower than the surrounding dry air. The updrafts of warm air beneath them provide continuous lift.\n\nIt's a beautiful reminder that weight alone doesn't determine whether something rises or falls — distribution and environment matter just as much. A cloud is heavy, but it's also enormous. Spread 500 tons of water across a cubic kilometer of sky, and each droplet is so tiny that air resistance and convection easily keep it aloft. The moment those droplets start combining into larger drops — through a process called coalescence — they become heavy enough to fall, and that's what we call rain.\n\nThere's something philosophically satisfying about this. We tend to think of heavy things as earthbound and light things as airborne, but reality is more nuanced. Context determines whether something floats or sinks. A steel ship floats; a marble sinks. An elephant can't fly; the same mass of water can. The cloud overhead isn't defying gravity — it's playing by subtler rules than our intuitions expect.",
-        "image": "https://picsum.photos/seed/clouds/480/480",
-        "category": "science",
-        "references": [
-            {
-                "label": "NOAA",
-                "url": "https://www.noaa.gov/education"
-            },
-            {
-                "label": "National Geographic",
-                "url": "https://www.nationalgeographic.com/science/article/clouds"
+                "label": "Weather.gov",
+                "url":"https://www.weather.gov/mlb/lightning_facts"
             }
         ]
     }
