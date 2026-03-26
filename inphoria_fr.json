@@ -18,7 +18,7 @@
         ]
     },
     {
-        "date": "2026-03-25",
+        "date": "2026-04-08",
         "title": "Oxford est plus ancienne que l'Empire aztèque",
         "summary": "L'enseignement a commencé à Oxford dès 1096. L'Empire aztèque n'a été fondé qu'en 1428. Oxford donnait des cours depuis plus de trois siècles quand Tenochtitlan est née.",
         "body": "L'Université d'Oxford a commencé à dispenser des cours dès 1096, ce qui en fait l'une des plus anciennes universités du monde occidental. L'Empire aztèque, lui, n'a été fondé qu'en 1428 avec la Triple Alliance de Tenochtitlan, Texcoco et Tlacopan. Quand les Aztèques posaient les fondations de leur civilisation, Oxford formait des étudiants depuis plus de trois siècles.\n\nCe décalage est déroutant parce que notre cerveau range instinctivement les Aztèques dans la catégorie « civilisations anciennes » et Oxford dans celle des « institutions modernes ». En réalité, les Aztèques étaient un empire relativement jeune quand les Espagnols sont arrivés en 1519 — il n'avait même pas un siècle d'existence.\n\nCe genre de comparaison révèle à quel point notre carte mentale de l'histoire est déformée. On imagine les civilisations précolombiennes comme infiniment anciennes parce qu'elles ont disparu, et les institutions européennes comme éternellement jeunes parce qu'elles existent encore. La réalité est plus nuancée : l'histoire n'est pas une ligne droite avec le « vieux » d'un côté et le « nouveau » de l'autre. C'est un enchevêtrement de chronologies qui se chevauchent de manière souvent surprenante.",
@@ -253,9 +253,9 @@
     },
     {
         "date": "default",
-        "title": "Le Paradoxe de la Curiosité",
+        "title": "Le paradoxe de la curiosité",
         "summary": "Chercher à voir le contenu à l'avance diminue le plaisir qu'on en tire. L'anticipation active les mêmes circuits de dopamine que la récompense elle-même.",
-        "body": "Dans les années 1990, l'économiste George Loewenstein a proposé la théorie du \"fossé informationnel\" de la curiosité. Il a découvert que la curiosité naît lorsque nous percevons un écart entre ce que nous savons et ce que nous voulons savoir — et que l'anticipation de combler cet écart est elle-même une source de plaisir. Votre cerveau libère de la dopamine non pas quand vous obtenez la réponse, mais quand vous sentez que vous êtes sur le point de l'obtenir.\n\nCela crée un paradoxe : les personnes qui sautent les étapes — qui regardent la dernière page d'un roman, qui avancent rapidement jusqu'à la fin — rapportent systématiquement une satisfaction moindre que celles qui laissent l'histoire se dérouler naturellement. Des études sur les \"effets de spoiler\" ont montré que si connaître la fin ne gâche pas toujours le plaisir, l'acte de chercher impatiemment, lui, le diminue. Le plaisir n'est pas seulement dans la destination ; il est dans le voyage de ne pas savoir.\n\nDes chercheurs de Caltech l'ont confirmé par imagerie cérébrale. Quand les sujets anticipaient une récompense, leur striatum ventral — le centre du plaisir du cerveau — s'activait davantage pendant la période d'attente que pendant la récompense elle-même. L'attente n'est pas juste tolérable ; neurologiquement, elle EST le plaisir. Chaque fois que vous résistez à l'envie de sauter en avant, vous maximisez en réalité votre propre satisfaction. La patience, il s'avère, n'est pas seulement une vertu — c'est une stratégie dopaminergique.",
+        "body": "Dans les années 1990, l'économiste George Loewenstein a proposé la théorie du \"fossé informationnel\" de la curiosité. Il a découvert que la curiosité naît lorsque nous percevons un écart entre ce que nous savons et ce que nous voulons savoir et que l'anticipation de combler cet écart est elle-même une source de plaisir. Votre cerveau libère de la dopamine non pas quand vous obtenez la réponse, mais quand vous sentez que vous êtes sur le point de l'obtenir.\n\nCela crée un paradoxe : les personnes qui sautent les étapes — qui regardent la dernière page d'un roman, qui avancent rapidement jusqu'à la fin — rapportent systématiquement une satisfaction moindre que celles qui laissent l'histoire se dérouler naturellement. Des études sur les \"effets de spoiler\" ont montré que si connaître la fin ne gâche pas toujours le plaisir, l'acte de chercher impatiemment, lui, le diminue. Le plaisir n'est pas seulement dans la destination ; il est dans le voyage de ne pas savoir.\n\nDes chercheurs de Caltech l'ont confirmé par imagerie cérébrale. Quand les sujets anticipaient une récompense, leur striatum ventral (le centre du plaisir du cerveau) s'activait davantage pendant la période d'attente que pendant la récompense elle-même. L'attente n'est pas juste tolérable, elle EST le plaisir. Chaque fois que vous résistez à l'envie de sauter en avant, vous maximisez en réalité votre propre satisfaction. La patience, il s'avère, n'est pas seulement une vertu — c'est une stratégie dopaminergique.",
         "image": "",
         "category": "psychology",
         "references": [
@@ -265,7 +265,7 @@
             },
             {
                 "label": "Caltech - Anticipation and Reward",
-                "url": "https://www.caltech.edu/about/news/anticipating-reward-more-rewarding-reward-itself-1839"
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4252494/"
             }
         ]
     }

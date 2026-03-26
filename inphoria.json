@@ -18,7 +18,7 @@
         ]
     },
     {
-        "date": "2026-03-25",
+        "date": "2026-04-08",
         "title": "Oxford University Is Older Than the Aztec Empire",
         "summary": "Teaching began at Oxford around 1096 AD. The Aztec Empire wasn't founded until 1428. Oxford was already ancient when Tenochtitlan was being built.",
         "body": "Oxford University started teaching in some form around 1096 AD, making it one of the oldest universities in the world. The Aztec Empire? That wasn't formally established until 1428, when the Triple Alliance of Tenochtitlan, Texcoco, and Tlacopan came together. By the time Aztec civilization was hitting its stride, Oxford had been educating students for over 300 years and had already survived plagues, wars, and faculty disputes.\n\nThis fact trips people up because we associate Oxford with the established, old-world European tradition and the Aztecs with something even more ancient and lost to time. But the Aztec Empire was actually quite young when the Spanish arrived in 1519 — less than a century old.\n\nWhat's really striking is how it challenges our unconscious biases about \"civilized\" versus \"ancient\" cultures. The Aztecs had sophisticated agriculture, astronomy, and engineering happening while Oxford scholars were debating theology in medieval Latin. These were parallel, contemporary civilizations — not sequential chapters in a history book. The world has always been more simultaneously complex than we give it credit for.",
@@ -255,7 +255,7 @@
         "date": "default",
         "title": "The Curiosity Paradox",
         "summary": "Skipping ahead to see future content actually makes you enjoy it less. The anticipation itself activates the same dopamine pathways as the reward.",
-        "body": "In the 1990s, economist George Loewenstein proposed the \"information gap\" theory of curiosity. He found that curiosity arises when we perceive a gap between what we know and what we want to know — and that the anticipation of closing that gap is itself a source of pleasure. Your brain releases dopamine not when you get the answer, but when you expect you're about to.\n\nThis creates a paradox: people who skip ahead — who peek at the last page of a novel, who fast-forward to the end — consistently report lower satisfaction than those who let the story unfold naturally. Studies on \"spoiler effects\" have shown that while knowing the ending doesn't always ruin enjoyment, the act of impatient seeking does. The pleasure isn't just in the destination; it's in the journey of not knowing.\n\nResearchers at Caltech confirmed this with brain imaging. When subjects anticipated a reward, their ventral striatum — the brain's pleasure center — lit up more during the waiting period than during the actual payoff. The wait isn't just tolerable; neurologically, it IS the pleasure. Every time you resist the urge to skip ahead, you're actually maximizing your own enjoyment. Patience, it turns out, isn't just a virtue — it's a dopamine strategy.",
+        "body": "In the 1990s, economist George Loewenstein proposed the \"information gap\" theory of curiosity. He found that curiosity arises when we perceive a gap between what we know and what we want to know — and that the anticipation of closing that gap is itself a source of pleasure. Your brain releases dopamine not when you get the answer, but when you expect you're about to.\n\nThis creates a paradox: people who skip ahead, who peek at the last page of a novel, who fast-forward to the end consistently report lower satisfaction than those who let the story unfold naturally. Studies on \"spoiler effects\" have shown that while knowing the ending doesn't always ruin enjoyment, the act of impatient seeking does. The pleasure isn't just in the destination; it's in the journey of not knowing.\n\nResearchers at Caltech confirmed this with brain imaging. When subjects anticipated a reward, their ventral striatum — the brain's pleasure center — lit up more during the waiting period than during the actual payoff. The wait isn't just tolerable; neurologically, it IS the pleasure. Every time you resist the urge to skip ahead, you're actually maximizing your own enjoyment. Patience, it turns out, isn't just a virtue — it's a dopamine strategy.",
         "image": "",
         "category": "psychology",
         "references": [
@@ -265,7 +265,7 @@
             },
             {
                 "label": "Caltech - Anticipation and Reward",
-                "url": "https://www.caltech.edu/about/news/anticipating-reward-more-rewarding-reward-itself-1839"
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4252494/"
             }
         ]
     }
