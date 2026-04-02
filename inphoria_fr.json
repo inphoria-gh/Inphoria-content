@@ -148,24 +148,6 @@
         ]
     },
     {
-        "date": "2026-04-02",
-        "title": "Les bananes sont radioactives",
-        "summary": "Chaque banane que vous mangez contient du potassium-40, un isotope radioactif. Pas de panique : il faudrait en manger 10 millions d'un coup pour que ça devienne un problème.",
-        "body": "La prochaine fois que vous pelez une banane, sachez que vous tenez un fruit légèrement radioactif. Les bananes sont riches en potassium, et environ 0,012% de ce potassium est du potassium-40, un isotope naturellement radioactif. C'est tellement connu en physique nucléaire qu'on a même créé une unité informelle : la « dose équivalente en bananes ».\n\nRassurez-vous, le danger est absolument nul. Votre corps régule en permanence son taux de potassium : quand vous en absorbez davantage, vous en éliminez autant. Il faudrait manger environ 10 millions de bananes d'un seul coup pour recevoir une dose de radiation mortelle. Votre estomac lâcherait bien avant vos cellules.\n\nCe qui est vraiment intéressant, c'est que cette anecdote illustre à quel point la radioactivité est omniprésente dans la nature. Le sol sous vos pieds, le granit de vos murs, même votre propre corps — tout émet un peu de rayonnement. La banane nous rappelle que la radioactivité n'est pas forcément synonyme de danger : c'est une question de dose, et la nature sait très bien gérer les siennes.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cavendish_Banana_DS.jpg/500px-Cavendish_Banana_DS.jpg",
-        "category": "science",
-        "references": [
-            {
-                "label": "EPA - Radiation Doses",
-                "url": "https://www.epa.gov/radiation/radiation-sources-and-doses"
-            },
-            {
-                "label": "Forbes",
-                "url": "https://www.forbes.com/sites/quora/2016/07/18/how-many-bananas-would-you-have-to-eat-to-get-radiation-poisoning/"
-            }
-        ]
-    },
-    {
         "date": "2026-04-03",
         "title": "Cléopâtre a vécu plus près de l'iPhone que des pyramides",
         "summary": "Cléopâtre est née en 69 av. J.-C. La Grande Pyramide date de 2560 av. J.-C. Elle était déjà vieille de 2 500 ans du temps de Cléopâtre, qui est plus proche de nous dans le temps que des bâtisseurs de pyramides.",
@@ -238,10 +220,10 @@
         ]
     },
     {
-        "date": "2026-04-07",
+        "date": "2026-04-02",
         "title": "La foudre frappe la Terre 100 fois par seconde",
         "summary": "Chaque seconde, environ 2 000 orages actifs produisent 100 éclairs sur Terre. Cela représente 8,6 millions de coups de foudre par jour, et chacun est cinq fois plus chaud que la surface du Soleil.",
-        "body": "En ce moment même, environ 2 000 orages sont actifs simultanément à la surface du globe, produisant environ 100 éclairs par seconde. Cela représente 8,6 millions de coups de foudre par jour et plus de 3 milliards par an. Contrairement à ce que l'on peut penser, la foudre n'est pas un événement rare mais plutôt un phénomène permanent et planétaire.\n\nChaque éclair atteint une température d'environ 30 000 degrés Celsius, soit cinq fois la température de la surface du Soleil. Cette chaleur extrême provoque une expansion brutale de l'air, créant l'onde de choc que nous percevons comme le tonnerre. La lumière de l'éclair voyage à 300 000 km/s, le son à seulement 340 m/s (d'où le décalage entre le flash et le grondement), ce qui vous permet d'estimer la distance de l'orage (environ 3 secondes par kilomètre).\n\nLa foudre joue aussi un rôle chimique méconnu. En traversant l'atmosphère, elle fixe l'azote et crée des composés azotés qui tombent avec la pluie et fertilisent le sol. Avant l'invention des engrais synthétiques, la foudre était l'une des principales sources naturelles d'azote pour les plantes. Un orage n'est donc pas seulement un spectacle — c'est un engrais cosmique gratuit, livré à domicile par la physique.",
+        "body": "En ce moment même, environ 2 000 orages sont actifs simultanément à la surface du globe, produisant environ 100 éclairs par seconde. Cela représente 8,6 millions de coups de foudre par jour et plus de 3 milliards par an. Contrairement à ce que l'on peut penser, la foudre n'est pas un événement rare mais plutôt un phénomène permanent et planétaire.\n\nChaque éclair atteint une température d'environ 30 000 degrés Celsius, soit cinq fois la température de la surface du Soleil. Cette chaleur extrême provoque une expansion brutale de l'air, créant l'onde de choc que nous percevons comme le tonnerre. La lumière de l'éclair voyage à 300 000 km/s, le son à seulement 340 m/s (d'où le décalage entre le flash et le grondement), ce qui vous permet d'estimer la distance de l'orage (environ 3 secondes par kilomètre).\n\nLa foudre joue aussi un rôle chimique méconnu. En traversant l'atmosphère, elle fixe l'azote et crée des composés azotés qui tombent avec la pluie et fertilisent le sol. Avant l'invention des engrais synthétiques, la foudre était l'une des principales sources naturelles d'azote pour les plantes. Un orage n'est donc pas seulement un spectacle, c'est un engrais cosmique gratuit, livré à domicile par la physique.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Lightning_Pritzerbe_01_%28MK%29.jpg/1920px-Lightning_Pritzerbe_01_%28MK%29.jpg",
         "category": "numbers",
         "references": [

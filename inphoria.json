@@ -148,24 +148,6 @@
         ]
     },
     {
-        "date": "2026-04-02",
-        "title": "Bananas Are Radioactive",
-        "summary": "Every banana you eat contains radioactive potassium-40. Don't panic — you'd need to eat 10 million bananas at once for a lethal dose.",
-        "body": "You've been eating radioactive fruit your entire life and nobody told you. Bananas contain potassium-40, a naturally occurring radioactive isotope, and every single one emits a tiny amount of radiation. Scientists even invented an informal unit called the \"Banana Equivalent Dose\" (BED) to help people conceptualize radiation exposure in everyday terms.\n\nBefore you swear off smoothies forever, let's put this in perspective. The radiation from one banana is about 0.01 millirem — roughly 1/100th of a chest X-ray. You'd need to eat approximately 10 million bananas in a single sitting to accumulate a lethal radiation dose. Your body is also pretty smart about this: it regulates potassium levels tightly, so eating more bananas doesn't actually increase the total amount of potassium-40 in your body. You just excrete the excess.\n\nWhat makes this genuinely interesting isn't the bananas themselves — it's what it reveals about how we think about risk. We live in a naturally radioactive world. The ground beneath you, the air you breathe, even your own body emits radiation constantly. Bananas just happen to be the most fun example of background radiation that's been with us forever. The universe is a little spicier than we like to admit.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cavendish_Banana_DS.jpg/500px-Cavendish_Banana_DS.jpg",
-        "category": "science",
-        "references": [
-            {
-                "label": "EPA - Radiation Doses",
-                "url": "https://www.epa.gov/radiation/radiation-sources-and-doses"
-            },
-            {
-                "label": "Forbes",
-                "url": "https://www.forbes.com/sites/quora/2016/07/18/how-many-bananas-would-you-have-to-eat-to-get-radiation-poisoning/"
-            }
-        ]
-    },
-    {
         "date": "2026-04-03",
         "title": "Cleopatra Lived Closer to the iPhone Than to the Pyramids",
         "summary": "Cleopatra lived around 30 BC. The Great Pyramid was built around 2560 BC. She's roughly 500 years closer to us than to the people who built it.",
@@ -238,7 +220,7 @@
         ]
     },
     {
-        "date": "2026-04-07",
+        "date": "2026-04-02",
         "title": "Lightning Strikes Earth 100 Times per Second",
         "summary": "At any given moment, about 2,000 thunderstorms are happening worldwide, producing roughly 100 lightning strikes per second — 8.6 million per day.",
         "body": "Right now, as you read this, there are approximately 2,000 thunderstorms happening simultaneously around the world. Together, they produce about 100 lightning bolts every single second, roughly 8.6 million strikes per day (or over 3 billion per year). The planet is basically running a continuous electrical light show that never stops.\n\nA typical lightning strike carries about 300 million volts and 30,000 amperes of current, heating the surrounding air to roughly 30,000 Kelvin, or about five times hotter than the surface of the Sun. The entire discharge happens in a few milliseconds. The thunder you hear is the sound of that superheated air expanding faster than the speed of sound. Lightning also produces X-rays and even gamma rays, making thunderstorms among the most energetic natural phenomena on the planet's surface.\n\nLightning has shaped Earth in ways most people don't appreciate. It's responsible for producing a significant portion of the nitrogen fixation in soils — the energy splits atmospheric nitrogen molecules, which then combine with oxygen and dissolve into rain as natural fertilizer. Some scientists believe lightning may have been essential for the origin of life, providing the energy needed to forge complex organic molecules from simpler precursors in Earth's early atmosphere. The same force that fries power lines and terrifies golfers might have kickstarted biology itself.",
