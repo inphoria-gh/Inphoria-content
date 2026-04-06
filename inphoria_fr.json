@@ -1,5 +1,73 @@
 [
     {
+        "date": "2026-04-11",
+        "title": "La guerre la plus courte a duré 38 minutes",
+        "summary": "En 1896, la Grande-Bretagne a déclaré la guerre au Sultanat de Zanzibar. Tout s'est terminé 38 minutes plus tard par la reddition du sultan. La guerre la plus courte de l'histoire.",
+        "body": "Le 27 août 1896, l'Empire britannique et le Sultanat de Zanzibar se sont affrontés dans une guerre qui a duré entre 38 et 45 minutes, ce qui en fait la guerre la plus courte de l'histoire. La cause était une crise de succession : le sultan Hamad bin Thuwaini, qui avait été coopératif avec les intérêts britanniques, mourut le 25 août. Son cousin Khalid bin Barghash s'empara du pouvoir sans l'approbation des Britanniques.\n\nLes Britanniques lancèrent un ultimatum : se retirer avant 9h00 le 27 août, ou en subir les conséquences. Khalid refusa et se barricada dans le palais avec environ 2 800 défenseurs et plusieurs pièces d'artillerie. À 9h02 précises, cinq navires de guerre britanniques ouvrirent le feu. Le palais fut gravement endommagé en quelques minutes. L'unique navire de guerre du sultan, un vieux bâtiment en bois, fut coulé dans le port. À 9h40, le drapeau du palais fut abattu et Khalid s'était enfui par une porte dérobée vers le consulat allemand.\n\nLes Britanniques comptèrent une seule victime. Les pertes de Zanzibar furent estimées à environ 500 tués ou blessés. La nature totalement déséquilibrée du conflit en fait moins une « guerre » au sens propre qu'une démonstration violente de l'asymétrie du pouvoir impérial.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/AngloZanzibarWar.jpg",
+        "category": "history",
+        "references": [
+            {
+                "label": "Britannica",
+                "url": "https://www.britannica.com/event/Anglo-Zanzibar-War"
+            },
+            {
+                "label": "Wikipedia",
+                "url": "https://fr.wikipedia.org/wiki/Guerre_anglo-zanzibarite"
+            }
+        ]
+    },
+    {
+        "date": "2026-04-10",
+        "title": "Vous ne pouvez pas vous chatouiller vous-même",
+        "summary": "Votre cervelet prédit la sensation de votre propre toucher et annule la réaction. Votre cerveau se gâche lui-même la surprise.",
+        "body": "Essayez de vous chatouiller. Ça ne marche pas, et la raison révèle quelque chose de profond sur la façon dont votre cerveau construit votre expérience de la réalité. Votre cervelet, la partie du cerveau qui coordonne les mouvements,  envoie une prédiction de ce que chaque mouvement auto-initié va provoquer comme sensation. Quand la sensation réelle correspond à la prédiction, votre cerveau atténue la réponse. Pas de surprise, pas de chatouillement.\n\nDes neuroscientifiques de l'University College London ont démontré cela élégamment en faisant utiliser à des sujets un bras robotique pour se chatouiller eux-mêmes. Quand le robot bougeait en temps réel avec la main du sujet, aucun chatouillement. Mais quand les chercheurs ajoutaient un minuscule délai (même seulement 200 millisecondes) la sensation devenait chatouillante. Cette petite imprévisibilité suffisait à contourner la prédiction du cervelet.\n\nCe mécanisme existe pour une raison essentielle : votre cerveau doit distinguer entre les sensations que vous causez et celles causées par le monde extérieur. Si votre cerveau ne filtrait pas le toucher auto-généré, vous seriez constamment distrait par la sensation de vos propres vêtements, de votre langue dans votre bouche, de vos paupières qui clignent. L'impossibilité de vous chatouiller est en fait une fonctionnalité d'un système sophistiqué de filtrage sensoriel qui vous permet de vous concentrer sur ce qui compte : les stimuli externes qui pourraient signaler une opportunité ou un danger.",
+        "image": "",
+        "category": "psychology",
+        "references": [
+            {
+                "label": "Nature Neuroscience",
+                "url": "https://www.nature.com/articles/nn1198_635"
+            },
+        ]
+    },
+    {
+        "date": "2026-04-09",
+        "title": "Les requins sont plus vieux que les arbres",
+        "summary": "Les requins existent depuis environ 450 millions d'années. Les arbres ne sont apparus qu'il y a 350 millions d'années. Les requins ont régné sur les océans pendant 100 millions d'années avant la première forêt.",
+        "body": "Les requins nagent dans les océans terrestres depuis environ 450 millions d'années. Les arbres, en revanche, ne sont apparus qu'il y a environ 350 millions d'années. Cela signifie que les requins ont précédé les forêts d'approximativement 100 millions d'années. Quand les premiers arbres primitifs commençaient tout juste à enfoncer leurs racines dans le sol, les requins étaient déjà anciens.\n\nPour mettre les choses en perspective : les requins sont plus vieux que les dinosaures d'environ 200 millions d'années. Ils ont survécu à l'extinction du Dévonien tardif, à la Grande Extinction permienne (qui a éliminé 96% des espèces marines), à l'extinction du Trias-Jurassique, et à l'astéroïde qui a tué les dinosaures il y a 66 millions d'années. Cinq extinctions de masse, et les requins ont traversé chacune d'entre elles.\n\nCe qui est remarquable, c'est que le plan corporel des requins n'a pas changé de manière spectaculaire au cours de cette immense durée. Le design de base, fait d'un squelette cartilagineux, de rangées multiples de dents remplaçables, et d'un corps hydrodynamique fonctionne si bien que l'évolution l'a largement laissé intact. Les requins modernes ne sont pas identiques à leurs ancêtres, mais le schéma est reconnaissable. Dans un monde obsédé par la disruption et l'innovation, les requins sont un argument de 450 millions d'années en faveur de la puissance de bien faire les choses du premier coup.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/White_shark.jpg/960px-White_shark.jpg",
+        "category": "nature",
+        "references": [
+            {
+                "label": "Smithsonian Ocean",
+                "url": "https://ocean.si.edu/ocean-life/sharks-rays/sharks"
+            },
+            {
+                "label": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Tree#:~:text=Evolutionary%20history,-Further%20information%3A%20Evolutionary&text=The%20earliest%20trees%20were%20tree,about%20385%20million%20years%20ago)."
+            }
+        ]
+    },
+    {
+        "date": "2026-04-08",
+        "title": "Votre corps brille dans le noir",
+        "summary": "Le corps humain émet de la lumière visible — une bioluminescence 1 000 fois trop faible pour vos yeux. Vous brillez littéralement en ce moment.",
+        "body": "Vous êtes lumineux. Pas au sens figuré, au sens propre. En 2009, des scientifiques japonais équipés de caméras extraordinairement sensibles ont démontré que le corps humain émet des photons visibles, à une intensité environ 1 000 fois inférieure au seuil de détection de l'œil humain. Vous brillez, mais vous ne pouvez pas le voir.\n\nCette lumière provient de réactions biochimiques impliquant des radicaux libres et des molécules fluorescentes dans les cellules de votre peau. Elle suit un rythme quotidien : la luminescence est la plus faible le matin et la plus forte en fin d'après-midi, particulièrement autour du visage et du cou. Cela s'explique par le fait que l'activité métabolique — le moteur chimique de ces réactions photoniques — fluctue au cours de la journée.\n\nCette émission de biophotons est entièrement distincte du rayonnement thermique (la chaleur infrarouge que votre corps dégage et que les caméras de vision nocturne détectent). Il s'agit de véritables photons du spectre visible — le même type de lumière qu'une lampe ou une étoile, juste absurdement faible. Certains chercheurs spéculent que cette émission photonique ultra-faible pourrait jouer un rôle dans la communication cellulaire, bien que cela reste controversé. Ce qui ne l'est pas, c'est le fait lui-même : vous avez passé toute votre vie comme une source de lumière visible, un bâton lumineux humain trop faible pour que quiconque le remarque.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Mycena_chlorophos.jpg/500px-Mycena_chlorophos.jpg",
+        "category": "science",
+        "references": [
+            {
+                "label": "PLoS ONE Study",
+                "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0006256"
+            },
+            {
+                "label": "The Guardian",
+                "url": "https://www.theguardian.com/science/blog/2009/jul/17/human-bioluminescence"
+            }
+        ]
+    },
+    {
         "date": "2026-03-26",
         "title": "Votre ADN est composé à 8% de virus",
         "summary": "Des virus anciens ont inséré leur code génétique dans celui de nos ancêtres il y a des millions d'années. Aujourd'hui, 8% de votre ADN est d'origine virale — et certains de ces fragments sont essentiels à votre survie.",
@@ -18,7 +86,7 @@
         ]
     },
     {
-        "date": "2026-04-08",
+        "date": "2026-04-07",
         "title": "Oxford est plus ancienne que l'Empire aztèque",
         "summary": "L'enseignement a commencé à Oxford dès 1096. L'Empire aztèque n'a été fondé qu'en 1428. Oxford donnait des cours depuis plus de trois siècles quand Tenochtitlan est née.",
         "body": "L'Université d'Oxford a commencé à dispenser des cours dès 1096, ce qui en fait l'une des plus anciennes universités du monde occidental. L'Empire aztèque, lui, n'a été fondé qu'en 1428 avec la Triple Alliance de Tenochtitlan, Texcoco et Tlacopan. Quand les Aztèques posaient les fondations de leur civilisation, Oxford formait des étudiants depuis plus de trois siècles.\n\nCe décalage est déroutant parce que notre cerveau range instinctivement les Aztèques dans la catégorie « civilisations anciennes » et Oxford dans celle des « institutions modernes ». En réalité, les Aztèques étaient un empire relativement jeune quand les Espagnols sont arrivés en 1519 — il n'avait même pas un siècle d'existence.\n\nCe genre de comparaison révèle à quel point notre carte mentale de l'histoire est déformée. On imagine les civilisations précolombiennes comme infiniment anciennes parce qu'elles ont disparu, et les institutions européennes comme éternellement jeunes parce qu'elles existent encore. La réalité est plus nuancée : l'histoire n'est pas une ligne droite avec le « vieux » d'un côté et le « nouveau » de l'autre. C'est un enchevêtrement de chronologies qui se chevauchent de manière souvent surprenante.",

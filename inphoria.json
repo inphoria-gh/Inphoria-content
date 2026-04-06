@@ -1,5 +1,73 @@
 [
     {
+        "date": "2026-04-11",
+        "title": "The Shortest War Lasted 38 Minutes",
+        "summary": "In 1896, Britain declared war on the Sultanate of Zanzibar. It ended 38 minutes later with the sultan's surrender. The shortest war in recorded history.",
+        "body": "On August 27, 1896, the British Empire and the Sultanate of Zanzibar fought a war that lasted between 38 and 45 minutes, making it the shortest war in recorded history. The cause was a succession crisis: Sultan Hamad bin Thuwaini, who had been cooperative with British interests, died on August 25th. His cousin Khalid bin Barghash seized power without British approval.\n\nThe British issued an ultimatum: stand down by 9:00 AM on August 27th, or face consequences. Khalid refused and barricaded himself in the palace with about 2,800 defenders and several artillery pieces. At exactly 9:02 AM, five British warships opened fire. The palace was heavily damaged within minutes. The sultan's lone warship, an aging wooden vessel, was sunk in the harbor. By 9:40 AM, the palace flag was shot down and Khalid had fled through a back door to the German consulate.\n\nThe British suffered one casualty. Zanzibar's losses were estimated at roughly 500 killed or wounded. The lopsided nature of the conflict makes it less a \"war\" in any meaningful sense and more a violent demonstration of imperial power asymmetry. It remains a reminder that the word \"war\" can describe vastly different realities, from years-long global conflicts to brutal half-hour bombardments.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/AngloZanzibarWar.jpg",
+        "category": "history",
+        "references": [
+            {
+                "label": "Britannica",
+                "url": "https://www.britannica.com/event/Anglo-Zanzibar-War"
+            },
+            {
+                "label": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Anglo-Zanzibar_War"
+            }
+        ]
+    },
+    {
+        "date": "2026-04-10",
+        "title": "You Can't Tickle Yourself",
+        "summary": "Your cerebellum predicts the sensation of your own touch and cancels the tickle response. Your brain literally spoils the surprise for itself.",
+        "body": "Try to tickle yourself. It doesn't work, and the reason why reveals something profound about how your brain constructs your experience of reality. Your cerebellum, the part of the brain that coordinates movement, sends a prediction of what each self-initiated movement will feel like. When the actual sensation matches the prediction, your brain dampens the response. No surprise, no tickle.\n\nNeuroscientists at University College London demonstrated this elegantly by having subjects use a robotic arm to tickle themselves. When the robot moved in real time with the subject's hand, no tickle. But when the researchers added a tiny delay (even just 200 milliseconds) the sensation became ticklish. That small unpredictability was enough to bypass the cerebellum's prediction.\n\nThis mechanism exists for a critical reason: your brain needs to distinguish between sensations you cause and sensations caused by the outside world. If your brain didn't filter out self-generated touch, you'd be constantly distracted by the feeling of your own clothes, your tongue in your mouth, your eyelids blinking. The inability to tickle yourself is actually a feature of a sophisticated sensory filtering system that lets you focus on what matters: external stimuli that might signal opportunity or danger. The same system, incidentally, may be impaired in some forms of schizophrenia, which could explain why some patients report being able to tickle themselves.",
+        "image": "",
+        "category": "psychology",
+        "references": [
+            {
+                "label": "Nature Neuroscience",
+                "url": "https://www.nature.com/articles/nn1198_635"
+            },
+        ]
+    },
+    {
+        "date": "2026-04-09",
+        "title": "Sharks Are Older Than Trees",
+        "summary": "Sharks have existed for about 450 million years. Trees only appeared 350 million years ago. Sharks had the oceans to themselves for 100 million years before the first forest grew.",
+        "body": "Sharks have been swimming in Earth's oceans for roughly 450 million years. Trees, by contrast, didn't appear until about 350 million years ago. That means sharks predated forests by approximately 100 million years. When the first primitive trees were just beginning to push roots into soil, sharks were already ancient.\n\nTo put this in perspective: sharks are older than the dinosaurs by about 200 million years. They survived the Late Devonian extinction, the Great Permian extinction (which wiped out 96% of marine species), the Triassic-Jurassic extinction, and the asteroid that killed the dinosaurs 66 million years ago. Five mass extinctions, and sharks swam through every single one.\n\nWhat's remarkable is that shark body plans haven't changed dramatically over this immense timescale. Their basic design made of cartilaginous skeleton, multiple rows of replaceable teeth, streamlined body works so well that evolution has largely left it alone. Modern sharks are not identical to their ancient ancestors, but the blueprint is recognizably similar. They didn't need to become radically different because they were already extraordinarily good at what they do. In a world obsessed with disruption and innovation, sharks are a 450-million-year argument for the power of getting it right the first time.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/White_shark.jpg/960px-White_shark.jpg",
+        "category": "nature",
+        "references": [
+            {
+                "label": "Smithsonian Ocean",
+                "url": "https://ocean.si.edu/ocean-life/sharks-rays/sharks"
+            },
+            {
+                "label": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Tree#:~:text=Evolutionary%20history,-Further%20information%3A%20Evolutionary&text=The%20earliest%20trees%20were%20tree,about%20385%20million%20years%20ago)."
+            }
+        ]
+    },
+    {
+        "date": "2026-04-08",
+        "title": "Your Body Glows in the Dark",
+        "summary": "The human body emits visible light — a faint bioluminescence 1,000 times weaker than your eyes can detect. You are literally glowing right now.",
+        "body": "You are luminous. Not metaphorically, literally. In 2009, Japanese scientists using very sensitive cameras demonstrated that the human body emits visible photons at an intensity about 1,000 times lower than the threshold of human vision. You glow, but you can't see it.\n\nThe light comes from biochemical reactions involving free radicals and fluorescent molecules in your skin cells. It follows a daily rhythm: the glow is weakest in the morning and strongest in the late afternoon, particularly around the face and neck. This makes sense when you consider that metabolic activity — the chemical engine driving these light-emitting reactions — fluctuates throughout the day.\n\nThis biophoton emission is entirely separate from thermal radiation (the infrared heat your body gives off, which night-vision cameras detect). These are actual visible-spectrum photons — the same kind of light that comes from a lamp or a star, just absurdly faint. Some researchers speculate that this ultra-weak photon emission might play a role in cellular communication, though this remains controversial. What's not controversial is the fact itself: you've been walking around your whole life as a source of visible light, a human glow stick too dim for anyone to notice.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Mycena_chlorophos.jpg/500px-Mycena_chlorophos.jpg",
+        "category": "science",
+        "references": [
+            {
+                "label": "PLoS ONE Study",
+                "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0006256"
+            },
+            {
+                "label": "The Guardian",
+                "url": "https://www.theguardian.com/science/blog/2009/jul/17/human-bioluminescence"
+            }
+        ]
+    },
+    {
         "date": "2026-03-26",
         "title": "Your DNA Is 8% Virus",
         "summary": "Ancient viruses embedded themselves in your ancestors' DNA millions of years ago. Today, 8% of your genome is viral — and some of it is keeping you alive.",
@@ -18,7 +86,7 @@
         ]
     },
     {
-        "date": "2026-04-08",
+        "date": "2026-04-07",
         "title": "Oxford University Is Older Than the Aztec Empire",
         "summary": "Teaching began at Oxford around 1096 AD. The Aztec Empire wasn't founded until 1428. Oxford was already ancient when Tenochtitlan was being built.",
         "body": "Oxford University started teaching in some form around 1096 AD, making it one of the oldest universities in the world. The Aztec Empire? That wasn't formally established until 1428, when the Triple Alliance of Tenochtitlan, Texcoco, and Tlacopan came together. By the time Aztec civilization was hitting its stride, Oxford had been educating students for over 300 years and had already survived plagues, wars, and faculty disputes.\n\nThis fact trips people up because we associate Oxford with the established, old-world European tradition and the Aztecs with something even more ancient and lost to time. But the Aztec Empire was actually quite young when the Spanish arrived in 1519 — less than a century old.\n\nWhat's really striking is how it challenges our unconscious biases about \"civilized\" versus \"ancient\" cultures. The Aztecs had sophisticated agriculture, astronomy, and engineering happening while Oxford scholars were debating theology in medieval Latin. These were parallel, contemporary civilizations — not sequential chapters in a history book. The world has always been more simultaneously complex than we give it credit for.",
@@ -184,7 +252,7 @@
         ]
     },
     {
-        "date": "2026-04-18",
+        "date": "2026-04-05",
         "title": "The Mona Lisa Has No Eyebrows",
         "summary": "The Mona Lisa originally had eyebrows and eyelashes. They vanished over centuries of restoration, leaving the enigmatic bare-faced look we know today.",
         "body": "If you look at the Mona Lisa closely — and millions of tourists try to every year, jostling for phone photos in the Louvre — you'll notice something odd: she has no eyebrows or eyelashes. For centuries, art historians debated whether this was Leonardo da Vinci's deliberate choice, perhaps reflecting a Renaissance fashion trend where women plucked their brows.\n\nIn 2007, French engineer Pascal Cotte used ultra-high-resolution multispectral scanning to analyze the painting at 240 megapixels. He found evidence that Leonardo did originally paint both eyebrows and eyelashes. They disappeared over time — likely erased by overzealous restoration efforts in the 16th and 17th centuries, when cleaning solvents gradually stripped away the extremely fine, translucent brushstrokes Leonardo used for these delicate features. Leonardo was famous for his sfumato technique, building up hair-thin layers of paint. Those layers were exactly what aggressive cleaning would remove first.\n\nIt's a small detail, but it changes how you see the painting. The Mona Lisa's famously enigmatic expression — that ambiguous smile that seems to shift depending on where you look — may actually owe something to the accidental removal of her eyebrows. Eyebrows are crucial for reading facial expressions. Without them, the face becomes harder to interpret, more ambiguous, more mysterious. The most famous expression in art history might be partly a restoration accident.",
