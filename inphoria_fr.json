@@ -1,321 +1,115 @@
 [
     {
-        "date": "2026-04-11",
-        "title": "La guerre la plus courte a duré 38 minutes",
-        "summary": "En 1896, la Grande-Bretagne a déclaré la guerre au Sultanat de Zanzibar. Tout s'est terminé 38 minutes plus tard par la reddition du sultan. La guerre la plus courte de l'histoire.",
-        "body": "Le 27 août 1896, l'Empire britannique et le Sultanat de Zanzibar se sont affrontés dans une guerre qui a duré entre 38 et 45 minutes, ce qui en fait la guerre la plus courte de l'histoire. La cause était une crise de succession : le sultan Hamad bin Thuwaini, qui avait été coopératif avec les intérêts britanniques, mourut le 25 août. Son cousin Khalid bin Barghash s'empara du pouvoir sans l'approbation des Britanniques.\n\nLes Britanniques lancèrent un ultimatum : se retirer avant 9h00 le 27 août, ou en subir les conséquences. Khalid refusa et se barricada dans le palais avec environ 2 800 défenseurs et plusieurs pièces d'artillerie. À 9h02 précises, cinq navires de guerre britanniques ouvrirent le feu. Le palais fut gravement endommagé en quelques minutes. L'unique navire de guerre du sultan, un vieux bâtiment en bois, fut coulé dans le port. À 9h40, le drapeau du palais fut abattu et Khalid s'était enfui par une porte dérobée vers le consulat allemand.\n\nLes Britanniques comptèrent une seule victime. Les pertes de Zanzibar furent estimées à environ 500 tués ou blessés. La nature totalement déséquilibrée du conflit en fait moins une « guerre » au sens propre qu'une démonstration violente de l'asymétrie du pouvoir impérial.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/AngloZanzibarWar.jpg",
+        "date": "2026-03-18",
+        "title": "La vitesse de la lumière ralentit… en quelque sorte",
+        "summary": "En 1999, une physicienne a ralenti la lumière à seulement 17 mètres par seconde — puis l'a complètement arrêtée deux ans plus tard. Même la limite de vitesse de l'univers plie dans les bonnes conditions.",
+        "body": "La lumière se déplace à 299 792 458 mètres par seconde dans le vide — mais dans la vie quotidienne, elle ne traverse jamais un vide parfait. En passant à travers le verre, l'eau ou même l'air, les photons sont absorbés et réémis par les atomes, ralentissant effectivement leur parcours. En 1999, la physicienne Lene Hau a ralenti la lumière à seulement 17 mètres par seconde en utilisant un gaz de sodium ultra-froid appelé condensat de Bose-Einstein. Deux ans plus tard, elle l'a complètement arrêtée. Ces expériences ont ouvert de nouvelles portes dans l'informatique quantique et le stockage de données, prouvant que même la limite de vitesse de l'univers peut être contournée.",
+        "image": "https://picsum.photos/seed/lightspeed/480/480",
+        "category": "science",
+        "references": [
+            {
+                "label": "Nature",
+                "url": "https://www.nature.com/articles/nphys"
+            }
+        ]
+    },
+    {
+        "date": "2026-03-19",
+        "title": "La chute de Constantinople",
+        "summary": "Un seul jour en 1453 a mis fin à un empire vieux de 1 100 ans, envoyé des textes anciens en Europe et déclenché la Renaissance. Le Moyen Âge est mort aux murs de Constantinople.",
+        "body": "Le 29 mai 1453, le sultan Mehmed II a percé les murs de Constantinople, mettant fin à l'Empire byzantin vieux de 1 100 ans et remodelant le monde. Les Ottomans ont déployé un canon massif conçu par un ingénieur hongrois nommé Orban — si grand qu'il fallait 60 bœufs et 200 hommes pour le transporter. La chute a envoyé des érudits grecs fuir vers l'ouest, emportant des textes anciens qui ont contribué à déclencher la Renaissance. La ville a été renommée Istanbul et est devenue le joyau de l'Empire ottoman. Les historiens citent souvent cette seule journée comme la véritable fin du Moyen Âge.",
+        "image": "https://picsum.photos/seed/constantinople/480/480",
         "category": "history",
         "references": [
             {
                 "label": "Britannica",
-                "url": "https://www.britannica.com/event/Anglo-Zanzibar-War"
-            },
-            {
-                "label": "Wikipedia",
-                "url": "https://fr.wikipedia.org/wiki/Guerre_anglo-zanzibarite"
+                "url": "https://www.britannica.com/event/Fall-of-Constantinople-1453"
             }
         ]
     },
     {
-        "date": "2026-04-10",
-        "title": "Vous ne pouvez pas vous chatouiller vous-même",
-        "summary": "Votre cervelet prédit la sensation de votre propre toucher et annule la réaction. Votre cerveau se gâche lui-même la surprise.",
-        "body": "Essayez de vous chatouiller. Ça ne marche pas, et la raison révèle quelque chose de profond sur la façon dont votre cerveau construit votre expérience de la réalité. Votre cervelet, la partie du cerveau qui coordonne les mouvements,  envoie une prédiction de ce que chaque mouvement auto-initié va provoquer comme sensation. Quand la sensation réelle correspond à la prédiction, votre cerveau atténue la réponse. Pas de surprise, pas de chatouillement.\n\nDes neuroscientifiques de l'University College London ont démontré cela élégamment en faisant utiliser à des sujets un bras robotique pour se chatouiller eux-mêmes. Quand le robot bougeait en temps réel avec la main du sujet, aucun chatouillement. Mais quand les chercheurs ajoutaient un minuscule délai (même seulement 200 millisecondes) la sensation devenait chatouillante. Cette petite imprévisibilité suffisait à contourner la prédiction du cervelet.\n\nCe mécanisme existe pour une raison essentielle : votre cerveau doit distinguer entre les sensations que vous causez et celles causées par le monde extérieur. Si votre cerveau ne filtrait pas le toucher auto-généré, vous seriez constamment distrait par la sensation de vos propres vêtements, de votre langue dans votre bouche, de vos paupières qui clignent. L'impossibilité de vous chatouiller est en fait une fonctionnalité d'un système sophistiqué de filtrage sensoriel qui vous permet de vous concentrer sur ce qui compte : les stimuli externes qui pourraient signaler une opportunité ou un danger.",
-        "image": "",
+        "date": "2026-03-20",
+        "title": "Les corbeaux n'oublient jamais un visage",
+        "summary": "Les corbeaux reconnaissent les visages humains pendant des années — et ils gardent rancune. Si vous offensez un corbeau, toute sa communauté s'en souviendra.",
+        "body": "Des chercheurs de l'Université de Washington ont découvert que les corbeaux d'Amérique peuvent reconnaître et mémoriser des visages humains individuels pendant des années. Dans des expériences, des scientifiques portant des masques spécifiques ont capturé et bagué des corbeaux. Des mois plus tard, les corbeaux harcelaient et plongeaient sur quiconque portait ce masque — même des personnes que les oiseaux n'avaient jamais rencontrées. La rancune s'est propagée socialement : les corbeaux qui n'avaient pas été capturés mais avaient été témoins de l'événement ont aussi appris à attaquer le visage menaçant. Des scanners cérébraux ont révélé que les corbeaux traitent les visages dans une région analogue à l'aire fusiforme des visages chez l'humain.",
+        "image": "https://picsum.photos/seed/crows/480/480",
+        "category": "nature",
+        "references": [
+            {
+                "label": "Université de Washington",
+                "url": "https://www.washington.edu/news/2012/09/10/crows-react-to-threats-in-human-like-way/"
+            }
+        ]
+    },
+    {
+        "date": "2026-03-21",
+        "title": "L'effet de la porte",
+        "summary": "Traverser une porte réinitialise littéralement votre mémoire. Votre cerveau archive les pensées de l'ancienne pièce et ouvre un espace de travail vierge — même dans des environnements virtuels.",
+        "body": "Vous êtes déjà entré dans une pièce et avez immédiatement oublié pourquoi vous y étiez allé ? Les psychologues appellent cela « l'effet de la porte ». Les recherches de Gabriel Radvansky à l'Université de Notre Dame ont montré que passer une porte crée une « frontière événementielle » dans l'esprit. Votre cerveau archive les pensées associées à la pièce précédente et ouvre un nouvel espace mental pour la nouvelle. L'effet persiste même dans les environnements virtuels — les sujets testés oubliaient plus d'éléments après avoir traversé une porte virtuelle qu'après avoir parcouru la même distance dans une seule pièce.",
         "category": "psychology",
         "references": [
             {
-                "label": "Nature Neuroscience",
-                "url": "https://www.nature.com/articles/nn1198_635"
-            },
-        ]
-    },
-    {
-        "date": "2026-04-09",
-        "title": "Les requins sont plus vieux que les arbres",
-        "summary": "Les requins existent depuis environ 450 millions d'années. Les arbres ne sont apparus qu'il y a 350 millions d'années. Les requins ont régné sur les océans pendant 100 millions d'années avant la première forêt.",
-        "body": "Les requins nagent dans les océans terrestres depuis environ 450 millions d'années. Les arbres, en revanche, ne sont apparus qu'il y a environ 350 millions d'années. Cela signifie que les requins ont précédé les forêts d'approximativement 100 millions d'années. Quand les premiers arbres primitifs commençaient tout juste à enfoncer leurs racines dans le sol, les requins étaient déjà anciens.\n\nPour mettre les choses en perspective : les requins sont plus vieux que les dinosaures d'environ 200 millions d'années. Ils ont survécu à l'extinction du Dévonien tardif, à la Grande Extinction permienne (qui a éliminé 96% des espèces marines), à l'extinction du Trias-Jurassique, et à l'astéroïde qui a tué les dinosaures il y a 66 millions d'années. Cinq extinctions de masse, et les requins ont traversé chacune d'entre elles.\n\nCe qui est remarquable, c'est que le plan corporel des requins n'a pas changé de manière spectaculaire au cours de cette immense durée. Le design de base, fait d'un squelette cartilagineux, de rangées multiples de dents remplaçables, et d'un corps hydrodynamique fonctionne si bien que l'évolution l'a largement laissé intact. Les requins modernes ne sont pas identiques à leurs ancêtres, mais le schéma est reconnaissable. Dans un monde obsédé par la disruption et l'innovation, les requins sont un argument de 450 millions d'années en faveur de la puissance de bien faire les choses du premier coup.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/White_shark.jpg/960px-White_shark.jpg",
-        "category": "nature",
-        "references": [
-            {
-                "label": "Smithsonian Ocean",
-                "url": "https://ocean.si.edu/ocean-life/sharks-rays/sharks"
-            },
-            {
-                "label": "Wikipedia",
-                "url": "https://en.wikipedia.org/wiki/Tree#:~:text=Evolutionary%20history,-Further%20information%3A%20Evolutionary&text=The%20earliest%20trees%20were%20tree,about%20385%20million%20years%20ago)."
+                "label": "Quarterly Journal of Experimental Psychology",
+                "url": "https://journals.sagepub.com/doi/10.1080/17470218.2011.571267"
             }
         ]
     },
     {
-        "date": "2026-04-08",
-        "title": "Votre corps brille dans le noir",
-        "summary": "Le corps humain émet de la lumière visible — une bioluminescence 1 000 fois trop faible pour vos yeux. Vous brillez littéralement en ce moment.",
-        "body": "Vous êtes lumineux. Pas au sens figuré, au sens propre. En 2009, des scientifiques japonais équipés de caméras extraordinairement sensibles ont démontré que le corps humain émet des photons visibles, à une intensité environ 1 000 fois inférieure au seuil de détection de l'œil humain. Vous brillez, mais vous ne pouvez pas le voir.\n\nCette lumière provient de réactions biochimiques impliquant des radicaux libres et des molécules fluorescentes dans les cellules de votre peau. Elle suit un rythme quotidien : la luminescence est la plus faible le matin et la plus forte en fin d'après-midi, particulièrement autour du visage et du cou. Cela s'explique par le fait que l'activité métabolique — le moteur chimique de ces réactions photoniques — fluctue au cours de la journée.\n\nCette émission de biophotons est entièrement distincte du rayonnement thermique (la chaleur infrarouge que votre corps dégage et que les caméras de vision nocturne détectent). Il s'agit de véritables photons du spectre visible — le même type de lumière qu'une lampe ou une étoile, juste absurdement faible. Certains chercheurs spéculent que cette émission photonique ultra-faible pourrait jouer un rôle dans la communication cellulaire, bien que cela reste controversé. Ce qui ne l'est pas, c'est le fait lui-même : vous avez passé toute votre vie comme une source de lumière visible, un bâton lumineux humain trop faible pour que quiconque le remarque.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Mycena_chlorophos.jpg/500px-Mycena_chlorophos.jpg",
-        "category": "science",
+        "date": "2026-03-22",
+        "title": "La langue sans mot pour la guerre",
+        "summary": "Une tribu d'Amazonie parle une langue sans nombres, sans passé et sans futur. Ils vivent entièrement dans le moment présent.",
+        "body": "Le peuple Pirahã de l'Amazonie brésilienne parle une langue qui a déconcerté les linguistes pendant des décennies. Elle n'a pas de nombres, pas de termes de couleur, pas de concept de gauche et droite, et pas de mythes de création. Le linguiste Daniel Everett, qui a vécu avec la tribu pendant des années, affirme qu'elle manque aussi de récursivité — la capacité d'imbriquer des phrases dans des phrases — ce que Noam Chomsky avait soutenu être une caractéristique universelle de toutes les langues humaines. Les Pirahã vivent entièrement dans le présent : ils n'ont ni passé ni futur. Leur langue reflète une vision du monde centrée exclusivement sur l'expérience immédiate et directe.",
+        "image": "https://picsum.photos/seed/piraha/480/480",
+        "category": "culture",
         "references": [
             {
-                "label": "PLoS ONE Study",
-                "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0006256"
-            },
-            {
-                "label": "The Guardian",
-                "url": "https://www.theguardian.com/science/blog/2009/jul/17/human-bioluminescence"
+                "label": "The New Yorker",
+                "url": "https://www.newyorker.com/magazine/2007/04/16/the-interpreter-2"
             }
         ]
     },
     {
-        "date": "2026-03-26",
-        "title": "Votre ADN est composé à 8% de virus",
-        "summary": "Des virus anciens ont inséré leur code génétique dans celui de nos ancêtres il y a des millions d'années. Aujourd'hui, 8% de votre ADN est d'origine virale — et certains de ces fragments sont essentiels à votre survie.",
-        "body": "On aime se penser comme des êtres purement humains, mais la réalité est bien plus troublante. Environ 8% de notre génome est constitué de séquences provenant de rétrovirus qui ont infecté nos ancêtres il y a des millions d'années. Ces virus ont littéralement fusionné leur code génétique avec le nôtre, et il y est resté.\n\nLe plus fascinant, c'est que certains de ces fragments viraux ne sont pas de simples passagers clandestins. La syncytine, une protéine essentielle à la formation du placenta chez les mammifères, provient directement d'un ancien rétrovirus. Sans cette infection virale survenue il y a environ 25 millions d'années, la grossesse telle que nous la connaissons n'existerait probablement pas.\n\nCes rétrovirus endogènes humains, ou HERV, représentent environ 98 000 fragments dans notre ADN. La plupart sont devenus silencieux au fil de l'évolution, mais certains continuent de jouer des rôles dans notre système immunitaire et notre développement embryonnaire. En un sens, nous sommes tous un peu des chimères — un mélange d'humain et de virus, forgé par des millions d'années de coévolution.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Coronavirus._SARS-CoV-2.png/500px-Coronavirus._SARS-CoV-2.png",
-        "category": "science",
+        "date": "2026-03-23",
+        "title": "Le nombre qui brise les probabilités",
+        "summary": "Dans une pièce de seulement 23 personnes, il y a plus de 50% de chances que deux partagent un anniversaire. Avec 70 personnes, c'est 99,9%. Votre intuition vous ment.",
+        "body": "Dans un groupe de seulement 23 personnes, il y a plus de 50% de chances que deux d'entre elles partagent la même date d'anniversaire. Avec 70 personnes, la probabilité dépasse 99,9%. C'est le paradoxe des anniversaires — et il semble impossible parce que nous comparons instinctivement une personne à toutes les autres, plutôt que de considérer chaque paire possible. Avec 23 personnes, il y a 253 paires uniques, chacune une chance indépendante de correspondance. Le paradoxe a des applications réelles : il explique pourquoi les collisions de hachage cryptographique sont plus fréquentes que prévu.",
+        "category": "numbers",
         "references": [
             {
-                "label": "Nature Reviews Genetics",
-                "url": "https://www.nature.com/articles/nrg3199"
-            },
-            {
-                "label": "The Scientist",
-                "url": "https://www.the-scientist.com/ancient-viral-dna-plays-a-role-in-human-disease-and-development-70656"
+                "label": "Scientific American",
+                "url": "https://www.scientificamerican.com/article/bring-science-home-probability-birthday-paradox/"
             }
         ]
     },
     {
-        "date": "2026-04-07",
-        "title": "Oxford est plus ancienne que l'Empire aztèque",
-        "summary": "L'enseignement a commencé à Oxford dès 1096. L'Empire aztèque n'a été fondé qu'en 1428. Oxford donnait des cours depuis plus de trois siècles quand Tenochtitlan est née.",
-        "body": "L'Université d'Oxford a commencé à dispenser des cours dès 1096, ce qui en fait l'une des plus anciennes universités du monde occidental. L'Empire aztèque, lui, n'a été fondé qu'en 1428 avec la Triple Alliance de Tenochtitlan, Texcoco et Tlacopan. Quand les Aztèques posaient les fondations de leur civilisation, Oxford formait des étudiants depuis plus de trois siècles.\n\nCe décalage est déroutant parce que notre cerveau range instinctivement les Aztèques dans la catégorie « civilisations anciennes » et Oxford dans celle des « institutions modernes ». En réalité, les Aztèques étaient un empire relativement jeune quand les Espagnols sont arrivés en 1519 — il n'avait même pas un siècle d'existence.\n\nCe genre de comparaison révèle à quel point notre carte mentale de l'histoire est déformée. On imagine les civilisations précolombiennes comme infiniment anciennes parce qu'elles ont disparu, et les institutions européennes comme éternellement jeunes parce qu'elles existent encore. La réalité est plus nuancée : l'histoire n'est pas une ligne droite avec le « vieux » d'un côté et le « nouveau » de l'autre. C'est un enchevêtrement de chronologies qui se chevauchent de manière souvent surprenante.",
-        "image": "https://cdn.britannica.com/03/117103-050-F4C2FC83/view-University-of-Oxford-England-Oxfordshire.jpg",
-        "category": "history",
+        "date": "2026-03-24",
+        "title": "Le miel ne se gâte jamais",
+        "summary": "Des archéologues ont trouvé du miel vieux de 3 000 ans dans des tombes égyptiennes — encore parfaitement comestible. Les abeilles ont créé l'un des conservateurs les plus parfaits de la nature.",
+        "body": "Des archéologues ont trouvé des pots de miel vieux de 3 000 ans dans des tombes égyptiennes, encore parfaitement comestibles. La durée de conservation quasi éternelle du miel provient d'une combinaison remarquable de facteurs : sa faible teneur en eau (environ 17%) prive les bactéries d'humidité, sa forte concentration en sucre crée une pression osmotique qui fait éclater les cellules microbiennes, et l'enzyme glucose oxydase — ajoutée par les abeilles pendant la production — génère de petites quantités de peroxyde d'hydrogène. De plus, le miel est naturellement acide, avec un pH entre 3 et 4,5. Ensemble, ces propriétés créent un environnement où presque rien ne peut pousser.",
+        "image": "https://picsum.photos/seed/honey/480/480",
+        "category": "diverse",
         "references": [
             {
-                "label": "University of Oxford - History",
-                "url": "https://www.ox.ac.uk/about/organisation/history"
-            },
-            {
-                "label": "Wikipedia - Aztec Empire",
-                "url": "https://en.wikipedia.org/wiki/Aztec_Empire"
-            },
-            {
-                "label": "Britannica - Aztec",
-                "url": "https://www.britannica.com/topic/Aztec"
-            }
-        ]
-    },
-    {
-        "date": "2026-03-27",
-        "title": "Le miel ne périme jamais",
-        "summary": "Des archéologues ont trouvé du miel vieux de 3 000 ans dans des tombes égyptiennes — encore parfaitement comestible. Les abeilles ont créé l'un des conservateurs naturels les plus parfaits qui existent.",
-        "body": "Des archéologues ont ouvert des tombes égyptiennes vieilles de trois millénaires et y ont trouvé des pots de miel encore parfaitement comestibles. Pas altéré, pas fermenté — comestible. Comment est-ce possible ? La réponse tient dans une combinaison presque miraculeuse de propriétés chimiques.\n\nLe miel contient environ 17% d'eau, ce qui est trop peu pour que les bactéries puissent survivre. Sa concentration en sucre est si élevée qu'elle crée une pression osmotique qui fait littéralement éclater les cellules microbiennes. En prime, les abeilles ajoutent une enzyme, la glucose oxydase, qui produit de petites quantités de peroxyde d'hydrogène — un antiseptique naturel. Le tout baigne dans un pH acide entre 3 et 4,5.\n\nLe miel est donc un environnement dans lequel presque rien de vivant ne peut se développer. C'est un conservateur si parfait que les anciens Égyptiens l'utilisaient aussi pour embaumer les morts et conserver les fruits. Si vous trouvez un vieux pot de miel cristallisé au fond d'un placard, n'hésitez pas : un léger réchauffage au bain-marie et il sera comme neuf.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Runny_hunny.jpg/500px-Runny_hunny.jpg",
-        "category": "nature",
-        "references": [
-            {
-                "label": "Smithsonian Magazine",
+                "label": "Smithsonian",
                 "url": "https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/"
-            },
-            {
-                "label": "Wikipedia",
-                "url": "https://en.wikipedia.org/wiki/Honey"
             }
         ]
     },
     {
-        "date": "2026-03-28",
-        "title": "Le nombre de Dunbar : 150 relations maximum",
-        "summary": "Vos 2 000 amis Facebook sont une illusion. L'anthropologue Robin Dunbar a démontré que notre cerveau ne peut maintenir que 150 relations sociales stables. Au-delà, il faut des règles et des institutions.",
-        "body": "Dans les années 1990, l'anthropologue britannique Robin Dunbar a observé une corrélation entre la taille du néocortex des primates et la taille de leurs groupes sociaux. En extrapolant au cerveau humain, il a estimé que nous ne pouvons maintenir que 150 relations sociales stables — des personnes que vous reconnaîtriez et avec lesquelles vous pourriez avoir une interaction non gênante si vous les croisiez dans un café.\n\nCe nombre de 150 apparaît partout. C'est la taille moyenne d'un village néolithique, d'une compagnie militaire romaine, d'une communauté amish, et de la plupart des entreprises qui fonctionnent sans bureaucratie formelle. Au-delà de 150, les groupes humains ont besoin de hiérarchies, de règles et de normes sociales pour rester cohérents. En dessous, la confiance mutuelle suffit.\n\nÀ l'ère des réseaux sociaux, le nombre de Dunbar est plus pertinent que jamais. Vous pouvez avoir 2 000 « amis » sur Facebook, mais des études montrent que vous n'interagissez régulièrement qu'avec 5 à 15 d'entre eux. Dunbar lui-même distingue des cercles concentriques : 5 relations intimes, 15 amis proches, 50 bons amis, et 150 relations stables. Au-delà, ce ne sont que des connaissances — des visages que votre cerveau n'a tout simplement pas la capacité de gérer.",
-        "image": "https://www.sciencesetavenir.fr/assets/img/2015/08/27/cover-r4x3w1200-57dfa1508d7a0-cerveau.jpg",
-        "category": "psychology",
+        "date": "2026-03-25",
+        "title": "Le poids d'un nuage",
+        "summary": "Un seul nuage pèse autant que 100 éléphants. Il flotte quand même — car le poids seul ne détermine pas si quelque chose monte ou descend.",
+        "body": "Un nuage cumulus moyen pèse environ 500 000 kilogrammes — à peu près le poids de 100 éléphants. Malgré cette masse stupéfiante, les nuages flottent car leurs gouttelettes d'eau sont réparties sur un volume immense, rendant la densité bien inférieure à celle de l'air sec environnant. Les courants ascendants d'air chaud en dessous fournissent une portance continue. C'est un beau rappel que le poids seul ne détermine pas si quelque chose monte ou descend — la distribution et l'environnement comptent tout autant.",
+        "image": "https://picsum.photos/seed/clouds/480/480",
+        "category": "diverse",
         "references": [
             {
-                "label": "BBC",
-                "url": "https://www.bbc.com/future/article/20191001-dunbars-number-why-we-can-only-maintain-150-relationships"
+                "label": "NOAA",
+                "url": "https://www.noaa.gov/education"
             },
             {
-                "label": "Royal Society Open Science",
-                "url": "https://royalsocietypublishing.org/doi/10.1098/rsos.150292"
-            }
-        ]
-    },
-    {
-        "date": "2026-03-29",
-        "title": "Shakespeare a inventé plus de 1 700 mots",
-        "summary": "« Eyeball », « lonely », « generous », « assassination » — tous inventés par Shakespeare. Il a créé plus de 1 700 mots anglais, dont beaucoup sont utilisés quotidiennement sans que personne ne le sache.",
-        "body": "William Shakespeare n'était pas seulement un dramaturge de génie — c'était aussi un fabricant de mots prolifique. On lui attribue l'invention ou la première utilisation écrite de plus de 1 700 mots anglais : « eyeball » (globe oculaire), « lonely » (solitaire), « generous » (généreux), « assassination » (assassinat), « bedroom » (chambre à coucher), « addiction » (dépendance) et même « swagger » (fanfaronnade).\n\nIl faut nuancer : « inventer » un mot signifie ici qu'il est le premier à l'avoir utilisé par écrit dans un document qui a survécu. Certains de ces mots existaient probablement à l'oral avant lui. Mais sa contribution reste colossale — il a aussi inventé des expressions comme « break the ice » (briser la glace), « wild goose chase » (chasse à l'oie sauvage, devenu « entreprise vaine ») et « heart of gold » (cœur d'or).\n\nCe qui rend Shakespeare unique, ce n'est pas seulement le volume de ses néologismes, mais leur taux de survie. La plupart des mots inventés par un auteur meurent avec lui. Les siens sont devenus si naturels qu'on ne les reconnaît même plus comme des inventions. Le fait que vous puissiez utiliser le mot « lonely » dans une conversation sans penser à Shakespeare est peut-être son plus grand tour de force.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/William_Shakespeare_by_John_Taylor%2C_edited.jpg/960px-William_Shakespeare_by_John_Taylor%2C_edited.jpg",
-        "category": "culture",
-        "references": [
-            {
-                "label": "Shakespeare online",
-                "url": "https://www.shakespeare-online.com/biography/wordsinvented.html"
-            },
-            {
-                "label": "British Council",
-                "url": "https://englishonline.britishcouncil.org/blog/articles/a-closer-look-at-everyday-words-shakespeare-invented/"
-            }
-        ]
-    },
-    {
-        "date": "2026-03-30",
-        "title": "Un jour sur Vénus dure plus longtemps que son année",
-        "summary": "Vénus met 243 jours terrestres pour tourner sur elle-même, mais seulement 225 jours pour faire le tour du Soleil. Un jour vénusien dure donc plus longtemps qu'une année vénusienne.",
-        "body": "Vénus est la planète de tous les paradoxes. Elle met 243 jours terrestres pour effectuer une rotation complète sur son axe, mais seulement 225 jours pour boucler son orbite autour du Soleil. Résultat : un jour vénusien (au sens astronomique) dure plus longtemps qu'une année vénusienne. Si vous fêtiez votre anniversaire sur Vénus, il arriverait avant la fin de votre « journée ».\n\nEt comme si ça ne suffisait pas, Vénus tourne à l'envers. Elle est l'une des deux seules planètes du système solaire (avec Uranus) à avoir une rotation rétrograde : le Soleil s'y lève à l'ouest et se couche à l'est. Les astronomes ne savent toujours pas exactement pourquoi, mais l'hypothèse principale est qu'un impact géant l'a retournée à un moment de son histoire, ou que des effets de marée atmosphérique ont progressivement inversé sa rotation.\n\nMalgré ces bizarreries, Vénus est souvent surnommée la « sœur jumelle » de la Terre en raison de sa taille et de sa masse similaires. Mais les ressemblances s'arrêtent là : sa surface atteint 465°C (assez pour faire fondre le plomb), sa pression atmosphérique est 90 fois celle de la Terre, et son atmosphère est composée à plus de 96% de CO2. C'est un exemple terrifiant de ce que l'effet de serre peut faire quand il s'emballe, une leçon que l'on ferait bien de méditer.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/PIA23791-Venus-RealAndEnhancedContrastViews-20200608_%28cropped%29.jpg/960px-PIA23791-Venus-RealAndEnhancedContrastViews-20200608_%28cropped%29.jpg",
-        "category": "numbers",
-        "references": [
-            {
-                "label": "NASA",
-                "url": "https://science.nasa.gov/venus/venus-facts/"
-            },
-            {
-                "label": "CNES",
-                "url": "https://cnes.fr/dossiers/planete-venus"
-            }
-        ]
-    },
-    {
-        "date": "2026-03-31",
-        "title": "Les bananes sont radioactives",
-        "summary": "Chaque banane que vous mangez contient du potassium-40, un isotope radioactif. Pas de panique : il faudrait en manger 10 millions d'un coup pour que ça devienne un problème.",
-        "body": "La prochaine fois que vous pelez une banane, sachez que vous tenez un fruit légèrement radioactif. Les bananes sont riches en potassium, et environ 0,012% de ce potassium est du potassium-40, un isotope naturellement radioactif. C'est tellement connu en physique nucléaire qu'on a même créé une unité informelle : la « dose équivalente en bananes ».\n\nRassurez-vous, le danger est absolument nul. Votre corps régule en permanence son taux de potassium : quand vous en absorbez davantage, vous en éliminez autant. Il faudrait manger environ 10 millions de bananes d'un seul coup pour recevoir une dose de radiation mortelle. Votre estomac lâcherait bien avant vos cellules.\n\nCe qui est vraiment intéressant, c'est que cette anecdote illustre à quel point la radioactivité est omniprésente dans la nature. Le sol sous vos pieds, le granit de vos murs, même votre propre corps — tout émet un peu de rayonnement. La banane nous rappelle que la radioactivité n'est pas forcément synonyme de danger : c'est une question de dose, et la nature sait très bien gérer les siennes.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cavendish_Banana_DS.jpg/500px-Cavendish_Banana_DS.jpg",
-        "category": "science",
-        "references": [
-            {
-                "label": "EPA - Radiation Doses",
-                "url": "https://www.epa.gov/radiation/radiation-sources-and-doses"
-            },
-            {
-                "label": "Forbes",
-                "url": "https://www.forbes.com/sites/quora/2016/10/18/yes-bananas-are-radioactive-and-yes-you-should-keep-eating-them-anyway/"
-            },
-            {
-                "label": "Wikipedia",
-                "url": "https://en.wikipedia.org/wiki/Banana_equivalent_dose"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-01",
-        "title": "Les pieuvres auraient une main préférée",
-        "summary": "Des biologistes marins auraient observé que certaines pieuvres privilégient systématiquement un bras pour explorer, attraper des objets ou manipuler leur environnement. Une forme de latéralisation comparable à notre droitier-gaucher.",
-        "body": "On sait déjà que les pieuvres sont parmi les animaux les plus étonnants du règne marin : elles résolvent des problèmes, ouvrent des bocaux, reconnaissent certains humains et semblent parfois faire preuve d'une curiosité presque inquiétante. Il n'aurait donc rien de très absurde d'imaginer qu'elles possèdent aussi une forme de latéralisation — autrement dit, une préférence pour l'usage d'un bras plutôt qu'un autre, un peu comme les humains sont droitiers ou gauchers.\n\nSelon des études récentes, certaines pieuvres utiliseraient plus souvent un même bras pour explorer une cavité, saisir de la nourriture ou manipuler des objets complexes. Les biologistes auraient même remarqué que cette préférence varierait selon les espèces, l'âge de l'animal et peut-être même son tempérament.\n\nPlus étrange encore, les chercheurs auraient soupçonné que les pieuvres stressées deviennent temporairement ambidextres, comme si leur cerveau redistribuait les priorités motrices en situation d'urgence.",
-        "image": "https://s.francaisfacile.rfi.fr/media/display/2d42d018-cfd9-11ed-b7bb-005056a90284/w:1280/p:16x9/b1_fp_poisson_d_avril_iStock-1138136178.jpg",
-        "category": "science",
-        "references": [
-            {
-                "label": "Wikipedia",
-                "url": "https://en.wikipedia.org/wiki/April_Fools%27_Day"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-03",
-        "title": "Cléopâtre a vécu plus près de l'iPhone que des pyramides",
-        "summary": "Cléopâtre est née en 69 av. J.-C. La Grande Pyramide date de 2560 av. J.-C. Elle était déjà vieille de 2 500 ans du temps de Cléopâtre, qui est plus proche de nous dans le temps que des bâtisseurs de pyramides.",
-        "body": "Voici un fait qui va recalibrer votre perception de l'histoire : Cléopâtre VII, la dernière reine d'Égypte, est née en 69 avant J.-C. La Grande Pyramide de Gizeh a été construite vers 2560 avant J.-C. Ce qui signifie que les pyramides avaient déjà près de 2 500 ans quand Cléopâtre les regardait — elles étaient aussi anciennes pour elle que Cléopâtre l'est pour nous.\n\nAutrement dit, Cléopâtre vivait chronologiquement plus près du lancement de l'iPhone (2007) que de la construction des pyramides. Le calcul est simple : environ 2 076 ans nous séparent de sa naissance, contre 2 491 ans entre elle et les pyramides. L'Égypte ancienne a duré si longtemps que nous avons tendance à écraser mentalement toute cette histoire en un seul bloc.\n\nCette distorsion est ce que les historiens appellent la compression temporelle. On imagine Cléopâtre et les pharaons bâtisseurs comme des contemporains, alors qu'ils sont séparés par un gouffre temporel vertigineux. Pour mettre les choses en perspective : quand Cléopâtre visitait les pyramides, c'étaient déjà des attractions touristiques antiques, couvertes de graffitis de visiteurs grecs.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/960px-All_Gizah_Pyramids.jpg",
-        "category": "history",
-        "references": [
-            {
-                "label": "Britannica - Cleopatra",
-                "url": "https://www.britannica.com/biography/Cleopatra-queen-of-Egypt"
-            },
-            {
-                "label": "ARCE",
-                "url": "https://arce.org/resource/cleopatra-vii-scholar-patron-queen"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-04",
-        "title": "Il y a plus d'arbres sur Terre que d'étoiles dans la Voie lactée",
-        "summary": "La Terre abrite environ 3 000 milliards d'arbres, contre 100 à 400 milliards d'étoiles dans notre galaxie. Mais nous en perdons 10 milliards par an — le compteur tourne dans le mauvais sens.",
-        "body": "En 2015, une étude publiée dans Nature a stupéfié la communauté scientifique : la Terre abrite environ 3 000 milliards d'arbres. C'est environ huit fois plus que les estimations précédentes, et surtout, c'est bien plus que le nombre d'étoiles dans la Voie lactée, estimé entre 100 et 400 milliards.\n\nCe chiffre peut donner l'impression que tout va bien, mais la réalité est moins rose. Nous perdons environ 10 milliards d'arbres par an à cause de la déforestation, de l'agriculture et de l'urbanisation. Depuis le début de la civilisation humaine, le nombre total d'arbres sur la planète a chuté de 46%. Au rythme actuel, nous retirons en un an ce que la nature met des décennies à reconstruire.\n\nCe qui rend cette comparaison saisissante, c'est qu'elle inverse notre perception habituelle. On imagine l'espace comme infiniment vaste et la Terre comme modeste, mais en termes de « choses à compter », notre petite planète bleue bat notre galaxie entière. Chaque arbre est une machine biologique qui capture le carbone, produit de l'oxygène, abrite des espèces et régule le climat. Trois mille milliards de machines comme ça, et on les traite comme si elles étaient inépuisables.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ESO-VLT-Laser-phot-33a-07.jpg/960px-ESO-VLT-Laser-phot-33a-07.jpg",
-        "category": "nature",
-        "references": [
-            {
-                "label": "WSL",
-                "url": "https://www.wsl.ch/fr/news/combien-y-a-t-il-darbres-sur-la-planete"
-            },
-            {
-                "label": "Wikipedia - Voie Lactée",
-                "url": "https://fr.wikipedia.org/wiki/Voie_lactée"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-05",
-        "title": "La Joconde n'a pas de sourcils",
-        "summary": "Mona Lisa n'a ni sourcils ni cils. Pendant des siècles, on a cru que c'était un choix esthétique de Léonard de Vinci. En 2007, un scan haute résolution a révélé qu'ils avaient simplement disparu avec le temps.",
-        "body": "Regardez attentivement la Joconde : elle n'a ni sourcils ni cils. Pendant des siècles, cette absence a alimenté les théories les plus variées. Certains y voyaient un reflet de la mode de la Renaissance, où les femmes s'épilaient le front et les sourcils pour paraître plus élégantes. D'autres pensaient que c'était une décision artistique délibérée de Léonard de Vinci.\n\nEn 2007, l'ingénieur français Pascal Cotte a photographié le tableau avec une caméra multispectrale de 240 mégapixels, capable de voir au-delà des couches de vernis et de peinture. Verdict : Léonard avait bien peint des sourcils et des cils, mais ils ont disparu au fil des siècles, probablement effacés par des restaurations maladroites et le vieillissement naturel des pigments les plus fins.\n\nCette découverte nous rappelle que les œuvres d'art que nous voyons aujourd'hui ne sont pas exactement celles que leurs créateurs ont peintes. La Joconde a été vernie, nettoyée, transférée sur un autre support, et son fameux sfumato — cette brume qui donne au visage son mystère — s'est probablement estompé avec le temps. Le tableau que cinq millions de visiteurs admirent chaque année au Louvre est une version altérée de l'original. Le vrai sourire de Mona Lisa, personne ne l'a vu depuis des siècles.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/960px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
-        "category": "culture",
-        "references": [
-            {
-                "label": "RTL",
-                "url": "https://www.rtl.fr/culture/culture-generale/pourquoi-la-joconde-n-a-pas-de-sourcils-7900249152"
-            },
-            {
-                "label": "Wikipedia",
-                "url": "https://en.wikipedia.org/wiki/Mona_Lisa#:~:text=In%202007%2C%20French%20engineer%20Pascal,as%20a%20result%20of%20overcleaning."
-            }
-        ]
-    },
-    {
-        "date": "2026-04-06",
-        "title": "L'effet de simple exposition",
-        "summary": "Plus vous voyez quelque chose — un visage, une chanson, un logo — plus vous l'appréciez. Ce biais cognitif, découvert en 1968, explique pourquoi la publicité fonctionne même quand elle est mauvaise.",
-        "body": "En 1968, le psychologue Robert Zajonc a fait une découverte dérangeante : nous aimons davantage les choses simplement parce que nous les avons déjà vues. Il a montré des caractères chinois à des participants anglophones, certains une seule fois, d'autres jusqu'à vingt-cinq fois. Résultat : les caractères vus le plus souvent étaient systématiquement jugés plus « agréables », même si les participants ne pouvaient pas les identifier consciemment.\n\nCet « effet de simple exposition » explique énormément de choses dans notre vie quotidienne. C'est pour ça que les publicitaires matraquent le même spot en boucle — même une pub agaçante finit par créer de la familiarité, et la familiarité se transforme en préférence. C'est aussi pour ça que les chansons qu'on détestait au début finissent par nous plaire après quelques écoutes forcées à la radio.\n\nL'effet fonctionne même en dessous du seuil de conscience. Des images flashées pendant quelques millisecondes, trop brièvement pour être véritablement perçues, influencent quand même nos préférences. Le plus troublant, c'est que cet effet s'applique aussi aux visages : nous trouvons plus attirantes les personnes que nous croisons régulièrement, indépendamment de leur apparence. La familiarité ne nourrit pas le mépris, elle nourrit l'affection. À méditer la prochaine fois que vous jurez ne pas aimer une chanson !",
-        "image": "",
-        "category": "psychology",
-        "references": [
-            {
-                "label": "EBSCO",
-                "url": "https://www.ebsco.com/research-starters/psychology/mere-exposure-effect"
-            },
-            {
-                "label": "Wikipedia",
-                "url": "https://fr.wikipedia.org/wiki/Effet_de_simple_exposition1"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-02",
-        "title": "La foudre frappe la Terre 100 fois par seconde",
-        "summary": "Chaque seconde, environ 2 000 orages actifs produisent 100 éclairs sur Terre. Cela représente 8,6 millions de coups de foudre par jour, et chacun est cinq fois plus chaud que la surface du Soleil.",
-        "body": "En ce moment même, environ 2 000 orages sont actifs simultanément à la surface du globe, produisant environ 100 éclairs par seconde. Cela représente 8,6 millions de coups de foudre par jour et plus de 3 milliards par an. Contrairement à ce que l'on peut penser, la foudre n'est pas un événement rare mais plutôt un phénomène permanent et planétaire.\n\nChaque éclair atteint une température d'environ 30 000 degrés Celsius, soit cinq fois la température de la surface du Soleil. Cette chaleur extrême provoque une expansion brutale de l'air, créant l'onde de choc que nous percevons comme le tonnerre. La lumière de l'éclair voyage à 300 000 km/s, le son à seulement 340 m/s (d'où le décalage entre le flash et le grondement), ce qui vous permet d'estimer la distance de l'orage (environ 3 secondes par kilomètre).\n\nLa foudre joue aussi un rôle chimique méconnu. En traversant l'atmosphère, elle fixe l'azote et crée des composés azotés qui tombent avec la pluie et fertilisent le sol. Avant l'invention des engrais synthétiques, la foudre était l'une des principales sources naturelles d'azote pour les plantes. Un orage n'est donc pas seulement un spectacle, c'est un engrais cosmique gratuit, livré à domicile par la physique.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Lightning_Pritzerbe_01_%28MK%29.jpg/1920px-Lightning_Pritzerbe_01_%28MK%29.jpg",
-        "category": "numbers",
-        "references": [
-            {
-                "label": "Weather.gov",
-                "url": "https://www.weather.gov/mlb/lightning_facts"
-            }
-        ]
-    },
-    {
-        "date": "default",
-        "title": "Le paradoxe de la curiosité",
-        "summary": "Chercher à voir le contenu à l'avance diminue le plaisir qu'on en tire. L'anticipation active les mêmes circuits de dopamine que la récompense elle-même.",
-        "body": "Dans les années 1990, l'économiste George Loewenstein a proposé la théorie du \"fossé informationnel\" de la curiosité. Il a découvert que la curiosité naît lorsque nous percevons un écart entre ce que nous savons et ce que nous voulons savoir et que l'anticipation de combler cet écart est elle-même une source de plaisir. Votre cerveau libère de la dopamine non pas quand vous obtenez la réponse, mais quand vous sentez que vous êtes sur le point de l'obtenir.\n\nCela crée un paradoxe : les personnes qui sautent les étapes — qui regardent la dernière page d'un roman, qui avancent rapidement jusqu'à la fin — rapportent systématiquement une satisfaction moindre que celles qui laissent l'histoire se dérouler naturellement. Des études sur les \"effets de spoiler\" ont montré que si connaître la fin ne gâche pas toujours le plaisir, l'acte de chercher impatiemment, lui, le diminue. Le plaisir n'est pas seulement dans la destination ; il est dans le voyage de ne pas savoir.\n\nDes chercheurs de Caltech l'ont confirmé par imagerie cérébrale. Quand les sujets anticipaient une récompense, leur striatum ventral (le centre du plaisir du cerveau) s'activait davantage pendant la période d'attente que pendant la récompense elle-même. L'attente n'est pas juste tolérable, elle EST le plaisir. Chaque fois que vous résistez à l'envie de sauter en avant, vous maximisez en réalité votre propre satisfaction. La patience, il s'avère, n'est pas seulement une vertu — c'est une stratégie dopaminergique.",
-        "image": "",
-        "category": "psychology",
-        "references": [
-            {
-                "label": "Loewenstein - The Psychology of Curiosity",
-                "url": "https://www.cmu.edu/dietrich/sds/docs/loewenstein/PsychofCuriosity.pdf"
-            },
-            {
-                "label": "Caltech - Anticipation and Reward",
-                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4252494/"
+                "label": "National Geographic",
+                "url": "https://www.nationalgeographic.com/science/article/clouds"
             }
         ]
     }

@@ -1,321 +1,115 @@
 [
     {
-        "date": "2026-04-11",
-        "title": "The Shortest War Lasted 38 Minutes",
-        "summary": "In 1896, Britain declared war on the Sultanate of Zanzibar. It ended 38 minutes later with the sultan's surrender. The shortest war in recorded history.",
-        "body": "On August 27, 1896, the British Empire and the Sultanate of Zanzibar fought a war that lasted between 38 and 45 minutes, making it the shortest war in recorded history. The cause was a succession crisis: Sultan Hamad bin Thuwaini, who had been cooperative with British interests, died on August 25th. His cousin Khalid bin Barghash seized power without British approval.\n\nThe British issued an ultimatum: stand down by 9:00 AM on August 27th, or face consequences. Khalid refused and barricaded himself in the palace with about 2,800 defenders and several artillery pieces. At exactly 9:02 AM, five British warships opened fire. The palace was heavily damaged within minutes. The sultan's lone warship, an aging wooden vessel, was sunk in the harbor. By 9:40 AM, the palace flag was shot down and Khalid had fled through a back door to the German consulate.\n\nThe British suffered one casualty. Zanzibar's losses were estimated at roughly 500 killed or wounded. The lopsided nature of the conflict makes it less a \"war\" in any meaningful sense and more a violent demonstration of imperial power asymmetry. It remains a reminder that the word \"war\" can describe vastly different realities, from years-long global conflicts to brutal half-hour bombardments.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/AngloZanzibarWar.jpg",
+        "date": "2026-03-18",
+        "title": "The Speed of Light Is Slowing Down… Sort Of",
+        "summary": "In 1999, a physicist slowed light to just 17 metres per second — and two years later, stopped it entirely. Even the universe's speed limit bends under the right conditions.",
+        "body": "Light travels at 299,792,458 metres per second in a vacuum — but it never actually travels through a perfect vacuum in everyday life. When passing through glass, water, or even air, photons are absorbed and re-emitted by atoms, effectively slowing their journey. In 1999, physicist Lene Hau famously slowed light to just 17 metres per second using an ultracold sodium gas called a Bose-Einstein condensate. Two years later, she stopped it entirely. These experiments opened new doors in quantum computing and data storage, proving that even the universe's speed limit can be bent with the right conditions.",
+        "image": "https://picsum.photos/seed/lightspeed/480/480",
+        "category": "science",
+        "references": [
+            {
+                "label": "Nature",
+                "url": "https://www.nature.com/articles/nphys trackball"
+            }
+        ]
+    },
+    {
+        "date": "2026-03-19",
+        "title": "The Fall of Constantinople",
+        "summary": "A single day in 1453 ended an 1,100-year empire, sent ancient texts flooding into Europe, and ignited the Renaissance. The Middle Ages died at the walls of Constantinople.",
+        "body": "On May 29, 1453, Sultan Mehmed II breached the walls of Constantinople, ending the 1,100-year-old Byzantine Empire and reshaping the world. The Ottomans deployed a massive cannon designed by a Hungarian engineer named Orban — it was so large it required 60 oxen and 200 men to transport. The fall sent Greek scholars fleeing westward, carrying ancient texts that helped ignite the Renaissance. The city was renamed Istanbul and became the jewel of the Ottoman Empire. Historians often cite this single day as the true end of the Middle Ages.",
+        "image": "https://picsum.photos/seed/constantinople/480/480",
         "category": "history",
         "references": [
             {
                 "label": "Britannica",
-                "url": "https://www.britannica.com/event/Anglo-Zanzibar-War"
-            },
-            {
-                "label": "Wikipedia",
-                "url": "https://en.wikipedia.org/wiki/Anglo-Zanzibar_War"
+                "url": "https://www.britannica.com/event/Fall-of-Constantinople-1453"
             }
         ]
     },
     {
-        "date": "2026-04-10",
-        "title": "You Can't Tickle Yourself",
-        "summary": "Your cerebellum predicts the sensation of your own touch and cancels the tickle response. Your brain literally spoils the surprise for itself.",
-        "body": "Try to tickle yourself. It doesn't work, and the reason why reveals something profound about how your brain constructs your experience of reality. Your cerebellum, the part of the brain that coordinates movement, sends a prediction of what each self-initiated movement will feel like. When the actual sensation matches the prediction, your brain dampens the response. No surprise, no tickle.\n\nNeuroscientists at University College London demonstrated this elegantly by having subjects use a robotic arm to tickle themselves. When the robot moved in real time with the subject's hand, no tickle. But when the researchers added a tiny delay (even just 200 milliseconds) the sensation became ticklish. That small unpredictability was enough to bypass the cerebellum's prediction.\n\nThis mechanism exists for a critical reason: your brain needs to distinguish between sensations you cause and sensations caused by the outside world. If your brain didn't filter out self-generated touch, you'd be constantly distracted by the feeling of your own clothes, your tongue in your mouth, your eyelids blinking. The inability to tickle yourself is actually a feature of a sophisticated sensory filtering system that lets you focus on what matters: external stimuli that might signal opportunity or danger. The same system, incidentally, may be impaired in some forms of schizophrenia, which could explain why some patients report being able to tickle themselves.",
-        "image": "",
-        "category": "psychology",
-        "references": [
-            {
-                "label": "Nature Neuroscience",
-                "url": "https://www.nature.com/articles/nn1198_635"
-            },
-        ]
-    },
-    {
-        "date": "2026-04-09",
-        "title": "Sharks Are Older Than Trees",
-        "summary": "Sharks have existed for about 450 million years. Trees only appeared 350 million years ago. Sharks had the oceans to themselves for 100 million years before the first forest grew.",
-        "body": "Sharks have been swimming in Earth's oceans for roughly 450 million years. Trees, by contrast, didn't appear until about 350 million years ago. That means sharks predated forests by approximately 100 million years. When the first primitive trees were just beginning to push roots into soil, sharks were already ancient.\n\nTo put this in perspective: sharks are older than the dinosaurs by about 200 million years. They survived the Late Devonian extinction, the Great Permian extinction (which wiped out 96% of marine species), the Triassic-Jurassic extinction, and the asteroid that killed the dinosaurs 66 million years ago. Five mass extinctions, and sharks swam through every single one.\n\nWhat's remarkable is that shark body plans haven't changed dramatically over this immense timescale. Their basic design made of cartilaginous skeleton, multiple rows of replaceable teeth, streamlined body works so well that evolution has largely left it alone. Modern sharks are not identical to their ancient ancestors, but the blueprint is recognizably similar. They didn't need to become radically different because they were already extraordinarily good at what they do. In a world obsessed with disruption and innovation, sharks are a 450-million-year argument for the power of getting it right the first time.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/White_shark.jpg/960px-White_shark.jpg",
+        "date": "2026-03-20",
+        "title": "Crows Never Forget a Face",
+        "summary": "Crows recognise individual human faces for years — and they hold grudges. If you wrong one crow, its entire community will remember you.",
+        "body": "Researchers at the University of Washington discovered that American crows can recognise and remember individual human faces for years. In experiments, scientists wearing specific masks captured and banded crows. Months later, crows would scold and dive-bomb anyone wearing that mask — even people the birds had never encountered before. The grudge spread socially: crows who hadn't been captured but witnessed the event also learned to mob the threatening face. Brain scans revealed that crows process faces in a region analogous to the human fusiform face area, suggesting convergent evolution of facial recognition across vastly different brains.",
+        "image": "https://picsum.photos/seed/crows/480/480",
         "category": "nature",
         "references": [
             {
-                "label": "Smithsonian Ocean",
-                "url": "https://ocean.si.edu/ocean-life/sharks-rays/sharks"
-            },
-            {
-                "label": "Wikipedia",
-                "url": "https://en.wikipedia.org/wiki/Tree#:~:text=Evolutionary%20history,-Further%20information%3A%20Evolutionary&text=The%20earliest%20trees%20were%20tree,about%20385%20million%20years%20ago)."
+                "label": "University of Washington",
+                "url": "https://www.washington.edu/news/2012/09/10/crows-react-to-threats-in-human-like-way/"
             }
         ]
     },
     {
-        "date": "2026-04-08",
-        "title": "Your Body Glows in the Dark",
-        "summary": "The human body emits visible light — a faint bioluminescence 1,000 times weaker than your eyes can detect. You are literally glowing right now.",
-        "body": "You are luminous. Not metaphorically, literally. In 2009, Japanese scientists using very sensitive cameras demonstrated that the human body emits visible photons at an intensity about 1,000 times lower than the threshold of human vision. You glow, but you can't see it.\n\nThe light comes from biochemical reactions involving free radicals and fluorescent molecules in your skin cells. It follows a daily rhythm: the glow is weakest in the morning and strongest in the late afternoon, particularly around the face and neck. This makes sense when you consider that metabolic activity — the chemical engine driving these light-emitting reactions — fluctuates throughout the day.\n\nThis biophoton emission is entirely separate from thermal radiation (the infrared heat your body gives off, which night-vision cameras detect). These are actual visible-spectrum photons — the same kind of light that comes from a lamp or a star, just absurdly faint. Some researchers speculate that this ultra-weak photon emission might play a role in cellular communication, though this remains controversial. What's not controversial is the fact itself: you've been walking around your whole life as a source of visible light, a human glow stick too dim for anyone to notice.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Mycena_chlorophos.jpg/500px-Mycena_chlorophos.jpg",
-        "category": "science",
+        "date": "2026-03-21",
+        "title": "The Doorway Effect",
+        "summary": "Walking through a doorway literally resets your memory. Your brain files away the old room's thoughts and opens a fresh workspace — even in virtual environments.",
+        "body": "Ever walked into a room and immediately forgotten why you went there? Psychologists call this the 'doorway effect.' Research by Gabriel Radvansky at the University of Notre Dame showed that passing through a doorway creates an 'event boundary' in the mind. Your brain files away the thoughts associated with the previous room and opens a fresh mental workspace for the new one. The effect persists even in virtual environments — test subjects forgot more items after walking through a virtual doorway than after crossing the same distance in a single room. Your architecture is literally reshaping your memory.",
+        "category": "psychology",
         "references": [
             {
-                "label": "PLoS ONE Study",
-                "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0006256"
-            },
-            {
-                "label": "The Guardian",
-                "url": "https://www.theguardian.com/science/blog/2009/jul/17/human-bioluminescence"
+                "label": "Quarterly Journal of Experimental Psychology",
+                "url": "https://journals.sagepub.com/doi/10.1080/17470218.2011.571267"
             }
         ]
     },
     {
-        "date": "2026-03-26",
-        "title": "Your DNA Is 8% Virus",
-        "summary": "Ancient viruses embedded themselves in your ancestors' DNA millions of years ago. Today, 8% of your genome is viral — and some of it is keeping you alive.",
-        "body": "Here's something wild: about 8% of your DNA isn't really \"yours\" in the traditional sense. It's viral. Over millions of years, retroviruses infected your ancestors, inserted their genetic code into human cells, and just... stayed. These sequences, called endogenous retroviruses, got passed down generation after generation until they became a permanent part of the human genome.\n\nThe really fascinating part? Some of these viral genes aren't just freeloading. One called syncytin, originally from a retrovirus that infected our ancestors around 25 million years ago, is now essential for forming the placenta during pregnancy. Without it, mammals as we know them might not exist. Evolution basically took a viral invasion and turned it into a feature.\n\nScientists are still figuring out what most of these viral remnants do. Some appear to be completely inert — molecular fossils from infections that happened before humans even existed as a species. Others might play roles in gene regulation or immune function. A few have been linked to diseases when they reactivate. It's a strange thought: you're walking around with the genetic ghosts of ancient pandemics woven into every cell of your body, and some of them are literally keeping you alive.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Coronavirus._SARS-CoV-2.png/500px-Coronavirus._SARS-CoV-2.png",
-        "category": "science",
+        "date": "2026-03-22",
+        "title": "The Language With No Word for War",
+        "summary": "A tribe in the Amazon speaks a language with no numbers, no past tense, and no future tense. They live entirely in the present moment.",
+        "body": "The Pirahã people of the Brazilian Amazon speak a language that has baffled linguists for decades. It has no numbers, no colour terms, no concept of left and right, and no creation myths. Linguist Daniel Everett, who lived with the tribe for years, claims it also lacks recursion — the ability to nest sentences within sentences — which Noam Chomsky had argued was a universal feature of all human languages. The Pirahã live entirely in the present: they have no past tense and no future tense. Their language reflects a worldview focused exclusively on immediate, firsthand experience.",
+        "image": "https://picsum.photos/seed/piraha/480/480",
+        "category": "culture",
         "references": [
             {
-                "label": "Nature Reviews Genetics",
-                "url": "https://www.nature.com/articles/nrg3031"
-            },
-            {
-                "label": "The Scientist",
-                "url": "https://www.the-scientist.com/ancient-viral-dna-plays-a-role-in-human-disease-and-development-70656"
+                "label": "The New Yorker",
+                "url": "https://www.newyorker.com/magazine/2007/04/16/the-interpreter-2"
             }
         ]
     },
     {
-        "date": "2026-04-07",
-        "title": "Oxford University Is Older Than the Aztec Empire",
-        "summary": "Teaching began at Oxford around 1096 AD. The Aztec Empire wasn't founded until 1428. Oxford was already ancient when Tenochtitlan was being built.",
-        "body": "Oxford University started teaching in some form around 1096 AD, making it one of the oldest universities in the world. The Aztec Empire? That wasn't formally established until 1428, when the Triple Alliance of Tenochtitlan, Texcoco, and Tlacopan came together. By the time Aztec civilization was hitting its stride, Oxford had been educating students for over 300 years and had already survived plagues, wars, and faculty disputes.\n\nThis fact trips people up because we associate Oxford with the established, old-world European tradition and the Aztecs with something even more ancient and lost to time. But the Aztec Empire was actually quite young when the Spanish arrived in 1519 — less than a century old.\n\nWhat's really striking is how it challenges our unconscious biases about \"civilized\" versus \"ancient\" cultures. The Aztecs had sophisticated agriculture, astronomy, and engineering happening while Oxford scholars were debating theology in medieval Latin. These were parallel, contemporary civilizations — not sequential chapters in a history book. The world has always been more simultaneously complex than we give it credit for.",
-        "image": "https://cdn.britannica.com/03/117103-050-F4C2FC83/view-University-of-Oxford-England-Oxfordshire.jpg",
-        "category": "history",
+        "date": "2026-03-23",
+        "title": "The Number That Breaks Probability",
+        "summary": "In a room of just 23 people, there's a better than 50% chance two share a birthday. With 70 people, it's 99.9%. Your intuition is lying to you.",
+        "body": "In any group of just 23 people, there is a greater than 50% chance that two of them share a birthday. By 70 people, the probability exceeds 99.9%. This is the Birthday Paradox — and it feels impossible because we instinctively compare one person against all others, rather than considering every possible pair. With 23 people there are 253 unique pairs, each an independent chance for a match. The paradox has real-world applications: it explains why cryptographic hash collisions are more common than expected, and why seemingly 'unique' identifiers aren't as safe as they appear.",
+        "category": "numbers",
         "references": [
             {
-                "label": "University of Oxford - History",
-                "url": "https://www.ox.ac.uk/about/organisation/history"
-            },
-            {
-                "label": "Wikipedia - Aztec Empire",
-                "url": "https://en.wikipedia.org/wiki/Aztec_Empire"
-            },
-            {
-                "label": "Britannica - Aztec",
-                "url": "https://www.britannica.com/topic/Aztec"
+                "label": "Scientific American",
+                "url": "https://www.scientificamerican.com/article/bring-science-home-probability-birthday-paradox/"
             }
         ]
     },
     {
-        "date": "2026-03-27",
+        "date": "2026-03-24",
         "title": "Honey Never Spoils",
-        "summary": "Archaeologists found 3,000-year-old honey in Egyptian tombs that was still edible. Bees engineered a biochemically perfect preservative.",
-        "body": "Archaeologists have cracked open 3,000-year-old pots of honey from Egyptian tombs and found it still perfectly edible. Not \"sort of okay.\" Edible. Honey is essentially immortal, and the reasons why are a masterclass in biochemistry.\n\nIt starts with the bees. When a bee makes honey, it regurgitates nectar and fans it with its wings, driving the moisture content down to around 17% — too low for virtually any microorganism to survive. The high sugar concentration creates intense osmotic pressure that literally sucks water out of any bacteria foolish enough to land in it, killing them through dehydration. On top of that, bees add an enzyme called glucose oxidase, which produces small amounts of hydrogen peroxide (yes, the disinfectant). And honey is naturally acidic, with a pH between 3 and 4.5, creating yet another hostile environment for microbes.\n\nThe only way honey goes bad is if you introduce water. Diluted honey can ferment (which is how you make mead, so not all bad). But sealed in a dry container, it's essentially eternal. The Egyptians knew this intuitively and used honey not just as a sweetener but as a wound dressing and embalming agent. Modern medicine is circling back — medical-grade honey is now used in hospitals to treat antibiotic-resistant wound infections. Three thousand years later, we're still catching up to what bees figured out.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Runny_hunny.jpg/500px-Runny_hunny.jpg",
-        "category": "nature",
+        "summary": "Archaeologists found 3,000-year-old honey in Egyptian tombs — still perfectly edible. Bees engineered one of nature's most perfect preservatives.",
+        "body": "Archaeologists have found 3,000-year-old pots of honey in Egyptian tombs that were still perfectly edible. Honey's near-eternal shelf life comes from a remarkable combination of factors: its low water content (around 17%) starves bacteria of moisture, its high sugar concentration creates osmotic pressure that bursts microbial cells, and the enzyme glucose oxidase — added by bees during production — generates small amounts of hydrogen peroxide. On top of that, honey is naturally acidic, with a pH between 3 and 4.5. Together, these properties create an environment where almost nothing can grow, making honey one of nature's most perfect preservatives.",
+        "image": "https://picsum.photos/seed/honey/480/480",
+        "category": "diverse",
         "references": [
             {
-                "label": "Smithsonian Magazine",
+                "label": "Smithsonian",
                 "url": "https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/"
-            },
-            {
-                "label": "Wikipedia",
-                "url": "https://en.wikipedia.org/wiki/Honey"
             }
         ]
     },
     {
-        "date": "2026-03-28",
-        "title": "Dunbar's Number: You Can Only Maintain ~150 Relationships",
-        "summary": "Your 2,000 LinkedIn connections are an illusion. British anthropologist Robin Dunbar found that the human brain can maintain about 150 stable social relationships.",
-        "body": "In the 1990s, British anthropologist Robin Dunbar noticed something interesting: primate species with larger neocortexes tend to live in larger social groups. When he extrapolated this relationship to human brain size, he landed on a number: approximately 150. That's roughly how many stable social relationships the average human brain can maintain at any given time.\n\nThe number keeps showing up everywhere. Historical military units — from Roman centuries to modern company-sized units — tend to cluster around 150. Hutterite communities traditionally split when they exceed 150 members. The average number of people invited to a wedding? About 150. Gore-Tex famously caps their factory sizes at 150 employees, claiming it's the maximum at which everyone can know everyone else well enough to work effectively without formal hierarchy.\n\nDunbar's model actually describes concentric circles of intimacy. You have about 5 people in your innermost circle (your closest confidants), then 15 good friends, 50 friends, and 150 meaningful contacts. Beyond that, you might recognize faces and names, but you don't really \"know\" those people in any functional sense. Social media has given us the illusion of maintaining thousands of relationships, but your brain is still running on hardware designed for a village. Those 2,000 followers? Your brain treats most of them as strangers.",
-        "image": "https://www.sciencesetavenir.fr/assets/img/2015/08/27/cover-r4x3w1200-57dfa1508d7a0-cerveau.jpg",
-        "category": "psychology",
+        "date": "2026-03-25",
+        "title": "The Weight of a Cloud",
+        "summary": "A single cloud weighs as much as 100 elephants. It floats anyway — because weight alone doesn't determine whether something rises or falls.",
+        "body": "An average cumulus cloud weighs around 500,000 kilograms — roughly the same as 100 elephants. Despite this staggering mass, clouds float because their water droplets are spread across a vast volume, making the density far lower than the surrounding dry air. The updrafts of warm air beneath them provide continuous lift. It's a beautiful reminder that weight alone doesn't determine whether something rises or falls — distribution and environment matter just as much.",
+        "image": "https://picsum.photos/seed/clouds/480/480",
+        "category": "diverse",
         "references": [
             {
-                "label": "BBC",
-                "url": "https://www.bbc.com/future/article/20191001-dunbars-number-why-we-can-only-maintain-150-relationships"
+                "label": "NOAA",
+                "url": "https://www.noaa.gov/education"
             },
             {
-                "label": "Royal Society Open Science",
-                "url": "https://royalsocietypublishing.org/doi/10.1098/rsos.150292"
-            }
-        ]
-    },
-    {
-        "date": "2026-03-29",
-        "title": "Shakespeare Invented 1,700+ Words",
-        "summary": "Shakespeare coined over 1,700 words still used today, from \"eyeball\" to \"lonely\" to \"assassination.\" He didn't just write in English, he built it.",
-        "body": "William Shakespeare didn't just write plays — he manufactured a significant chunk of the English language. Scholars estimate he coined over 1,700 words that are still in common use today. \"Eyeball,\" \"lonely,\" \"generous,\" \"assassination,\" \"bedroom,\" \"fashionable,\" \"addiction,\" \"uncomfortable,\" \"rant\" — all Shakespeare. He didn't just describe the human condition; he literally gave us the vocabulary to discuss it.\n\nNow, \"invented\" requires a small asterisk. Shakespeare was the first person to write many of these words down, but some may have existed in spoken English before he put quill to paper. Elizabethan English was wildly flexible — you could verb any noun, adjective any verb, and nobody blinked. Shakespeare was working in a language that was still half-molten, and he pushed it further than anyone else. He also invented phrases we still use without thinking: \"break the ice,\" \"wild goose chase,\" \"heart of gold,\" \"in a pickle,\" and \"love is blind.\"\n\nWhat's genuinely staggering is the scale. Shakespeare's total written vocabulary was around 31,000 unique words — roughly double what a well-educated modern English speaker uses. He showed up at a moment when English was expanding rapidly, absorbing words from Latin, French, and Italian, and he accelerated that expansion single-handedly. The language you're reading right now would be meaningfully different without him. Not many writers can say that — and none can say it to the same degree.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/William_Shakespeare_by_John_Taylor%2C_edited.jpg/960px-William_Shakespeare_by_John_Taylor%2C_edited.jpg",
-        "category": "culture",
-        "references": [
-            {
-                "label": "Shakespeare online",
-                "url": "https://www.shakespeare-online.com/biography/wordsinvented.html"
-            },
-            {
-                "label": "British Council",
-                "url": "https://englishonline.britishcouncil.org/blog/articles/a-closer-look-at-everyday-words-shakespeare-invented/"
-            }
-        ]
-    },
-    {
-        "date": "2026-03-30",
-        "title": "A Day on Venus Is Longer Than Its Year",
-        "summary": "Venus takes 243 Earth days to rotate once but only 225 days to orbit the Sun. A single Venusian day outlasts a Venusian year.",
-        "body": "Venus is the solar system's contrarian. It takes 243 Earth days to complete a single rotation on its axis, but only 225 Earth days to orbit the Sun. That means a day on Venus (one full rotation) is longer than a Venusian year (one full orbit). You'd celebrate your birthday before the sun had fully risen and set once. If that doesn't break your brain a little, consider that Venus also rotates backward — its sun rises in the west and sets in the east.\n\nScientists call this retrograde rotation, and nobody is entirely sure why Venus does it. The leading theory is that a massive collision early in the planet's history either flipped it upside down or gradually slowed and reversed its spin through tidal interactions with its thick atmosphere. \n\nDespite all these oddities, Venus is often called Earth’s “twin sister” because of its similar size and mass. But that is where the resemblance ends. Its surface reaches 465°C (hot enough to melt lead), its atmospheric pressure is about 90 times that of Earth, and its atmosphere is more than 96% carbon dioxide. Venus is a terrifying example of what a runaway greenhouse effect can do, and a warning worth taking seriously.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/PIA23791-Venus-RealAndEnhancedContrastViews-20200608_%28cropped%29.jpg/960px-PIA23791-Venus-RealAndEnhancedContrastViews-20200608_%28cropped%29.jpg",
-        "category": "numbers",
-        "references": [
-            {
-                "label": "NASA",
-                "url": "https://science.nasa.gov/venus/venus-facts/"
-            },
-            {
-                "label": "CNES",
-                "url": "https://cnes.fr/en/folders/planet-venus"
-            }
-        ]
-    },
-    {
-        "date": "2026-03-31",
-        "title": "Bananas Are Radioactive",
-        "summary": "Every banana you eat contains radioactive potassium-40. Don't panic — you'd need to eat 10 million bananas at once for a lethal dose.",
-        "body": "You've been eating radioactive fruit your entire life and nobody told you. Bananas contain potassium-40, a naturally occurring radioactive isotope, and every single one emits a tiny amount of radiation. Scientists even invented an informal unit called the \"Banana Equivalent Dose\" (BED) to help people conceptualize radiation exposure in everyday terms.\n\nBefore you swear off smoothies forever, let's put this in perspective. The radiation from one banana is about 0.01 millirem — roughly 1/100th of a chest X-ray. You'd need to eat approximately 10 million bananas in a single sitting to accumulate a lethal radiation dose. Your body is also pretty smart about this: it regulates potassium levels tightly, so eating more bananas doesn't actually increase the total amount of potassium-40 in your body. You just excrete the excess.\n\nWhat makes this genuinely interesting isn't the bananas themselves — it's what it reveals about how we think about risk. We live in a naturally radioactive world. The ground beneath you, the air you breathe, even your own body emits radiation constantly. Bananas just happen to be the most fun example of background radiation that's been with us forever. The universe is a little spicier than we like to admit.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cavendish_Banana_DS.jpg/500px-Cavendish_Banana_DS.jpg",
-        "category": "science",
-        "references": [
-            {
-                "label": "EPA - Radiation Doses",
-                "url": "https://www.epa.gov/radiation/radiation-sources-and-doses"
-            },
-            {
-                "label": "Forbes",
-                "url": "https://www.forbes.com/sites/quora/2016/10/18/yes-bananas-are-radioactive-and-yes-you-should-keep-eating-them-anyway/"
-            },
-            {
-                "label": "Wikipedia",
-                "url": "https://en.wikipedia.org/wiki/Banana_equivalent_dose"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-01",
-        "title": "Octopuses Have a Dominant Hand",
-        "summary": "Marine biologists have reportedly observed that some octopuses consistently favor one arm to explore, grab objects, or manipulate their surroundings. A form of handedness similar to being right- or left-handed.",
-        "body": "We already know that octopuses are among the most astonishing animals in the ocean. They solve problems, open jars, recognize individual humans, and often display a kind of eerie curiosity that feels almost unsettling. So it would not be especially hard to believe that they might also show a form of lateralization — in other words, a preference for using one arm more often than the others, much like humans tend to be right- or left-handed.\n\nAccording to this fictional but suspiciously believable observation, some octopuses would repeatedly favor the same arm to inspect crevices, grab food, or manipulate complex objects. Marine biologists might even have noticed that this preference varies by species, age, and perhaps even personality. A bold octopus, after all, may not behave quite like a cautious one.\n\nEven stranger, researchers might have suggested that stressed octopuses become temporarily ambidextrous, as though their nervous system starts redistributing motor priorities in moments of emergency.",
-        "image": "https://s.francaisfacile.rfi.fr/media/display/2d42d018-cfd9-11ed-b7bb-005056a90284/w:1280/p:16x9/b1_fp_poisson_d_avril_iStock-1138136178.jpg",
-        "category": "science",
-        "references": [
-            {
-                "label": "Wikipedia",
-                "url": "https://en.wikipedia.org/wiki/April_Fools%27_Day"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-03",
-        "title": "Cleopatra Lived Closer to the iPhone Than to the Pyramids",
-        "summary": "Cleopatra lived around 30 BC. The Great Pyramid was built around 2560 BC. She's roughly 500 years closer to us than to the people who built it.",
-        "body": "This is one of those facts that genuinely breaks people's brains the first time they hear it. Cleopatra VII, the last active ruler of Ptolemaic Egypt, died in 30 BC. The Great Pyramid of Giza was completed around 2560 BC. That means roughly 2,530 years passed between the pyramid's construction and Cleopatra's lifetime. The iPhone was released in 2007 AD — only about 2,037 years after Cleopatra. She lived closer in time to us scrolling through Instagram than to the workers who stacked those limestone blocks.\n\nThe reason this feels so wrong is that we mentally compress ancient history into a single block. \"Ancient Egypt\" feels like one era, but it lasted over 3,000 years — longer than the entire span from Cleopatra to today. By the time Cleopatra ruled, the pyramids were already ancient monuments that tourists visited. She would have looked at them with the same sense of deep historical distance that we feel looking at Roman ruins.\n\nIt puts our own era into perspective too. We tend to think of human civilization as a long, slow crawl, but the timescales involved are genuinely hard to internalize. The pyramids were as old to Cleopatra as Cleopatra is to someone living in the 25th century. History is much deeper and stranger than the neat timelines in textbooks suggest.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/960px-All_Gizah_Pyramids.jpg",
-        "category": "history",
-        "references": [
-            {
-                "label": "Britannica - Cleopatra",
-                "url": "https://www.britannica.com/biography/Cleopatra-queen-of-Egypt"
-            },
-            {
-                "label": "ARCE",
-                "url": "https://arce.org/resource/cleopatra-vii-scholar-patron-queen"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-04",
-        "title": "More Trees on Earth Than Stars in the Milky Way",
-        "summary": "Earth has roughly 3 trillion trees — about 7.5 times more than the estimated 400 billion stars in our galaxy. The planet is lusher than space is sparkly.",
-        "body": "A 2015 study published in Nature estimated that Earth is home to approximately 3.04 trillion trees. The Milky Way galaxy, by comparison, contains an estimated 100 to 400 billion stars. Even using the highest star estimate, there are roughly 7.5 trees on Earth for every star in our galaxy. The planet is more forested than space is starry.\n\nThe tree count was a genuine surprise. Previous estimates had put the number at around 400 billion — off by nearly an order of magnitude. The research team, led by Thomas Crowther at Yale, combined satellite imagery with ground-level tree counts from every continent to build the most comprehensive estimate ever attempted. The highest densities are in the boreal forests of Russia, Scandinavia, and Canada, not in tropical rainforests as most people assume.\n\nBut here's the less cheerful coda: the same study estimated that the number of trees on Earth has fallen by roughly 46% since the start of human civilization. We lose about 15 billion trees per year to deforestation and land clearing, while replanting roughly 5 billion. The net loss is about 10 billion trees annually. So yes, we still have more trees than the galaxy has stars — but we're working on closing that gap faster than most people realize.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ESO-VLT-Laser-phot-33a-07.jpg/960px-ESO-VLT-Laser-phot-33a-07.jpg",
-        "category": "nature",
-        "references": [
-            {
-                "label": "WSL",
-                "url": "https://www.wsl.ch/en/news/counting-the-worlds-trees"
-            },
-            {
-                "label": "Wikipedia - Milky Way",
-                "url": "https://en.wikipedia.org/wiki/Milky_Way"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-05",
-        "title": "The Mona Lisa Has No Eyebrows",
-        "summary": "The Mona Lisa originally had eyebrows and eyelashes. They vanished over centuries of restoration, leaving the enigmatic bare-faced look we know today.",
-        "body": "If you look at the Mona Lisa closely — and millions of tourists try to every year, jostling for phone photos in the Louvre — you'll notice something odd: she has no eyebrows or eyelashes. For centuries, art historians debated whether this was Leonardo da Vinci's deliberate choice, perhaps reflecting a Renaissance fashion trend where women plucked their brows.\n\nIn 2007, French engineer Pascal Cotte used ultra-high-resolution multispectral scanning to analyze the painting at 240 megapixels. He found evidence that Leonardo did originally paint both eyebrows and eyelashes. They disappeared over time — likely erased by overzealous restoration efforts in the 16th and 17th centuries, when cleaning solvents gradually stripped away the extremely fine, translucent brushstrokes Leonardo used for these delicate features. Leonardo was famous for his sfumato technique, building up hair-thin layers of paint. Those layers were exactly what aggressive cleaning would remove first.\n\nIt's a small detail, but it changes how you see the painting. The Mona Lisa's famously enigmatic expression — that ambiguous smile that seems to shift depending on where you look — may actually owe something to the accidental removal of her eyebrows. Eyebrows are crucial for reading facial expressions. Without them, the face becomes harder to interpret, more ambiguous, more mysterious. The most famous expression in art history might be partly a restoration accident.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/960px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
-        "category": "culture",
-        "references": [
-            {
-                "label": "Paintvine",
-                "url": "https://paintvine.co.nz/blogs/news/what-happened-to-mona-lisas-eyebrows?srsltid=AfmBOooDePAx8t5lZbYU6bNKYB1dYARQ1PXAWuQgM5duCDroRfkt727n"
-            },
-            {
-                "label": "Wikipedia",
-                "url": "https://en.wikipedia.org/wiki/Mona_Lisa#:~:text=In%202007%2C%20French%20engineer%20Pascal,as%20a%20result%20of%20overcleaning."
-            }
-        ]
-    },
-    {
-        "date": "2026-04-06",
-        "title": "The Mere Exposure Effect",
-        "summary": "You like things more simply because you've seen them before. This unconscious bias shapes your taste in music, faces, and even political candidates.",
-        "body": "In 1968, psychologist Robert Zajonc showed test subjects a series of random shapes, some more frequently than others. Afterward, subjects consistently rated the shapes they'd seen more often as more \"pleasant\" — even though they couldn't consciously remember which ones they'd been shown more. He called it the mere exposure effect, and it's one of the most robust findings in all of psychology.\n\nThe effect is everywhere once you start looking. It's why radio stations play the same songs on heavy rotation — the more you hear a track, the more you tend to like it (up to a point of oversaturation). It's why brands plaster their logos everywhere even when the ads don't contain useful information. It's a factor in why we tend to find familiar faces more attractive, and some researchers believe it plays a role in elections: candidates with higher name recognition benefit from a baseline warmth that has nothing to do with their policies.\n\nWhat makes this unsettling is how completely unconscious it is. You don't decide to like familiar things more — your brain just does it automatically, below the threshold of awareness. It's probably an evolved shortcut: something you've encountered before without being harmed is statistically safer than something completely novel. But in a modern world of advertising and algorithmic recommendations, this ancient safety heuristic gets exploited constantly. Your taste is less \"yours\" than you think.",
-        "image": "",
-        "category": "psychology",
-        "references": [
-            {
-                "label": "EBSCO",
-                "url": "https://www.ebsco.com/research-starters/psychology/mere-exposure-effect"
-            },
-            {
-                "label": "Wikipedia",
-                "url": "https://en.wikipedia.org/wiki/Mere-exposure_effect"
-            }
-        ]
-    },
-    {
-        "date": "2026-04-02",
-        "title": "Lightning Strikes Earth 100 Times per Second",
-        "summary": "At any given moment, about 2,000 thunderstorms are happening worldwide, producing roughly 100 lightning strikes per second — 8.6 million per day.",
-        "body": "Right now, as you read this, there are approximately 2,000 thunderstorms happening simultaneously around the world. Together, they produce about 100 lightning bolts every single second, roughly 8.6 million strikes per day (or over 3 billion per year). The planet is basically running a continuous electrical light show that never stops.\n\nA typical lightning strike carries about 300 million volts and 30,000 amperes of current, heating the surrounding air to roughly 30,000 Kelvin, or about five times hotter than the surface of the Sun. The entire discharge happens in a few milliseconds. The thunder you hear is the sound of that superheated air expanding faster than the speed of sound. Lightning also produces X-rays and even gamma rays, making thunderstorms among the most energetic natural phenomena on the planet's surface.\n\nLightning has shaped Earth in ways most people don't appreciate. It's responsible for producing a significant portion of the nitrogen fixation in soils — the energy splits atmospheric nitrogen molecules, which then combine with oxygen and dissolve into rain as natural fertilizer. Some scientists believe lightning may have been essential for the origin of life, providing the energy needed to forge complex organic molecules from simpler precursors in Earth's early atmosphere. The same force that fries power lines and terrifies golfers might have kickstarted biology itself.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Lightning_Pritzerbe_01_%28MK%29.jpg/1920px-Lightning_Pritzerbe_01_%28MK%29.jpg",
-        "category": "numbers",
-        "references": [
-            {
-                "label": "Weather.gov",
-                "url": "https://www.weather.gov/mlb/lightning_facts"
-            }
-        ]
-    },
-    {
-        "date": "default",
-        "title": "The Curiosity Paradox",
-        "summary": "Skipping ahead to see future content actually makes you enjoy it less. The anticipation itself activates the same dopamine pathways as the reward.",
-        "body": "In the 1990s, economist George Loewenstein proposed the \"information gap\" theory of curiosity. He found that curiosity arises when we perceive a gap between what we know and what we want to know — and that the anticipation of closing that gap is itself a source of pleasure. Your brain releases dopamine not when you get the answer, but when you expect you're about to.\n\nThis creates a paradox: people who skip ahead, who peek at the last page of a novel, who fast-forward to the end consistently report lower satisfaction than those who let the story unfold naturally. Studies on \"spoiler effects\" have shown that while knowing the ending doesn't always ruin enjoyment, the act of impatient seeking does. The pleasure isn't just in the destination; it's in the journey of not knowing.\n\nResearchers at Caltech confirmed this with brain imaging. When subjects anticipated a reward, their ventral striatum — the brain's pleasure center — lit up more during the waiting period than during the actual payoff. The wait isn't just tolerable; neurologically, it IS the pleasure. Every time you resist the urge to skip ahead, you're actually maximizing your own enjoyment. Patience, it turns out, isn't just a virtue — it's a dopamine strategy.",
-        "image": "",
-        "category": "psychology",
-        "references": [
-            {
-                "label": "Loewenstein - The Psychology of Curiosity",
-                "url": "https://www.cmu.edu/dietrich/sds/docs/loewenstein/PsychofCuriosity.pdf"
-            },
-            {
-                "label": "Caltech - Anticipation and Reward",
-                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4252494/"
+                "label": "National Geographic",
+                "url": "https://www.nationalgeographic.com/science/article/clouds"
             }
         ]
     }
